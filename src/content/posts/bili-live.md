@@ -19,9 +19,9 @@ lang: 'zh_CN'
 
 [浏览器插件《我讨厌直播姬》开播方法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ksS5BKEEe/?spm_id_from=333.1387.homepage.video_card.click&vd_source=95a8a5f89540f816d1ca48c938e432bf)
 
-我也不是不用这个不想用b站自己的直播姬，而是b站的直播姬只支持Windows系统，那请问是不是完全不给其他平台的小up直播的方法呢？
+我也不是不想用b站自己的直播姬，而是b站的直播姬只支持Windows系统，请问是不是完全不给其他平台的小up直播的方法呢？
 
-我在Linux上试了wine兼容层和proton兼容层的方法，但是直播姬表示无法正确识别显卡的驱动，拒绝给我使用。因为我用的是n卡，n卡在Linux上的支持很迷，有时候我用Arch Linux的`nvidia`包有问题，但是`nvidia-open`就没问题，而反过来也一样。反正我是没搞明白。
+我在Linux上试了wine兼容层和proton兼容层的方法，但是直播姬表示无法正确识别显卡的驱动，拒绝给我使用。因为我用的是n卡，n卡在Linux上的支持很迷：有时候我用Arch Linux的`nvidia`包有问题，但是`nvidia-open`就没问题，而反过来也一样。反正我是没搞明白。
 
 （如果你有兴趣帮我查看的话就太好了）
 
