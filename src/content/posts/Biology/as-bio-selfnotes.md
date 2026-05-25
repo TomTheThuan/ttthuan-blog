@@ -1,5 +1,5 @@
 ---
-title: AS Biolody Selfnotes
+title: Cambridge AS Biology Selfnotes
 published: 2026-05-25
 description: ""
 image: ""
@@ -9,9 +9,17 @@ draft: false
 lang: "zh_CN"
 ---
 
-## AS Biology Selfnotes
+> 笔记源代码 \[Gitee\]: [as-biology-selfnotes](https://gitee.com/tomthethuan/as-biology-selfnotes)
+>
+> [未校验的最终版本 · TomTheThuan/as-biology-selfnotes - Gitee.com](https://gitee.com/tomthethuan/as-biology-selfnotes/releases/tag/final)
 
-> Gitee: [as-biology-selfnotes](https://gitee.com/tomthethuan/as-biology-selfnotes)
+> [!IMPORTANT]
+>
+> 线上博客版本中会有一些图片无法加载的问题，Markdown格式没完全适配的问题，如果有离线访问需求和完整图片加载的话，可以使用下面的PDF版本：
+>
+> - [ AS Biology Vocabulary.pdf](https://gitee.com/tomthethuan/as-biology-selfnotes/releases/download/final/AS Biology Vocabulary.pdf)
+> - [ Protein Structure Levels Summary.pdf](https://gitee.com/tomthethuan/as-biology-selfnotes/releases/download/final/Protein Structure Levels Summary.pdf)
+> - [ as-bio-selfnotes_20260305.pdf](https://gitee.com/tomthethuan/as-biology-selfnotes/releases/download/final/as-bio-selfnotes_20260305.pdf)
 
 这个笔记是我我本人（Tom）根据老师分享的课件和书本内容总结而成，主要在课件的基础上加上我自己的一些理解得来。如果有遇到有解释不清楚、知识点错误或遗漏等其他关于这篇笔记一系列其他问题的话，请随时联系我，这对我帮助很大。
 
