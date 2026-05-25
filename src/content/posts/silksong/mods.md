@@ -9,7 +9,9 @@ draft: false
 lang: 'zh_CN'
 ---
 
-主要教程地址：[丝之歌](https://docs.qq.com/aio/DU3BXQ2Z4YmN0bFZC)
+主教程地址：[丝之歌](https://docs.qq.com/aio/DU3BXQ2Z4YmN0bFZC)
+
+「更新」新教程地址：[「丝之歌」&「空洞骑士」Mod百科](https://www.yuque.com/u56387201/gpl4og/xtet0rs0rpg41tru)
 
 > 本教程只作为自己安装模组的记录
 

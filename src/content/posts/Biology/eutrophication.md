@@ -24,8 +24,6 @@ Substances will cause eutrophication 会导致富营养化的物质:
 - 肥料（硝酸盐和磷酸盐）
 - 未经处理的污水
 
-![image-20251226144744624](./eutrophication.assets/image-20251226144744624.png)
-
 This whole process is called **eutrophication**.
 
 ## Fertilisers

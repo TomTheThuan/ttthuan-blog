@@ -9,7 +9,10 @@ draft: false
 lang: 'zh_CN'
 ---
 
+# 自我与他人 - 第八周文学分享
+
 本周分享的内容主要分为两部分：
+
 1. 探讨尹洛伊的随笔《叶》
 
 2. 简单回顾第七周的思考问题：“在信息过载的当下，我们如何拥有自己的判断力？”
@@ -87,3 +90,5 @@ lang: 'zh_CN'
 苏安推荐的参考视频：
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115930495458905&bvid=BV1i8zGBZEQQ&cid=35514617658&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="height:360px"></iframe>
+
+https://www.bilibili.com/video/BV1i8zGBZEQQ
