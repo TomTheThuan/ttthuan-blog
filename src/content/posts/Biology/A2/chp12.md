@@ -194,11 +194,12 @@ $$
 \begin{array}{cc}
 \xrightarrow{\text{\textcolor{gray}{decarboxylation}}} & \text{CO}_2 \searrow \\
 \downarrow & \\
-\text{acetyl (2C) CoA} & 
-\end{array} \\
 \begin{array}{c}
 \text{NAD} \xrightarrow{\text{\textcolor{gray}{dehydrogenation}}} \text{reduced NAD}
-\end{array}
+\end{array} & \\
+\downarrow & \\
+\text{acetyl (2C) CoA} & 
+\end{array} \\
 \end{array}
 \quad \left\}
 \begin{array}{c}
@@ -254,7 +255,7 @@ Krebs cycle summary:
    - **1 ATP** molecule is generated, through **substrate-linked reaction**
 
 $$
-\text{Precursors} \rightarrow 2\text{CO}_2 + 1\text{FADH}_2 + 3\text{NADH} + 1\text{ATP}
+\text{Pyruvate} \rightarrow 2\text{CO}_2 + 1\text{FADH}_2 + 3\text{NADH} + 1\text{ATP}
 $$
 
 ### Oxidative Phosphorylation
@@ -328,7 +329,7 @@ A coenzyme 辅酶 / cofactor 辅因子 is a non-protein compound that aids the f
 
 > **NAD / FAD**:
 >
-> - transfer $H^+$ by <u>dehydrogenation</u>
+> - transfer $H$ by <u>dehydrogenation</u>
 > - transport to ETC
 > - NAD accepts H in glycolysis, link reaction and Krebs cycle
 
