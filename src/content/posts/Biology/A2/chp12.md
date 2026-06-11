@@ -84,6 +84,33 @@ ATP makes the perfect energy currency for a number of reasons:
 2. The hydrolysis of one molecule of ATP **releases a useful quantity of energy** – enough to fuel an energy-requiring process in a cell, but not so much that it will be wasted.
 3. ATP is a **relatively stable molecule in the range of pH** that normally occurs in cells; it does not break down unless a catalyst such as the enzyme ATPase is present.
 
+## Coenzyme and Cofactor
+
+A coenzyme 辅酶 / cofactor 辅因子 is a non-protein compound that aids the function of an enzyme or is required for a protein's biological activity
+
+每当中间产物脱下来一个分子时，必须要有一个coenzyme或cofactor接住，再运给下一个步骤，例：
+
+- 当中间产物脱下来一个H时，NAD会变成reduced NAD
+- 当中间产物脱下来一个acetyl group时，coenzyme A / CoA 会变成acetyl CoA
+
+> **coenzyme A**:
+>
+> - transfer acetyl group
+> - $\mathrm{acetyl\space fragnent + oxaloacetate \rightarrow citrate}$
+> - joins link reaction and Krebs cycle
+
+> **NAD / FAD**:
+>
+> - transfer $H$ by <u>dehydrogenation</u>
+> - transport to ETC
+> - NAD accepts H in glycolysis, link reaction and Krebs cycle
+
+### Carrier of hydrogen
+
+- NAD - reduced NAD / $NADH$
+- FAD - reduced FAD / $FADH_2$
+- NADP - reduced NADP / $NADPH$
+
 ## Aerobic Respiration
 
 $$
@@ -226,7 +253,7 @@ Location: **mitochondrial matrix**
 
 The Krebs cycle is a circular pathway of enzyme-controlled reactions:
 
-1. Acetyl coenzyme A (2C) combines with oxaloacetate (4C) to form citrate (6C).
+1. Acetyl coenzyme A (2C) combines with **oxaloacetate** (4C) to form citrate (6C).
    $$
    \mathrm{acetyl(2C)\space CoA + oxaloacetate(4C) \rightarrow CoA + citrate(6C)}
    $$
@@ -297,14 +324,130 @@ Location: inner mitochondrial membrane
 
 ![image-20260608141833705](./chp12.assets/image-20260608141833705.png)
 
+## Anaerobic Respiration
+
+### Yeast and Plant
+
+$$
+\mathrm{C_6H_{12}O_6 \rightarrow 2C_2H_5OH + 2CO_2} + \text{small amount of energy}
+$$
+
+![image-20260609141739592](./chp12.assets/image-20260609141739592.png)
+
+1. dehydrogenation
+2. decarboxylation
+3. substrate-linked phosphorylation
+
+| Stage                          | Location  | Simplified equation (not balanced)                           |
+| :----------------------------- | :-------- | :----------------------------------------------------------- |
+| **glycolysis**                 | cytoplasm | $$\mathrm{glucose} \rightarrow 2\mathrm{pyruvate} + 2\mathrm{ATP} + 2\mathrm{NADH}$$ |
+| **oxidising NADH to form NAD** | cytoplasm | $$\mathrm{pyruvate} \rightarrow \mathrm{CO}_2 + \mathrm{ethanal\text{乙醛}}$$<br>$$\mathrm{ethanal} + \mathrm{NADH} \xrightarrow{\mathrm{alcohol\ dehydrogenase}} \mathrm{ethanol} + \mathrm{NAD}$$ |
+
+### Animal
+
+Muscle cells can **respire anaerobically** for a short time. 剧烈运动时（肺和心脏无法提供足够的氧气时），肌肉细胞可以在无氧的环境下进行呼吸作用，释放能量。
+
+无氧呼吸可以释放能量，但是释放的很少：
+
+- Only glycolysis occurs
+
+- The net production of ATP is 2 (每个glucose只产生两个ATP)
+- Fewer substrate-linked phosphorylation occurs
+- Lactate is energy-rich
+- Oxygen is not available as final electron acceptor
+- Oxidative phosphorylation dose not occur
+- ... but most ATP is produced in oxidative phosphorylation
+
+$$
+\mathrm{C_6H_{12}O_6 \rightarrow 2C_3H_6O_3 + 2ATP}
+$$
+
+一个glucose分子被拆成两个一样的lactate分子（并最终形成lactic acid）。
+
+![image-20260609141801968](./chp12.assets/image-20260609141801968.png)
+
+1. dehydrogenation
+2. substrate-linked phosphorylation
+
+| Stage                          | Location  | Simplified equation (not balanced)                           |
+| :----------------------------- | :-------- | :----------------------------------------------------------- |
+| **glycolysis**                 | cytoplasm | $$\mathrm{glucose} \rightarrow 2\mathrm{pyruvate} + 2\mathrm{ATP} + 2\mathrm{NADH}$$ |
+| **oxidising NADH to form NAD** | cytoplasm | $$\mathrm{pyruvate} + \mathrm{NADH} \xrightarrow{\mathrm{lactate\ dehydrogenase}} \mathrm{lactate} + \mathrm{NAD}$$ |
+
+### Oxygen Bebt / Excess Post-exercise Oxygen Consumption
+
+*Happens in mammals*
+
+After strenuous exercise, lactate is produced due to anaerobic respiration:
+
+-  **oxygen debt** is built up: Lactic acid builds up in muscles and blood
+- or **EPOC** (Excess Post-exercise Oxygen Consumption) is required
+
+Lactate can be oxidised, and **converted back to pyruvate** in **liver**, so it can then be fed into the Krebs cycle and generate ATP.
+
+> **Removing oxygen debt:**
+>
+> 1. continue to have a **faster heart rate**
+> 2. transport lactate in the blood from the **muscles** to the **liver**
+> 3. continue to have **deeper and faster breathing** for oxygen supply
+> 4. aerobic respiration in liver
+>
+> ![image-20260609144603815](./chp12.assets/image-20260609144603815.png)
+
+Alternatively, the lactate can be **converted to the glycogen** and stored in **liver**.
+
+> As a contrast, ethanol is only a **waste product**, it **cannot be further metabolised**
+
+### Ethanol Fermentation in Rice
+
+Rice is a **staple crop** (主食作物), 为了是产量最大化，水稻通常种在稻田（paddies）中。
+
+**Paddies** - are fields where the ground is intentionally flooded.
+
+大多数杂草不能长在稻田中，所以：This **reduction in competition** for light and mineral salts increases yields. 
+
+大多数植物不能长在水中是因为它们的根无法获得足够的氧气来进行有氧呼吸。水稻为了在水中适应，它做出了以下进化：
+
+- internodes of stem grow fast
+- root cells can **carry out anaerobic respiration** due to low oxygen concentration in water
+
+- gas diffuses down to root cells through **aerenchyma**
+
+  > **aerenchyma** 通气组织 - plant tissue containing air spaces
+
+- some leaves **trap air** underwater due to ridges on leaves
+
+- root cells can **tolerate ethanol** (produced from anaerobic respiration)
+
+  - ... produce **ethanol dehydrogenase** to break down ethanol
+
+---
+
+### Comparison Table
+
+| Feature                   | Mammalian Cells (M) - Lactic Fermentation          | Yeast Cells (Y) - Alcoholic Fermentation                 |
+| :------------------------ | :------------------------------------------------- | :------------------------------------------------------- |
+| **Type of Reaction**      | Reversible                                         | Irreversible                                             |
+| **Conversion Back**       | Can be converted back to pyruvate                  | Cannot be converted back to pyruvate                     |
+| **Decarboxylation**       | No ($\text{CO}_2$ is not removed)                  | Yes ($\text{CO}_2$ is removed to form ethanal)           |
+| **Steps / Enzymes**       | Single step / Single enzyme:<br>pyruvate → lactate | Two steps / Two enzymes:<br>pyruvate → ethanal → ethanol |
+| **Hydrogen (H) Acceptor** | Pyruvate                                           | Ethanal                                                  |
+| **End Product**           | Lactate / Lactic acid                              | Ethanal / Ethanol                                        |
+| **Oxygen Requirement**    | Needs oxygen (via oxidation / oxygen debt)         | (Not specified in text)                                  |
+
 ## Mitochondrial Structure and Function
 
 Structures:
 
-- outer membrane
-- inter-membrane space
-- inner membrane -> fold and form cristae
 - mitochondrial envelope
+
+  - outer membrane
+
+  - inter-membrane space
+
+  - inner membrane -> fold and form cristae
+
+
 - matrix
 
 除此之外，mitochondria作为古代的prokaryote细胞，它里面还有：
@@ -312,29 +455,6 @@ Structures:
 - 70S ribosome
 - circular DNA
 
-## Respiratory Substrates
+## Respiratory Substratess
 
-A coenzyme 辅酶 / cofactor 辅因子 is a non-protein compound that aids the function of an enzyme or is required for a protein's biological activity
-
-每当中间产物脱下来一个分子时，必须要有一个coenzyme或cofactor接住，再运给下一个步骤，例：
-
-- 当中间产物脱下来一个H时，NAD会变成reduced NAD
-- 当中间产物脱下来一个acetyl group时，coenzyme A / CoA 会变成acetyl CoA
-
-> **coenzyme A**:
->
-> - transfer acetyl group
-> - $\mathrm{acetyl\space fragnent + oxaloacetate \rightarrow citrate}$
-> - joins link reaction and Krebs cycle
-
-> **NAD / FAD**:
->
-> - transfer $H$ by <u>dehydrogenation</u>
-> - transport to ETC
-> - NAD accepts H in glycolysis, link reaction and Krebs cycle
-
-### Carrier of hydrogen
-
-- NAD - reduced NAD / NADH
-- FAD - reduced FAD / FADH_2
-- NADP - reduced NADP / NADPH
+通常glucose会作为呼吸作用中默认的能量来源，但是在实际情况中lipids, amino acid和其他种类的carbohydrate也可以释放能量（作为respiratory substrate）
