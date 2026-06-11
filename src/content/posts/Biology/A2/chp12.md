@@ -200,7 +200,7 @@ Purposes of phosphorylation:
 
 - raise the energy level
 - make the glucose cannot leave the cell
-- decrease the stability of glucose (so it can split into 2 triose phosphate molecules)
+- **decrease the stability** of glucose (so it can split into 2 triose phosphate molecules)
 
 ---
 
@@ -458,3 +458,112 @@ Structures:
 ## Respiratory Substratess
 
 通常glucose会作为呼吸作用中默认的能量来源，但是在实际情况中lipids, amino acid和其他种类的carbohydrate也可以释放能量（作为respiratory substrate）
+
+| Respiratory Substrate | Energy Density / $kJg^{-1}$ | Respiratory Quotient |
+| --------------------- | --------------------------- | -------------------- |
+| Carbohydrate          | 15.8                        | 1.0                  |
+| Lipid                 | 39.4                        | 0.7                  |
+| Protein               | 17.0                        | 0.9                  |
+
+> Lipids有更高的energy density是因为每g中的氢原子含量更高。大多数在aerobic respiration中释放的能量来自于oxidative phosphorylation，也就是说来自于the oxidation of hydrogen to water.
+
+### Respiratory Quotient
+
+**respiratory quotient** (RQ) 呼吸商 - the ratio of the volume of carbon dioxide produced to the volume of oxygen used
+$$
+\mathrm{RQ} = \frac{\text{volume of carbon dioxide given out in unit time}}{\text{volume of oxygen taken in unit time}}
+$$
+
+$$
+\mathrm{RQ} = \frac{\text{moles or molecules of carbon dioxide given out}}{\text{moles or molecules of oxygen taken in}}
+$$
+
+> For the aerobic respiration of glucose:
+> $$
+> \mathrm{C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O}
+> $$
+> *使用了6个氧分子，产生了6个二氧化碳分子*
+> $$
+> \begin{aligned}
+> \mathrm{RQ} &= \frac{\text{amount of }\mathrm{CO}_2}{\text{amount of }\mathrm{O}_2} \\
+> &= \frac{6}{6} \\
+> &= 1.0
+> \end{aligned}
+> $$
+
+> 如果知道了其他呼吸作用的反应式后，对应的RQ也可以计算出来：
+>
+> For example, when the fatty acid oleic acid (from olive oil) is respired aerobically, the equation is:
+> $$
+> \mathrm{C}_{18}\mathrm{H}_{34}\mathrm{O}_2 + 25.5\mathrm{O}_2 \longrightarrow 18\mathrm{CO}_2 + 17\mathrm{H}_2\mathrm{O}
+> $$
+>
+> So, for the aerobic respiration of oleic acid:
+>
+> $$
+> \begin{aligned}
+> \mathrm{RQ} &= \frac{\mathrm{CO}_2}{\mathrm{O}_2} \\
+> &= \frac{18}{25.5} \\
+> &= 0.7
+> \end{aligned}
+> $$
+
+如果有一个respiratory substrate是$\mathrm{C_{18}H_{36}O_{2}}$，且是aerobic respiration，那么它的反应方程式是：
+
+1. 根据respiratory substrate中碳原子的数量补齐$CO_2$的数量：
+   $$
+   \mathrm{C}_{18}\mathrm{H}_{36}\mathrm{O}_2 + ?\mathrm{O}_2 \longrightarrow 18\mathrm{CO}_2 + ?\mathrm{H}_2\mathrm{O}
+   $$
+
+2. 按照同样的方法，可以根据respiratory substrate中的$H$的数量推断出$H_2O$的数量：
+   $$
+   \mathrm{C}_{18}\mathrm{H}_{36}\mathrm{O}_2 + ?\mathrm{O}_2 \longrightarrow 18\mathrm{CO}_2 + 18\mathrm{H}_2\mathrm{O}
+   $$
+
+3. 反应式左边的氧原子数量必须等于右边的氧原子的数量：
+   $$
+   \mathrm{2 + n \times 2 = 18 \times 2 + 18 \times 1}
+   $$
+   $O_2$的数量最终为26
+
+4. 最终：
+   $$
+   \mathrm{C}_{18}\mathrm{H}_{36}\mathrm{O}_2 + 26\mathrm{O}_2 \longrightarrow 18\mathrm{CO}_2 + 18\mathrm{H}_2\mathrm{O}
+   $$
+   
+
+计算RQ：
+$$
+\begin{aligned}
+\mathrm{RQ} &= \frac{\text{amount of }\mathrm{CO}_2}{\text{amount of }\mathrm{O}_2} \\
+&= \frac{18}{26} \\
+&= 0.69
+\end{aligned}
+$$
+
+## Keywords
+
+1. **Respiration** - 呼吸<br>The enzymatic release of energy from organic compounds in living cells
+2. **ATP synthase** - ATP合酶<br>The enzyme that catalyses the phosphorylation of ADP to produce ATP
+3. **Chemiosmosis** - 化学渗透<br>The synthesis of ATP using energy released by the movement of hydrogen ions down their concentration gradient, across a membrane in a mitochondrion or chloroplast
+4. **Coenzyme A (CoA)** - 辅酶A (CoA)<br>A molecule that supplies acetyl groups required for the link reaction
+5. **Acetyl coenzyme A** - 乙酰辅酶A<br>A molecule made up of coenzyme A and a 2C acetyl group, important in the link reaction
+6. **Decarboxylation** - 脱羧<br>The removal of carbon dioxide from a substance
+7. **Dehydrogenation** - 脱氢<br>The removal of hydrogen from a substance
+8. **Electron transport chain** - 电子传递链<br>A chain of adjacently arranged carrier molecules in the inner mitochondrial membrane, along which electrons pass by redox reactions
+9. **Glycolysis** - 糖酵解<br>The splitting (lysis) of glucose; the first stage in respiration
+10. **Krebs cycle** - 克雷布斯循环<br>A cycle of reactions in aerobic respiration in the matrix of a mitochondrion in which hydrogens pass to hydrogen carriers for subsequent ATP synthesis and some ATP is synthesised directly; also known as the citric acid cycle
+11. **Link reaction** - 连接反应<br>Decarboxylation and dehydrogenation of pyruvate, resulting in the formation of acetyl coenzyme A, linking glycolysis with the Krebs cycle
+12. **NAD (nicotinamide adenine dinucleotide)** - 烟酰胺腺嘌呤二核苷酸 (NAD)<br>A hydrogen carrier used in respiration
+13. **Oxidation** - 氧化<br>The addition of oxygen, or the removal of hydrogen or electrons from a substance
+14. **Oxidative phosphorylation** - 氧化磷酸化<br>The synthesis of ATP from ADP and Pi using energy from oxidation reactions in aerobic respiration (compare photophosphorylation)
+15. **Phosphorylation** - 磷酸化<br>The addition of a phosphate group to a molecule
+16. **Redox reaction** - 氧化还原反应<br>A chemical reaction in which one substance is reduced and another is oxidised 
+17. **Reduction** - 还原<br>The removal of oxygen, or the addition of hydrogen or electrons to a substance
+18. **Substrate-linked reaction** - 底物水平磷酸化<br>In the context of ATP formation, the transfer of phosphate from a substrate molecule directly to ADP to produce ATP, using energy provided directly by another chemical reaction
+19. **Aerenchyma** - 通气组织<br>Plant tissue containing air spaces
+20. **Anaerobic** - 厌氧<br>Without oxygen
+21. **Ethanol fermentation** - 乙醇发酵<br>Anaerobic respiration in which pyruvate is converted to ethanol
+22. **Lactate fermentation** - 乳酸发酵<br>Anaerobic respiration in which pyruvate is converted to lactate
+23. **Redox indicator** - 氧化还原指示剂<br>A substance that changes colour when it is oxidised or reduced
+24. **Respiratory quotient (RQ)** - 呼吸商 (RQ)<br>The ratio of the volume of carbon dioxide produced to the volume of oxygen used
