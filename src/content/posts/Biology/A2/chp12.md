@@ -105,6 +105,12 @@ A coenzyme 辅酶 / cofactor 辅因子 is a non-protein compound that aids the f
 > - transport to ETC
 > - NAD accepts H in glycolysis, link reaction and Krebs cycle
 
+> **Electron Carrier**
+>
+> - transport the electrons in Electron Transport Chain
+> - during oxidative phosphorlylation stage
+> - locate on the inner mitochondrial membrane
+
 ### Carrier of hydrogen
 
 - NAD - reduced NAD / $NADH$
@@ -170,7 +176,7 @@ Steps of Glycolysis:
 
 1. glucose中加入两个ATP，经过phosphorylation后形成两个triose phosphate (3C)
 
-2. 两个$P_i$从中间产物上被移除下来，去磷酸化（phosphorylase）环境中的两个$ADP$并形成两个$ATP$
+2. 两个phosphate group从中间产物上被移除下来，去磷酸化（phosphorylase）环境中的两个$ADP$并形成两个$ATP$
 
 3. 两个氢原子被移除下来，这两个氢原子将两个NAD分子还原，形成两个reduced NAD / NADH
 
@@ -184,9 +190,9 @@ Steps of Glycolysis:
 
 4. 在从中间产物生成pyruvate的过程中，两个intermediates各自贡献两个$P_i$到环境中的ADP，形成两个ATP
 
-> ATP添加到中间反应物时：环境中的ATP经过hydrolysis，产生一个$ADP$和一个$P_i$，$P_i$再添加到中间产物上
+> ATP添加到中间反应物时：环境中的ATP经过hydrolysis，产生一个$ADP$和一个phosphate group，phosphate group再添加到中间产物上
 >
-> ATP在图表上离开中间物时：中间产物贡献$P_i$，与环境中的ADP发生反应形成ATP
+> ATP在图表上离开中间物时：中间产物贡献phosphate group，与环境中的ADP发生反应形成ATP
 >
 > - 细胞中的ADP直接接收从中间产物上脱下来的$P_i$被称之为：**substrate-linked phosphorylation** (为了与之后的oxidative phosphorylation做区分)
 
@@ -236,7 +242,7 @@ $$
 $$
 
 1. decarboxylation: the removal of a carbon dioxide
-2. dehydrogenation: the removal of a hydrogen molecule ($\mathrm{NAD \rightarrow reduced NAD / NADH}$)
+2. dehydrogenation: the removal of a hydrogen atom ($\mathrm{NAD \rightarrow reduced NAD / NADH}$)
 3. the remainder of the molecule combines with coenzyme A (CoA) o produce acetyl coenzyme A (acetyl CoA)
 
 $$
@@ -289,7 +295,23 @@ $$
 
 Location: inner mitochondrial membrane
 
+氧气只在这一步中参与respiration。
+
 > It's the synthesis of ATP from ADP and Pi
+
+Inner mitochondrial membrane上参与oxidative phosphorylation的结构:
+
+- **Electron transport chain** ETC 电子传递链
+
+  用来传递电子，里面有很多**electron carriers**（属于cofactor）
+
+  电子在传递的过程中会：down the energy level，在传递的过程中会释放能量，每个electron carrier都经历了redox reaction.
+
+  电子释放的一部分能量会把氢离子$H^+$从matrix运输到intermembrane space，然后建立matrix和intermembrane space之间的concentration gradient
+
+  氢离子会在ATP synthase中通过facilitated diffusion回到matrix，在回来的过程中（ATP synthase中）会推动ATP的合成
+
+- **ATP synthase** (also known as *stalked particle*)
 
 ![image-20260608134629133](./chp12.assets/image-20260608134629133.png)
 
@@ -297,15 +319,17 @@ Location: inner mitochondrial membrane
 
 2. $\mathrm{H \rightarrow H^+ + e^-}$
 
-3. As the electron moves along the ETC, energy is released.
+3. As the electron moves along the ETC, energy is released. 电子在通过ETC时会释放能量
 
-   > Some of the energy is used to actively move protons from the mitochondrial matrix into the intermembrane spase.
+   > Some of the energy is used to actively move protons from the mitochondrial matrix into the intermembrane spase. 一部分能量用来运输氢离子
    >
-   > This produces a higher concentration of proton in the intermembrane space and creates a **concentration gradient of protons** between the intermembrane space and the mitochondrial matrix
+   > This produces a higher concentration of proton in the intermembrane space and creates a **concentration gradient of protons** between the intermembrane space and the mitochondrial matrix 建立浓度梯度差
 
-4. **Protons** diffuse back into the mitochondrial matrix by **facilitate diffusion** down their concentration gradient through **ATP synthase** (it serves as transport protein and enzyme)
+4. **Protons** diffuse back into the mitochondrial matrix by **facilitate diffusion** down their concentration gradient through **ATP synthase** (it serves as transport protein and enzyme) 氢离子通过协助运输回到matrix时，会推动ATP的生成
 
-5. As the protons pass through the ATP synthase, ATP is produced from ADP and Pi by ATP synthase in chemiososis
+5. As the protons pass through the ATP synthase, ATP is produced from ADP and Pi by ATP synthase in **chemiososis**
+
+   > chemiososis是ATP生成的过程
 
 6. Oxygen is the final electron acceptor
    $$
@@ -321,6 +345,11 @@ Location: inner mitochondrial membrane
 | Krebs cycle               | mitochondrial matrix         | 0        | 2        | 2               |
 | oxidative phosphorylation | inner mitochondrial membrane | 0        | 28       | 28              |
 | **Total**                 |                              | **2**    | **34**   | **32**          |
+
+答题的时候需要提到：
+
+- glycolysis产生了两个ATP
+- oxidative phosphorylation produces most ATP
 
 ![image-20260608141833705](./chp12.assets/image-20260608141833705.png)
 
@@ -454,6 +483,10 @@ Structures:
 
 - 70S ribosome
 - circular DNA
+
+Mitochondrion中的enzyme：
+
+- Electron transport chain (electron carrier + ATP synthase)
 
 ## Respiratory Substratess
 
