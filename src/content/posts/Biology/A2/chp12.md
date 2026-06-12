@@ -327,9 +327,9 @@ Inner mitochondrial membrane上参与oxidative phosphorylation的结构:
 
 4. **Protons** diffuse back into the mitochondrial matrix by **facilitate diffusion** down their concentration gradient through **ATP synthase** (it serves as transport protein and enzyme) 氢离子通过协助运输回到matrix时，会推动ATP的生成
 
-5. As the protons pass through the ATP synthase, ATP is produced from ADP and Pi by ATP synthase in **chemiososis**
+5. As the protons pass through the ATP synthase, ATP is produced from ADP and Pi by ATP synthase in **chemiosmosis**
 
-   > chemiososis是ATP生成的过程
+   > chemiosmosis是ATP生成的过程
 
 6. Oxygen is the final electron acceptor
    $$
