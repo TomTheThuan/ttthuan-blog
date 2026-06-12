@@ -355,22 +355,40 @@ Inner mitochondrial membrane上参与oxidative phosphorylation的结构:
 
 ## Anaerobic Respiration
 
+主要发生在cytoplasm里
+
 ### Yeast and Plant
 
+在yeast and plant中发生的无氧呼吸又被叫作：**Ethanol Fermentation**
 $$
 \mathrm{C_6H_{12}O_6 \rightarrow 2C_2H_5OH + 2CO_2} + \text{small amount of energy}
 $$
 
 ![image-20260609141739592](./chp12.assets/image-20260609141739592.png)
 
-1. dehydrogenation
-2. decarboxylation
-3. substrate-linked phosphorylation
+- dehydrogenation / glycolysis
+- decarboxylation
+- substrate-linked phosphorylation
+
+这整个过程，除了glycolysis，只有两步：
+
+1. $\mathrm{pyruvate} \rightarrow \mathrm{CO}_2 + \mathrm{ethanal\text{乙醛}}$
+
+   pyruvate分离出一个二氧化碳，生成ethan**a**l
+
+2. $\mathrm{ethanal} + \mathrm{NADH} \xrightarrow{\mathrm{alcohol\ dehydrogenase}} \mathrm{ethanol} + \mathrm{NAD}$
+
+   ethanal被还原（ethanal是hydrogen acceptor），在**alcohol dehydrogenase**的催化下，生成ethan**o**l
 
 | Stage                          | Location  | Simplified equation (not balanced)                           |
 | :----------------------------- | :-------- | :----------------------------------------------------------- |
 | **glycolysis**                 | cytoplasm | $$\mathrm{glucose} \rightarrow 2\mathrm{pyruvate} + 2\mathrm{ATP} + 2\mathrm{NADH}$$ |
 | **oxidising NADH to form NAD** | cytoplasm | $$\mathrm{pyruvate} \rightarrow \mathrm{CO}_2 + \mathrm{ethanal\text{乙醛}}$$<br>$$\mathrm{ethanal} + \mathrm{NADH} \xrightarrow{\mathrm{alcohol\ dehydrogenase}} \mathrm{ethanol} + \mathrm{NAD}$$ |
+
+Respiration的目的是产生ATP，但是只有glycolysis会产生ATP，之后步骤的发生目的是：
+
+- 为了使reduced NAD能被氧化成NAD
+- glycolysis需要NAD被还原（reduce），所以需要有后续步骤回收NAD
 
 ### Animal
 
@@ -564,6 +582,7 @@ $$
    \mathrm{C}_{18}\mathrm{H}_{36}\mathrm{O}_2 + 26\mathrm{O}_2 \longrightarrow 18\mathrm{CO}_2 + 18\mathrm{H}_2\mathrm{O}
    $$
    
+5. 
 
 计算RQ：
 $$
