@@ -106,6 +106,136 @@ There are two types of photosystem:
 
   The reaction centre chlorophyll *a* is **P680**
 
+## The Light Dependent Stage
+
+### Non-cyclic Photophosphorylation
+
+*non-cyclic photophosphorylation* [photo-phosphor-yl-ation]
+
+![image-20260616083502137](./chp13.assets/image-20260616083502137.png)
+
+1. **At PSII**
+
+   Accessory pigments (chorophyll *b*, carotene and xanthophyll) 吸收并将能量传递至reaction centre chlorophyll *a*:
+
+   - this raises the energy level of electrons in chlorophyll *a*
+   - electrons get excited and emitted
+
+   This is **photoactivation of chlorophyll *a*** [photo-activation]
+
+   > Photosystem II includes a water splitting enzyme, **oxygen-evolving complex / water-splitting complex**.
+   >
+   > Water splits into hydrogen ions (protons), electrons and oxygen, this is called **photolysis**:
+   > $$
+   > \text{H}_2\text{O} \rightarrow 2\text{H}^+ + 2\text{e}^- + \frac{1}{2}\text{O}_2
+   > $$
+
+   Electrons from water-splitting pass to PSII to replace those lost (PSI中的电子会在最后一步用来还原NADP，所以需要由PSII中的photolysis提供电子)
+
+   > [!IMPORTANT]
+   >
+   > 在PSII中会在最后一步**产生氧气**，这是PSII和PSI之间显著的区别，这也是non-cyclic和之后提到的cyclic之间显著的区别。
+
+2. **Electron transport chain (ETC) and ATP synthase**
+
+   1. The **high-energy electron** is captured by an electron acceptor
+   2. the electron is passed along the electron transport chain (ETC)
+   3. releasing energy
+
+   这里释放的一部分能量被用来：active transport the protons (hydrogen ions) from stroma into the thylakoid space (进入叶绿体里面的小囊中)
+
+   - this sets up a **concentration gradient of protons**
+
+   这些protons在concentration gradient的作用下，通过facilitated diffusion经过ATP synthase回到stroma。
+
+   在经过ATP synthase的时候，**chemiosmosis**发生了：ATP is synthesised by 
+   adding Pi to ADP. （这个作用和aerobic respiration的oxidative phosphorylation非常相似）
+
+3. **At PSI** - **photoactivation** of chlorophyll *a* occurs
+
+   Electrons from PSII pass to PSI to replace those lost, PSI receives electrons from PSII
+
+   The high-energy electron is captured by an electron acceptor and then transferred to the coenzyme / hydrogen carrier **NADP**
+
+   - NADP combines with electrons from PSI
+   - The hydrogen ions from photolysis of water to produce **reduced NADP / NADPH**
+
+   $$
+   \mathrm{H}^+ + \mathrm{e}^- + \mathrm{NADP} \rightarrow \text{reduced NADP}
+   $$
+
+| Name                 | Reaction        | Equation                                                     |
+| -------------------- | --------------- | ------------------------------------------------------------ |
+| Photophosphorylation | Making ATP      | $\text{ADP} + \text{P}_i \rightarrow \text{ATP}$             |
+| Reduction            | Making NADPH    | $\text{NADP}^+ + \text{e}^- \rightarrow \text{NADPH}$        |
+| Photolysis           | Splitting Water | $2\text{H}_2\text{O} \rightarrow 4\text{H}^+ + 4\text{e}^- + \text{O}_2$ |
+
+描述non-cyclic photophosphorylation的图像又被成为**Z-scheme**
+
+![image-20260616090230805](./chp13.assets/image-20260616090230805.png)
+
+---
+
+> [!NOTE]
+>
+> Mark scheme对“Describe how <u>non-cyclic</u> photophosphorylation produces ATP and reduced NADP”的回答：
+>
+> 1. PSII and PSII involved
+> 2. light harvesting clusters (这是什么？)
+> 3. light absorbed by accessory pigments
+> 4. primary pigment (reaction centre) is chlorophyll *a*
+> 5. <u>energy</u> passed to primary pigment / chlorophyll *a*
+> 6. electrons raised to higher energy level
+> 7. electrons taken up by electron acceptor
+> 8. electrons passed down electron carrier chain
+> 9. PSII has water splitting enzyme
+> 10. water split into hydrogen ions, electrons, and oxygen
+> 11. ... through <u>photolysis</u>
+> 12. electrons from <u>PSII</u> pass to PSI
+> 13. ... to replace those lost
+> 14. protons and electrons combine with NADP to produce <u>reduced NADP</u>
+
+### Cyclic Photophosphorylation
+
+After a long day of sun, **NADPH** is being used in Calvin cycle and there is no (oxidised) NADP to combine with the electron from PSI in the light dependent stage.
+
+在经过很长一段的阳光照射下，NADPH会被在Calvin cycle中被使用，导致没有足够的NADP可以在PSI中和电子结合。
+
+为了避免这个情况，
+
+1. At PSI, electron in chlorophyll *a* gets excited and emitted. (Photoactivation of chlorophyll *a* occurs)
+2. The high-energy electron is captured by an electron acceptor and passed along ETC (release energy)
+3. ATP is made by ATP synthase in chemiosmosis
+4. The electron returns to PSI
+5. Only PSI is involved
+
+![image-20260616091252323](./chp13.assets/image-20260616091252323.png)
+
+---
+
+### Summary
+
+不管是cyclic还是non-cyclic，它们都：
+
+- 有photoactivation of chlorophyll *a*
+- electrons move along the ETC
+- chemiosmosis occurs (and ATP is produced)
+
+它们之间的区别在于：
+
+| non-cyclic                        | cyclic              |
+| --------------------------------- | ------------------- |
+| 有**PSII和PSI**的参与             | **只有PSI**的参与   |
+| **产生氧气**（photolysis occurs） | 不产生氧气          |
+| 有**NADPH**的参与                 | 没有NADPH           |
+| 电子最终用于还原NADP              | 电子会**回到PSI**中 |
+
+> - 氧气会在light dependent stage中的PSII中产生，而PSII只参与non-cyclic photophosphorylation，所以只会在non-cyclic中产生氧气
+> - cyclic发生的根本原因就在于没有足够的NADP来回收电子，所以更不会有NADP的参与
+> - 同理，cyclic中无法回收的电子会回到PSI中
+
+## The Light Independent Stage
+
 ## Keywords
 
 1. **Chlorophyll** - 叶绿素<br>A green pigment responsible that absorbs energy from light, used in photosynthesis
