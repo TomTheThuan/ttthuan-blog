@@ -123,7 +123,7 @@ There are two types of photosystem:
 
    This is **photoactivation of chlorophyll *a*** [photo-activation]
 
-   > Photosystem II includes a water splitting enzyme, **oxygen-evolving complex / water-splitting complex**.
+   > Photosystem II includes a water splitting enzyme, **oxygen-evolving complex / water-splitting enzyme**.
    >
    > Water splits into hydrogen ions (protons), electrons and oxygen, this is called **photolysis**:
    > $$
@@ -166,9 +166,9 @@ There are two types of photosystem:
 
 | Name                 | Reaction        | Equation                                                     |
 | -------------------- | --------------- | ------------------------------------------------------------ |
+| Photolysis           | Splitting Water | $2\text{H}_2\text{O} \rightarrow 4\text{H}^+ + 4\text{e}^- + \text{O}_2$ |
 | Photophosphorylation | Making ATP      | $\text{ADP} + \text{P}_i \rightarrow \text{ATP}$             |
 | Reduction            | Making NADPH    | $\text{NADP}^+ + \text{e}^- \rightarrow \text{NADPH}$        |
-| Photolysis           | Splitting Water | $2\text{H}_2\text{O} \rightarrow 4\text{H}^+ + 4\text{e}^- + \text{O}_2$ |
 
 描述non-cyclic photophosphorylation的图像又被成为**Z-scheme**
 
@@ -211,6 +211,27 @@ After a long day of sun, **NADPH** is being used in Calvin cycle and there is no
 
 ![image-20260616091252323](./chp13.assets/image-20260616091252323.png)
 
+> [!NOTE]
+>
+> Describe the process of **cyclic** photophosphorylation and the **structure** of the photosystem involved:
+>
+> *cyclic photophosphorylation*
+>
+> - only PSI / P700 involved
+> - light <u>energy</u> absorbed
+> - electron becomes excited
+> - electron is emitted from chlorophyll (excited和emitted是两个不同的点)
+> - electron passes through the ETC
+> - ATP is produced through the chemiosmosis of ATP synthase
+> - electron returns to PSI
+>
+> *photosystem*
+>
+> - pigments arranged in light-harvesting clusters
+> - chlorophyll *a* is located in the reaction centre
+> - accessory pigments surround primary pigment
+> - photosystem located in thyalkoid
+
 ---
 
 ### Summary
@@ -235,6 +256,116 @@ After a long day of sun, **NADPH** is being used in Calvin cycle and there is no
 > - 同理，cyclic中无法回收的电子会回到PSI中
 
 ## The Light Independent Stage
+
+This process is located in the **stroma of the chloroplast**
+
+在light-dependent stage中产生的ATP和reduced NADP / NADPH会在light-independent stage中被使用，用于将*二氧化碳*转换为*碳水化合物*，这个过程叫作“**Calvin cycle**”
+
+这一步不需要来自光线的能量，同时是产生碳水化合物的stage，也就是说light-independent stage可以在黑暗的环境下进行，不过这个stage所以依赖的输入来自light-dependent stage，所以不能长时间在黑暗的环境下进行。
+
+1. **Carbon Fixation**
+
+   1. Carbon dioxide combines with a 5C compound called **ribulose bisphosphate (RuBP)**
+   2. which is catalysed by an enzyme called *ribulose bisphosphate carboxylase*, or **rubisco**
+   3. and form an **unstable 6C compound**
+   4. then the 6C compound splits into 2 **glycerate-3-phosphate (GP)** molecules (3C)
+
+   Carbon fixation中的“fixed”指的是碳被变成了植物细胞的一部分。
+
+   这一步中产生的GP并不是碳水化合物，但是它会在下一步中转换成碳水化合物。
+   $$
+   \mathrm{CO_2 + C_5H_8O_{11}P_2 \ (RuBP) \xrightarrow{rubisco} C_6H_{10}O_{15}P_2 \ (unstable \ 6C \ intermediate)}
+   
+   \\ \\
+   
+   \mathrm{C_6H_{10}O_{15}P_2 + H_2O \rightarrow 2 \ C_3H_5O_6P \ (glycerate-3-phosphate)}
+   $$
+   
+
+2. ATP and NADPH from light dependent stage are used to **reduce GP to TP** (triose phosphate)
+
+3. Most ($\frac{5}{6}$) TP is used to **regenerate** RuBP, by using ATP;
+
+   $\frac{1}{6}$ is used in respiration, to produce **glucose**, **amina acid**, **fatty acids**, etc.
+
+![image-20260619101314334](./chp13.assets/image-20260619101314334.png)
+
+> [!NOTE]
+>
+> [Past Paper Question] Outline the steps of the Calcin Cycle:
+>
+> 1. RuBP combines with carbon dioxide
+> 2. ... by enzyme rubisco
+> 3. forms unstable 6C compound
+> 4. then produces 2 GP molecule
+> 5. GP is reduced to TP
+> 6. ... by reduced NADP and ATP
+> 7. ... from light dependent stage
+> 8. TP is used to regenerate RuBP
+> 9. ... using ATP
+> 10. TP can form further carbohydrate compound, fatty acid or amino acid
+
+## Limiting Factors
+
+**Limiting factor** - the <u>requirement</u> for a process to take place that is in the shortest supply; an increase in this factor will allow the process to take place more rapidly
+
+- the presence of photosynthetic pigments （发生位置）
+- a supply of carbon dioxide（反应物）
+- a supply of water （反应物）
+- light energy （发生条件）
+- a suitable temperature （发生条件）
+
+## Experiments
+
+### Chromatography
+
+This experiment is aimed to identify the type of Chloroplast Pigments.
+
+> Different pigments have different solubility in the solvent, which causes them to travel at different speeds up the paper.
+
+- Independent Variable - type of pigment
+- Dependent Variable - the distance traveled by each pigment spot (used to calculate the Rf value)
+
+Method:
+
+1. Extract the pigments
+
+2. Prepare the chromatography paper
+
+3. Apply the sample
+
+4. Put the chromatography paper into the solvent (the base line must above the solvent level)
+
+5. Wait for the seperation
+
+6. Measure the distance traveled by the solvent
+
+7. Measure the distance traveled by the sample
+
+8. Calculate the Rf value
+   $$
+   Rf = \frac{\text{Distance travelled by pigment spot}}{\text{Distance travelled by solvent}}
+   $$
+
+| Pigment Name / Color                 | Distance from Origin (cm) | Solvent Front Distance (cm) | Calculated Rf Value |
+| :----------------------------------- | :------------------------ | :-------------------------- | :------------------ |
+| *e.g., Carotenoid (Yellow-Orange)*   |                           |                             |                     |
+| *e.g., Chlorophyll a (Blue-Green)*   |                           |                             |                     |
+| *e.g., Chlorophyll b (Yellow-Green)* |                           |                             |                     |
+| *e.g., Unknown Pigment*              |                           |                             |                     |
+
+### Using a Redox Indicator to Measure Photosynthesis Rate
+
+- **Independent Variables:**
+  - **Light Intensity** (e.g., varied by changing the distance of the light source or using neutral density filters).
+  - **Light Wavelength/Colour** (e.g., using different colored filters or LED lights of the same intensity).
+- **Dependent Variable:**
+  - **Time taken for the redox indicator (DCPIP/methylene blue) to decolorise** (measured in seconds or minutes). 
+
+Measure the dependent variable:
+
+- record the time to change color
+- compare the darkness of color in a unit time
 
 ## Keywords
 
