@@ -33,11 +33,11 @@ $$
 $$
 
 - carbon dioxide is reduced （二氧化碳失去了氧）
-- oxygen is used in respiration of diffuses into the environment
+- oxygen is used in respiration, or diffuses into the environment
 
 Plants can provide nutrients by their own for all the synthesis of all the metabolities the plant needs. 这种self-feeding的行为被成为**autotrophic nutrition**
 
-Photosynthesis converts inorganic carbon to organic carbon
+Photosynthesis **converts inorganic carbon to organic carbon**
 
 > Compounds containing <u>carbon combined with hydrogen</u> are known as **organic compounds**
 
@@ -86,7 +86,7 @@ Photosynthesis分为两个stage：
 
 ### Photosystems
 
-The pigments in a thylakoid membrane are arranged in light harvesting clusters called photosystems
+The pigments in a thylakoid membrane are arranged in **light harvesting clusters** called photosystems
 
 ![image-20260615215227509](./chp13.assets/image-20260615215227509.png)
 
@@ -236,6 +236,19 @@ After a long day of sun, **NADPH** is being used in Calvin cycle and there is no
 
 ### Summary
 
+Cyclic photophosphorylation:
+
+- only PSI is involved
+- photoactivation of chlorophyll occurs
+- ATP is synthesised
+
+Non-cyclic photophosphorylation:
+
+- both PSI and PSII are involved
+- photoactivation of chlorophyll occurs
+- water-splitting complex catalyse the photolysis of water
+- ATP and reduced NADP are synthesised
+
 不管是cyclic还是non-cyclic，它们都：
 
 - 有photoactivation of chlorophyll *a*
@@ -281,12 +294,13 @@ This process is located in the **stroma of the chloroplast**
    \mathrm{C_6H_{10}O_{15}P_2 + H_2O \rightarrow 2 \ C_3H_5O_6P \ (glycerate-3-phosphate)}
    $$
    
-
 2. ATP and NADPH from light dependent stage are used to **reduce GP to TP** (triose phosphate)
 
-3. Most ($\frac{5}{6}$) TP is used to **regenerate** RuBP, by using ATP;
+3. Most ($\frac{5}{6}$) carbon molecules in TPs are used to **regenerate** RuBP, by using ATP;
 
    $\frac{1}{6}$ is used in respiration, to produce **glucose**, **amina acid**, **fatty acids**, etc.
+
+> 如果有10个TP分子，则总共有10\*3个碳原子，被用于合成RuBP的碳原子有30\*5/6个（25个），也就是有5个RuBP分子
 
 ![image-20260619101314334](./chp13.assets/image-20260619101314334.png)
 
@@ -310,7 +324,7 @@ This process is located in the **stroma of the chloroplast**
 **Limiting factor** - the <u>requirement</u> for a process to take place that is in the shortest supply; an increase in this factor will allow the process to take place more rapidly
 
 - the presence of photosynthetic pigments （发生位置）
-- a supply of carbon dioxide（反应物）
+- a supply of carbon dioxide（反应物）（use **sodium hydrogencarbonate** to control the concentration of carbon dioxide）
 - a supply of water （反应物）
 - light energy （发生条件）
 - a suitable temperature （发生条件）
@@ -353,6 +367,10 @@ Method:
 | *e.g., Chlorophyll a (Blue-Green)*   |                           |                             |                     |
 | *e.g., Chlorophyll b (Yellow-Green)* |                           |                             |                     |
 | *e.g., Unknown Pigment*              |                           |                             |                     |
+
+### Investigate the Rate of Photosynthesis by Photosynthometer 
+
+![image-20260622114801606](./chp13.assets/image-20260622114801606.png)
 
 ### Using a Redox Indicator to Measure Photosynthesis Rate
 
