@@ -729,513 +729,517 @@ lang: 'zh_CN'
 
 341. **Limiting factor** - 限制因素<br>The requirement for a process to take place that is in the shortest supply; an increase in this factor will allow the process to take place more rapidly
 
-342. **Corrective action** - 纠正措施<br>A response or series of responses that return a physiological factor to the set point so maintaining a constant environment for the cells within the body
+## Homeostasis
 
-343. **Deamination** - 脱氨<br>The breakdown of excess amino acids in the liver, by the removal of the amine group; ammonia and, eventually, urea are formed from the amine group 
+316. **Corrective action** - 纠正措施<br>A response or series of responses that return a physiological factor to the set point so maintaining a constant environment for the cells within the body
 
-344. **Effector** - 效应器<br>A tissue or organ that carries out an action in response to a stimulus; muscles and glands are effectors
+317. **Deamination** - 脱氨<br>The breakdown of excess amino acids in the liver, by the removal of the amine group; ammonia and, eventually, urea are formed from the amine group 
 
-345. **Excretion** - 排泄<br>The removal of toxic or waste products of metabolism from the body
+318. **Effector** - 效应器<br>A tissue or organ that carries out an action in response to a stimulus; muscles and glands are effectors
 
-346. **Homeostasis** - 体内平衡<br>The maintenance of a relatively constant environment for the cells within the body
+319. **Excretion** - 排泄<br>The removal of toxic or waste products of metabolism from the body
 
-347. **Hormone** - 激素<br>A substance secreted by an endocrine gland that is carried in blood plasma to another part of the body where it has an effect
+320. **Homeostasis** - 体内平衡<br>The maintenance of a relatively constant environment for the cells within the body
 
-348. **Negative feedback** - 负反馈<br>A process in which a change in some parameter (e.g. blood glucose concentration) brings about processes which return it towards normal
+321. **Hormone** - 激素<br>A substance secreted by an endocrine gland that is carried in blood plasma to another part of the body where it has an effect
 
-349. **Positive feedback** - 正反馈<br>A process in which a change in some parameter such as a physiological factor brings about processes that move its level even further in the direction of the initial change
+322. **Negative feedback** - 负反馈<br>A process in which a change in some parameter (e.g. blood glucose concentration) brings about processes which return it towards normal
 
-350. **Receptor** - 受体<br>A cell or tissue that is sensitive to a specific stimulus and communicates with a control centre by generating nerve impulses or sending a chemical messenger
+323. **Positive feedback** - 正反馈<br>A process in which a change in some parameter such as a physiological factor brings about processes that move its level even further in the direction of the initial change
 
-351. **Set point** - 设定点<br>The ideal value of a physiological factor that the body controls in homeostasis
+324. **Receptor** - 受体<br>A cell or tissue that is sensitive to a specific stimulus and communicates with a control centre by generating nerve impulses or sending a chemical messenger
 
-352. **Stimulus** - 刺激<br>(plural stimuli) a change in the external or internal environment that is detected by a receptor and which may cause a response
+325. **Set point** - 设定点<br>The ideal value of a physiological factor that the body controls in homeostasis
 
-353. **Urea** - 尿素<br>A nitrogenous excretory product produced in the liver from the deamination of amino acids
+326. **Stimulus** - 刺激<br>(plural stimuli) a change in the external or internal environment that is detected by a receptor and which may cause a response
 
-354. **Afferent arteriole** - 入球小动脉<br>Arteriole leading to glomerular capillaries
+327. **Urea** - 尿素<br>A nitrogenous excretory product produced in the liver from the deamination of amino acids
 
-355. **Antidiuretic hormone (ADH)** - 抗利尿激素 (ADH)<br>Hormone secreted from the pituitary gland that increases water reabsorption in the kidneys and therefore reduces water loss in urine
+328. **Afferent arteriole** - 入球小动脉<br>Arteriole leading to glomerular capillaries
 
-356. **Bowman’s capsule** - 鲍曼囊<br>The cup-shaped part of a nephron that surrounds a glomerulus and collects filtrate from the blood
+329. **Antidiuretic hormone (ADH)** - 抗利尿激素 (ADH)<br>Hormone secreted from the pituitary gland that increases water reabsorption in the kidneys and therefore reduces water loss in urine
 
-357. **Collecting duct** - 集合管<br>Tube in the medulla of the kidney that carries urine from the distal convoluted tubules of many nephrons to the renal pelvis
+330. **Bowman’s capsule** - 鲍曼囊<br>The cup-shaped part of a nephron that surrounds a glomerulus and collects filtrate from the blood
 
-358. **Distal convoluted tubule** - 远曲小管<br>Part of the nephron that leads from the loop of Henle to the collecting duct
+331. **Collecting duct** - 集合管<br>Tube in the medulla of the kidney that carries urine from the distal convoluted tubules of many nephrons to the renal pelvis
 
-359. **Efferent arteriole** - 出球小动脉<br>Arteriole leading away from glomerular capillaries
+332. **Distal convoluted tubule** - 远曲小管<br>Part of the nephron that leads from the loop of Henle to the collecting duct
 
-360. **Glomerulus** - 肾小球<br> (plural glomeruli) a group of capillaries within the ‘cup’ of a Bowman’s capsule in the cortex of the kidney
+333. **Efferent arteriole** - 出球小动脉<br>Arteriole leading away from glomerular capillaries
 
-361. **Loop of Henle** - 亨利氏袢<br>The part of the nephron between the proximal and distal convoluted tubules
+334. **Glomerulus** - 肾小球<br> (plural glomeruli) a group of capillaries within the ‘cup’ of a Bowman’s capsule in the cortex of the kidney
 
-362. **Nephron** - 肾单位<br>The structural and functional unit of the kidney composed of Bowman’s capsule and a tubule divided into three regionsproximal convoluted tubule, loop of Henle and distal convoluted tubule
+335. **Loop of Henle** - 亨利氏袢<br>The part of the nephron between the proximal and distal convoluted tubules
 
-363. **Podocyte** - 足细胞<br>One of the cells that makes up the lining of Bowman’s capsule surrounding the glomerular capillaries
+336. **Nephron** - 肾单位<br>The structural and functional unit of the kidney composed of Bowman’s capsule and a tubule divided into three regionsproximal convoluted tubule, loop of Henle and distal convoluted tubule
 
-364. **Proximal convoluted tubule** - 近曲小管<br>Part of the nephron that leads from Bowman’s capsule to the loop of Henle
+337. **Podocyte** - 足细胞<br>One of the cells that makes up the lining of Bowman’s capsule surrounding the glomerular capillaries
 
-365. **Selective reabsorption** - 选择性重吸收<br>Movement of certain substances from the filtrate in nephrons back into the blood
+338. **Proximal convoluted tubule** - 近曲小管<br>Part of the nephron that leads from Bowman’s capsule to the loop of Henle
 
-366. **Ultrafiltration** - 超滤<br>Filtration on a molecular scale separating small molecules from larger molecules, such as proteins (e.g. the filtration that occurs as blood flows through capillaries, especially those in glomeruli in the kidney) 
+339. **Selective reabsorption** - 选择性重吸收<br>Movement of certain substances from the filtrate in nephrons back into the blood
 
-367. **Osmoreceptor** - 渗透感受器<br>Type of receptor that detects changes in the water potential of blood
+340. **Ultrafiltration** - 超滤<br>Filtration on a molecular scale separating small molecules from larger molecules, such as proteins (e.g. the filtration that occurs as blood flows through capillaries, especially those in glomeruli in the kidney) 
 
-368. **Osmoregulation** - 渗透调节<br>The control of the water potential of blood and tissue fluid by controlling the water content and/or the concentration of ions, particularly sodium ions 
+341. **Osmoreceptor** - 渗透感受器<br>Type of receptor that detects changes in the water potential of blood
 
-369. **Adenylyl cyclise** - 腺苷酸环化酶<br>Enzyme that catalyses formation of the second messenger cyclic AMP
+342. **Osmoregulation** - 渗透调节<br>The control of the water potential of blood and tissue fluid by controlling the water content and/or the concentration of ions, particularly sodium ions 
 
-370. **Biosensor** - 生物传感器<br>A device that uses a biological material such as an enzyme to measure the concentration of a chemical compound
+343. **Adenylyl cyclise** - 腺苷酸环化酶<br>Enzyme that catalyses formation of the second messenger cyclic AMP
 
-371. **Cyclic AMP (c-AMP)** - 环磷酸腺苷 (cAMP)<br>A second messenger in cell– signalling pathways
+344. **Biosensor** - 生物传感器<br>A device that uses a biological material such as an enzyme to measure the concentration of a chemical compound
 
-372. **Glucagon** - 胰高血糖素<br>A small peptide hormone secreted by the α cells in the islets of Langerhans in the pancreas to bring about an increase in the concentration of glucose in the blood 
+345. **Cyclic AMP (c-AMP)** - 环磷酸腺苷 (cAMP)<br>A second messenger in cell– signalling pathways
 
-373. **Gluconeogenesis** - 糖异生<br>The formation of glucose in the liver from non-carbohydrate sources such as amino acids, pyruvate, lactate and glycerol
+346. **Glucagon** - 胰高血糖素<br>A small peptide hormone secreted by the α cells in the islets of Langerhans in the pancreas to bring about an increase in the concentration of glucose in the blood 
 
-374. **Glycogenesis** - 糖原合成<br>Synthesis of glycogen by addition of glucose monomers
+347. **Gluconeogenesis** - 糖异生<br>The formation of glucose in the liver from non-carbohydrate sources such as amino acids, pyruvate, lactate and glycerol
 
-375. **Glycogenolysis** - 糖原分解<br>The breakdown of glycogen by removal of glucose monomers
+348. **Glycogenesis** - 糖原合成<br>Synthesis of glycogen by addition of glucose monomers
 
-376. **Insulin** - 胰岛素<br>A small peptide hormone secreted by the β cells in the islets of Langerhans in the pancreas to bring about a decrease in the concentration of glucose in the blood
+349. **Glycogenolysis** - 糖原分解<br>The breakdown of glycogen by removal of glucose monomers
 
-377. **Islet of Langerhans** - 朗格汉斯岛<br>A group of cells in the pancreas which secrete insulin and glucagon
+350. **Insulin** - 胰岛素<br>A small peptide hormone secreted by the β cells in the islets of Langerhans in the pancreas to bring about a decrease in the concentration of glucose in the blood
 
-378. **Phosphorylase kinase** - 磷酸化酶激酶<br>An enzyme that is part of the enzyme cascade that acts in response to glucagon; the enzyme activates glycogen phosphorylase by adding a phosphate group
+351. **Islet of Langerhans** - 朗格汉斯岛<br>A group of cells in the pancreas which secrete insulin and glucagon
 
-379. **Protein kinase A** - 蛋白激酶A<br>Enzyme that is activated by c-AMP and once activated adds phosphate groups to other proteins, including phosphorylasekinase, to activate them
+352. **Phosphorylase kinase** - 磷酸化酶激酶<br>An enzyme that is part of the enzyme cascade that acts in response to glucagon; the enzyme activates glycogen phosphorylase by adding a phosphate group
 
-380. **Abscisic acid (ABA)** - 脱落酸 (ABA)<br>An inhibitory plant growth regulator that causes closure of stomata in dry conditions
+353. **Protein kinase A** - 蛋白激酶A<br>Enzyme that is activated by c-AMP and once activated adds phosphate groups to other proteins, including phosphorylasekinase, to activate them
 
-381. **Electrochemical gradient** - 电化学梯度<br>A gradient across a cell surface membrane that involves both a difference in concentrations of ions and a potential difference
+354. **Abscisic acid (ABA)** - 脱落酸 (ABA)<br>An inhibitory plant growth regulator that causes closure of stomata in dry conditions
 
-382. **Guard cell** - 保卫细胞<br>A sausage-shaped epidermal cell found with another, in a pair bounding a stoma and controlling its opening or closure
+355. **Electrochemical gradient** - 电化学梯度<br>A gradient across a cell surface membrane that involves both a difference in concentrations of ions and a potential difference
 
-383. **Endocrine gland** - 内分泌腺<br>An organ that secretes hormones directly into the blood; endocrine glands are also known as ductless glands
+356. **Guard cell** - 保卫细胞<br>A sausage-shaped epidermal cell found with another, in a pair bounding a stoma and controlling its opening or closure
 
-384. **Endocrine system** - 内分泌系统<br>Consists of all the endocrine glands in the body together with the hormones that they secrete
+357. **Endocrine gland** - 内分泌腺<br>An organ that secretes hormones directly into the blood; endocrine glands are also known as ductless glands
 
-385. **Acetylcholine (ACh)** - 乙酰胆碱 (ACh)<br>A molecule made up of coenzyme A and a 2C acetyl group, important in the link reaction; a type of neurotransmitter released by cholinergic synapses
+358. **Endocrine system** - 内分泌系统<br>Consists of all the endocrine glands in the body together with the hormones that they secrete
 
-386. **Acetylcholinesterase** - 乙酰胆碱酯酶<br>An enzyme in the synaptic cleft and on the postsynaptic membrane that hydrolyses ACh to acetate and choline
+## Control and Coordination
 
-387. **Action potential** - 动作电位<br>A brief change in the potential difference from –70 mV to +30 mV across the cell surface membranes of neurones and muscle cells caused by the inward movement of sodium ions
+316. **Acetylcholine (ACh)** - 乙酰胆碱 (ACh)<br>A molecule made up of coenzyme A and a 2C acetyl group, important in the link reaction; a type of neurotransmitter released by cholinergic synapses
 
-388. **All-or-none law** - 全或无定律<br>Neurones and muscle cells only transmit impulses if the initial stimulus is sufficient to increase the membrane potential above a threshold potential
+317. **Acetylcholinesterase** - 乙酰胆碱酯酶<br>An enzyme in the synaptic cleft and on the postsynaptic membrane that hydrolyses ACh to acetate and choline
 
-389. **Chemoreceptor** - 化学感受器<br>A receptor cell that responds to chemical stimuli; chemoreceptors are found in taste buds on the tongue, in the nose and in bloodvessels where they detect changes in oxygen and carbon dioxide concentrations
+318. **Action potential** - 动作电位<br>A brief change in the potential difference from –70 mV to +30 mV across the cell surface membranes of neurones and muscle cells caused by the inward movement of sodium ions
 
-390. **Cholinergic synapse** - 胆碱能突触<br>A synapse at which the transmitter substance is ACh
+319. **All-or-none law** - 全或无定律<br>Neurones and muscle cells only transmit impulses if the initial stimulus is sufficient to increase the membrane potential above a threshold potential
 
-391. **Depolarisation** - 去极化<br>The reversal of the resting potential across the cell surface membrane of a neurone or muscle cell, so that the inside becomes positively charged compared with the outside
+320. **Chemoreceptor** - 化学感受器<br>A receptor cell that responds to chemical stimuli; chemoreceptors are found in taste buds on the tongue, in the nose and in bloodvessels where they detect changes in oxygen and carbon dioxide concentrations
 
-392. **Motor neurone** - 运动神经元<br>A neurone whose cell body is in the brain, spinal cord or a ganglion (a swelling on a nerve), and that transmits nerve impulses to an effector such as a muscle or gland
+321. **Cholinergic synapse** - 胆碱能突触<br>A synapse at which the transmitter substance is ACh
 
-393. **Myelin** - 髓鞘<br>Insulating material that surrounds the axons of many neurones; myelin is made of layers of cell surface membranes formed by Schwann cells so that they are very rich in phospholipids and therefore impermeable to water and ions in tissue fluid
+322. **Depolarisation** - 去极化<br>The reversal of the resting potential across the cell surface membrane of a neurone or muscle cell, so that the inside becomes positively charged compared with the outside
 
-394. **Nerve impulse** - 神经冲动<br>(usually shortened to impulse) a wave of electrical depolarisation that is transmitted along neurones
+323. **Motor neurone** - 运动神经元<br>A neurone whose cell body is in the brain, spinal cord or a ganglion (a swelling on a nerve), and that transmits nerve impulses to an effector such as a muscle or gland
 
-395. **Neuromuscular junction** - 神经肌肉接头<br>A synapse between a motor neurone and a muscle
+324. **Myelin** - 髓鞘<br>Insulating material that surrounds the axons of many neurones; myelin is made of layers of cell surface membranes formed by Schwann cells so that they are very rich in phospholipids and therefore impermeable to water and ions in tissue fluid
 
-396. **Neurone** - 神经元<br>Anerve cell; a cell which is specialised for the conduction of nerve impulses
+325. **Nerve impulse** - 神经冲动<br>(usually shortened to impulse) a wave of electrical depolarisation that is transmitted along neurones
 
-397. **Neurotransmitter** - 神经递质<br>A chemical released at synapses to transmit impulses between neurones or between a motor neurone and a muscle fibre
+326. **Neuromuscular junction** - 神经肌肉接头<br>A synapse between a motor neurone and a muscle
 
-398. **Node of Ranvier** - 郎飞结<br>A very short gap between Schwann cells where myelinated axons are not covered in myelin so are exposed to tissue fluid
+327. **Neurone** - 神经元<br>Anerve cell; a cell which is specialised for the conduction of nerve impulses
 
-399. **Noradrenaline** - 去甲肾上腺素<br>A type of neurotransmitter, which is also released by cells in the adrenal glands as a hormone
+328. **Neurotransmitter** - 神经递质<br>A chemical released at synapses to transmit impulses between neurones or between a motor neurone and a muscle fibre
 
-400. **Postsynaptic neurone** - 突触后神经元<br>The neurone on the opposite side of a synapse to the neurone in which the action potential arrives
+329. **Node of Ranvier** - 郎飞结<br>A very short gap between Schwann cells where myelinated axons are not covered in myelin so are exposed to tissue fluid
 
-401. **Potential difference** - 电位差<br>The difference in electrical potential between two points; in the nervous system, between the inside and the outside of a cell surface membrane such as the membrane that encloses an axon
+330. **Noradrenaline** - 去甲肾上腺素<br>A type of neurotransmitter, which is also released by cells in the adrenal glands as a hormone
 
-402. **Presynaptic neurone** - 突触前神经元<br>A neurone ending at a synapse from which neurotransmitter is released when an action potential arrives
+331. **Postsynaptic neurone** - 突触后神经元<br>The neurone on the opposite side of a synapse to the neurone in which the action potential arrives
 
-403. **Receptor potential** - 受体电位<br>A change in the normal resting potential across the membrane of a receptor cell, caused by a stimulus
+332. **Potential difference** - 电位差<br>The difference in electrical potential between two points; in the nervous system, between the inside and the outside of a cell surface membrane such as the membrane that encloses an axon
 
-404. **Receptor protein** - 受体蛋白<br>A protein on a postsynaptic membrane that is a ligand-gated channel protein opening in response to binding of a neurotransmitter
+333. **Presynaptic neurone** - 突触前神经元<br>A neurone ending at a synapse from which neurotransmitter is released when an action potential arrives
 
-405. **Refractory period** - 不应期<br>A period of time during which a neurone is recovering from an action potential, and during which another action potential cannot be generated
+334. **Receptor potential** - 受体电位<br>A change in the normal resting potential across the membrane of a receptor cell, caused by a stimulus
 
-406. **Repolarisation** - 复极化<br>Returning the potential difference across the cell surface membrane of a neurone or muscle cell to normal following the depolarisation of an action potential
+335. **Receptor protein** - 受体蛋白<br>A protein on a postsynaptic membrane that is a ligand-gated channel protein opening in response to binding of a neurotransmitter
 
-407. **Resting potential** - 静息电位<br>The difference in electrical potential that is maintained across the cell surface membrane of a neurone when it is not transmitting an action potential; it is normally about –70 mV inside and is partly maintained by sodium–potassium pumps
+336. **Refractory period** - 不应期<br>A period of time during which a neurone is recovering from an action potential, and during which another action potential cannot be generated
 
-408. **Saltatory conduction** - 跳跃传导<br>Movement of an action potential along a myelinated axon, in which the action potential ‘jumps’ from one node of Ranvier to the next
+337. **Repolarisation** - 复极化<br>Returning the potential difference across the cell surface membrane of a neurone or muscle cell to normal following the depolarisation of an action potential
 
-409. **Sensory neurone** - 感觉神经元<br>A neurone that transmits nerve impulses from a receptor to the central nervous system
+338. **Resting potential** - 静息电位<br>The difference in electrical potential that is maintained across the cell surface membrane of a neurone when it is not transmitting an action potential; it is normally about –70 mV inside and is partly maintained by sodium–potassium pumps
 
-410. **Synapse** - 突触<br>A point at which two neurones meet but do not touch; the synapse is made up of the end of the presynaptic neurone, the synaptic cleft and the end of the postsynaptic neurone
+339. **Saltatory conduction** - 跳跃传导<br>Movement of an action potential along a myelinated axon, in which the action potential ‘jumps’ from one node of Ranvier to the next
 
-411. **Synaptic cleft** - 突触间隙<br>A very small gap between two neurones at a synapse; nerve impulses are transmitted across synaptic clefts by neurotransmitters
+340. **Sensory neurone** - 感觉神经元<br>A neurone that transmits nerve impulses from a receptor to the central nervous system
 
-412. **Threshold potential** - 阈电位<br>The critical potential difference across the cell surface membrane of a sensory receptor or neurone which must be reached before an action potential is initiated
+341. **Synapse** - 突触<br>A point at which two neurones meet but do not touch; the synapse is made up of the end of the presynaptic neurone, the synaptic cleft and the end of the postsynaptic neurone
 
-413. **Voltage-gated channel protein** - 电压门控通道蛋白<br>A channel protein through a cell membrane that opens or closes in response to changes in electrical potential across the membrane
+342. **Synaptic cleft** - 突触间隙<br>A very small gap between two neurones at a synapse; nerve impulses are transmitted across synaptic clefts by neurotransmitters
 
-414. **Voltage-gated calcium ion channel protein** - 电压门控钙离子通道蛋白<br>A channel protein in presynaptic membranes that responds to depolarisation by opening to allow diffusion of calcium ions down their electrochemical gradient
+343. **Threshold potential** - 阈电位<br>The critical potential difference across the cell surface membrane of a sensory receptor or neurone which must be reached before an action potential is initiated
 
-415. **Actin** - 肌动蛋白<br>The protein that makes up the thin filaments in striated muscle
+344. **Voltage-gated channel protein** - 电压门控通道蛋白<br>A channel protein through a cell membrane that opens or closes in response to changes in electrical potential across the membrane
 
-416. **Myofibril** - 肌原纤维<br>One of many cylindrical bundles of thick (myosin) and thin (actin) filaments inside a muscle fibre
+345. **Voltage-gated calcium ion channel protein** - 电压门控钙离子通道蛋白<br>A channel protein in presynaptic membranes that responds to depolarisation by opening to allow diffusion of calcium ions down their electrochemical gradient
 
-417. **Myosin** - 肌球蛋白<br>The protein that makes up the thick filaments in striated muscle; the globular heads of each molecule break down ATP (they act as an ATP-ase)
+346. **Actin** - 肌动蛋白<br>The protein that makes up the thin filaments in striated muscle
 
-418. **Sarcolemma** - 肌膜<br>The cell surface membrane of a muscle fibre 
+347. **Myofibril** - 肌原纤维<br>One of many cylindrical bundles of thick (myosin) and thin (actin) filaments inside a muscle fibre
 
-419. **Sarcomere** - 肌节<br>The part of amyofibril between two Z discs
+348. **Myosin** - 肌球蛋白<br>The protein that makes up the thick filaments in striated muscle; the globular heads of each molecule break down ATP (they act as an ATP-ase)
 
-420. **Sarcoplasm** - 肌质<br>The cytoplasm of muscle cells
+349. **Sarcolemma** - 肌膜<br>The cell surface membrane of a muscle fibre 
 
-421. **Sarcoplasmic reticulum (SR)** - 肌浆网 (SR)<br>The endoplasmic reticulum of muscle fibre
+350. **Sarcomere** - 肌节<br>The part of amyofibril between two Z discs
 
-422. **Sliding filament model** - 滑动丝模型<br>The mechanism of muscle contraction; within each sarcomere the movement of thin filaments closer together by the action of myosin heads in the thick filaments shortens the overall length of each muscle fibre
+351. **Sarcoplasm** - 肌质<br>The cytoplasm of muscle cells
 
-423. **Striated muscle** - 横纹肌<br>Type of muscle tissue in skeletal muscles; the muscle fibres have regular striations that can be seen under the light microscope
+352. **Sarcoplasmic reticulum (SR)** - 肌浆网 (SR)<br>The endoplasmic reticulum of muscle fibre
 
-424. **Transverse system tubule (or T-system tubule or T-tubule)** - 横管系统 (T系统或T管)<br>Infolding of the sarcolemma that goes deep into a muscle fibre and conducts impulses to the SR
+353. **Sliding filament model** - 滑动丝模型<br>The mechanism of muscle contraction; within each sarcomere the movement of thin filaments closer together by the action of myosin heads in the thick filaments shortens the overall length of each muscle fibre
 
-425. **Tropomyosin** - 原肌球蛋白<br>A fibrous protein that is part of the thin filaments in myofibrils in striated muscle; tropomyosin blocks the attachment site on the thin filament for myosin heads so preventing the formation of cross-bridges
+354. **Striated muscle** - 横纹肌<br>Type of muscle tissue in skeletal muscles; the muscle fibres have regular striations that can be seen under the light microscope
 
-426. **Troponin** - 肌钙蛋白<br>A calcium-binding protein that is part of the thin filaments in myofibrils in striated muscle
+355. **Transverse system tubule (or T-system tubule or T-tubule)** - 横管系统 (T系统或T管)<br>Infolding of the sarcolemma that goes deep into a muscle fibre and conducts impulses to the SR
 
-427. **Aleurone layer** - 糊粉层<br>A layer of tissue around the endosperm that synthesises amylase during germination
+356. **Tropomyosin** - 原肌球蛋白<br>A fibrous protein that is part of the thin filaments in myofibrils in striated muscle; tropomyosin blocks the attachment site on the thin filament for myosin heads so preventing the formation of cross-bridges
 
-428. **Auxin** - 生长素<br>A plant growth regulator (plant hormone) that stimulates cell elongation
+357. **Troponin** - 肌钙蛋白<br>A calcium-binding protein that is part of the thin filaments in myofibrils in striated muscle
 
-429. **Endosperm** - 胚乳<br>A tissue in some seeds, such as barley, that is a store of starch and other nutrients
+358. **Aleurone layer** - 糊粉层<br>A layer of tissue around the endosperm that synthesises amylase during germination
 
-430. **Expansins** - 伸展蛋白<br>Proteins in the cell walls of plants that loosen the attachment of microfibrils of cellulose during elongation growth
+359. **Auxin** - 生长素<br>A plant growth regulator (plant hormone) that stimulates cell elongation
 
-431. **Gibberellin** - 赤霉素<br>A plant growth regulator (plant hormone) that stimulates seed germination and regulates plant height (stem growth); a lack of gibberellin causes dwarfness
+360. **Endosperm** - 胚乳<br>A tissue in some seeds, such as barley, that is a store of starch and other nutrients
 
-432. **Plant growth regulator (plant hormone)** - 植物生长调节剂 (植物激素)<br>Any chemical produced in plants that influences their growth and development (e.g. auxins, gibberellins, cytokinins and ABA)
+361. **Expansins** - 伸展蛋白<br>Proteins in the cell walls of plants that loosen the attachment of microfibrils of cellulose during elongation growth
 
-433. **Bivalent** - 二价体<br>Two homologous chromosomes lying alongside each other during meiosis I
+362. **Gibberellin** - 赤霉素<br>A plant growth regulator (plant hormone) that stimulates seed germination and regulates plant height (stem growth); a lack of gibberellin causes dwarfness
 
-434. **Chiasma ** - 交叉点<br>(plural chiasmata) a position at which non-sister chromatids of homologous chromosomes cross over each other
+363. **Plant growth regulator (plant hormone)** - 植物生长调节剂 (植物激素)<br>Any chemical produced in plants that influences their growth and development (e.g. auxins, gibberellins, cytokinins and ABA)
 
-435. **Crossing over** - 交叉互换<br>The exchange of alleles between non-sister chromatids of homologous chromosomes during meiosis I 
+364. **Bivalent** - 二价体<br>Two homologous chromosomes lying alongside each other during meiosis I
 
-436. **Diploid** - 二倍体<br>Containing two complete sets of chromosomes; can be signified by the symbol 2n
+365. **Chiasma ** - 交叉点<br>(plural chiasmata) a position at which non-sister chromatids of homologous chromosomes cross over each other
 
-437. **Fertilisation** - 受精<br>The fusing of the nuclei of two gametes, to form a zygote
+366. **Crossing over** - 交叉互换<br>The exchange of alleles between non-sister chromatids of homologous chromosomes during meiosis I 
 
-438. **Gamete** - 配子<br>A sex cell; during sexual reproduction, two gametes fuse together to form a zygote; gametes are usually haploid
+367. **Diploid** - 二倍体<br>Containing two complete sets of chromosomes; can be signified by the symbol 2n
 
-439. **Haploid** - 单倍体<br>Containing one complete set of chromosomes; can be signified by the symbol n
+368. **Fertilisation** - 受精<br>The fusing of the nuclei of two gametes, to form a zygote
 
-440. **Homologous chromosomes** - 同源染色体<br>Two chromosomes that carry the same genes in the same positions
+369. **Gamete** - 配子<br>A sex cell; during sexual reproduction, two gametes fuse together to form a zygote; gametes are usually haploid
 
-441. **Meiosis** - 减数分裂<br>Nuclear division that results in the production of four daughter cells with half the chromosome number of the parent cell and with reshuffled alleles; in animals and plants it results in the formation of gametes
+370. **Haploid** - 单倍体<br>Containing one complete set of chromosomes; can be signified by the symbol n
 
-442. **Reduction division** - 减数分裂<br>Nuclear division that results in a reduction in chromosome number; the first division of meiosis is a reduction division
+371. **Homologous chromosomes** - 同源染色体<br>Two chromosomes that carry the same genes in the same positions
 
-443. **Sexual reproduction** - 有性生殖<br>Reproduction involving the fusion of gametes (fertilisation) to produce a zygote
+372. **Meiosis** - 减数分裂<br>Nuclear division that results in the production of four daughter cells with half the chromosome number of the parent cell and with reshuffled alleles; in animals and plants it results in the formation of gametes
 
-444. **Zygote** - 合子<br>A cell formed by the fusion of the nuclei of two gametes; most zygotes are diploid
+373. **Reduction division** - 减数分裂<br>Nuclear division that results in a reduction in chromosome number; the first division of meiosis is a reduction division
 
-445. **Allele** - 等位基因<br>A variety of a gene
+374. **Sexual reproduction** - 有性生殖<br>Reproduction involving the fusion of gametes (fertilisation) to produce a zygote
 
-446. **Independent assortment** - 独立分配<br>The production of different combinations of alleles in daughter cells, as a result of the random alignment of bivalents on the equator of the spindle during metaphase I of meiosis
+375. **Zygote** - 合子<br>A cell formed by the fusion of the nuclei of two gametes; most zygotes are diploid
 
-447. **Locus** - 基因座<br>The position of a gene on a chromosome
+376. **Allele** - 等位基因<br>A variety of a gene
 
-448. **Genotype** - 基因型<br>The alleles possessed by an organism
+377. **Independent assortment** - 独立分配<br>The production of different combinations of alleles in daughter cells, as a result of the random alignment of bivalents on the equator of the spindle during metaphase I of meiosis
 
-449. **Heterozygous** - 杂合子<br>Having two different alleles of a gene
+378. **Locus** - 基因座<br>The position of a gene on a chromosome
 
-450. **Homozygous** - 纯合子<br>Having two identical alleles of a gene
+379. **Genotype** - 基因型<br>The alleles possessed by an organism
 
-451. **Phenotype** - 表现型<br>The observable features of an organism; it is affected by genes and also by environment
+380. **Heterozygous** - 杂合子<br>Having two different alleles of a gene
 
-452. **Codominant** - 共显性<br>Codominant alleles each affect phenotype when both of them are present
+381. **Homozygous** - 纯合子<br>Having two identical alleles of a gene
 
-453. **Dominant** - 显性<br>A dominant allele has the same effect on phenotype, whether or not another allele is present
+382. **Phenotype** - 表现型<br>The observable features of an organism; it is affected by genes and also by environment
 
-454. **F1 generation** - F1代<br>The offspring resulting from the cross between individuals with a homozygous recessive and a homozygous dominant genotype
+383. **Codominant** - 共显性<br>Codominant alleles each affect phenotype when both of them are present
 
-455. **F2 generation** - F2代<br>The offspring resulting from across between two F1 individuals
+384. **Dominant** - 显性<br>A dominant allele has the same effect on phenotype, whether or not another allele is present
 
-456. **Genetic diagram** - 遗传图<br>A standard format in which the results of a genetic cross are predicted and explained
+385. **F1 generation** - F1代<br>The offspring resulting from the cross between individuals with a homozygous recessive and a homozygous dominant genotype
 
-457. **Monohybrid inheritance** - 单基因遗传<br>Inheritance of one gene
+386. **F2 generation** - F2代<br>The offspring resulting from across between two F1 individuals
 
-458. **Multiple alleles** - 多等位基因<br>The existence of three or more alleles of a gene, as, e.g., in the determination of A,B,O blood groups
+387. **Genetic diagram** - 遗传图<br>A standard format in which the results of a genetic cross are predicted and explained
 
-459. **Punnett square** - 庞尼特方格<br>Part of a genetic diagram in which the genotypes of the offspring are worked out from the genotypes of the gametes
+388. **Monohybrid inheritance** - 单基因遗传<br>Inheritance of one gene
 
-460. **Recessive** - 隐性<br>A recessive allele only affects phenotype if no dominant allele is present
+389. **Multiple alleles** - 多等位基因<br>The existence of three or more alleles of a gene, as, e.g., in the determination of A,B,O blood groups
 
-461. **Sex chromosomes** - 性染色体<br>The chromosomes that determine sex; in humans, these are the X and Y chromosomes
+390. **Punnett square** - 庞尼特方格<br>Part of a genetic diagram in which the genotypes of the offspring are worked out from the genotypes of the gametes
 
-462. **Test cross** - 测交<br>A genetic cross in which an organism showing a characteristic caused by a dominant allele is crossed with an organism showing the dominant characteristic is crossed with a homozygous recessive organism; the phenotypes of the offspring can indicate whether the original organism is homozygous or heterozygous
+391. **Recessive** - 隐性<br>A recessive allele only affects phenotype if no dominant allele is present
 
-463. **Autosomal linkage** - 常染色体连锁<br>The presence of two genes on the same autosome, (any chromosome other than a sex chromosome) so that they tend to be inherited together and do not assort independently
+392. **Sex chromosomes** - 性染色体<br>The chromosomes that determine sex; in humans, these are the X and Y chromosomes
 
-464. **Carrier** - 携带者<br>An individual that possesses a particular allele as a single copy whose effect is masked by a dominant allele, so that the associated characteristic (such as a hereditary disease) is not displayed but maybe passed to offspring
+393. **Test cross** - 测交<br>A genetic cross in which an organism showing a characteristic caused by a dominant allele is crossed with an organism showing the dominant characteristic is crossed with a homozygous recessive organism; the phenotypes of the offspring can indicate whether the original organism is homozygous or heterozygous
 
-465. **Dihybrid inheritance** - 双基因遗传<br>The inheritance of two genes
+394. **Autosomal linkage** - 常染色体连锁<br>The presence of two genes on the same autosome, (any chromosome other than a sex chromosome) so that they tend to be inherited together and do not assort independently
 
-466. **Epistasis** - 上位性<br>The interaction of two genes at different loci; one gene may affect the expression of the other
+395. **Carrier** - 携带者<br>An individual that possesses a particular allele as a single copy whose effect is masked by a dominant allele, so that the associated characteristic (such as a hereditary disease) is not displayed but maybe passed to offspring
 
-467. **Parental type** - 亲本型<br>Offspring that show the same combinations of characteristics as their parents
+396. **Dihybrid inheritance** - 双基因遗传<br>The inheritance of two genes
 
-468. **Recombinant** - 重组型<br>Offspring that show different combinations of characteristics from their parents
+397. **Epistasis** - 上位性<br>The interaction of two genes at different loci; one gene may affect the expression of the other
 
-469. **Sex-linked gene** - 性连锁基因<br>A gene found on a region of a sex chromosome that is not present on the other sex chromosome; in humans, most sex-linked genes are found on the X chromosome
+398. **Parental type** - 亲本型<br>Offspring that show the same combinations of characteristics as their parents
 
-470. **Linkage** - 连锁<br>See autosomal linkage; see sex-linked gene
+399. **Recombinant** - 重组型<br>Offspring that show different combinations of characteristics from their parents
 
-471. **Chi-squared (χ2) test** - 卡方 (χ2) 检验<br>A statistical test that can be used to determine whether differences between observed and expected results are significant
+400. **Sex-linked gene** - 性连锁基因<br>A gene found on a region of a sex chromosome that is not present on the other sex chromosome; in humans, most sex-linked genes are found on the X chromosome
 
-472. **Inducible enzyme** - 诱导酶<br>An enzyme that is synthesised only when its substrate is present
+401. **Linkage** - 连锁<br>See autosomal linkage; see sex-linked gene
 
-473. **Lac operon** - 乳糖操纵子<br>An operon found in some bacteria that controls the production of β-galactosidase and two other structural proteins
+402. **Chi-squared (χ2) test** - 卡方 (χ2) 检验<br>A statistical test that can be used to determine whether differences between observed and expected results are significant
 
-474. **Operon** - 操纵子<br>A functional unit of transcription; acluster of genes that are controlled by the same promoter
+403. **Inducible enzyme** - 诱导酶<br>An enzyme that is synthesised only when its substrate is present
 
-475. **Regulatory gene** - 调控基因<br>A gene that codes for a protein that helps to control the expression of other genes
+404. **Lac operon** - 乳糖操纵子<br>An operon found in some bacteria that controls the production of β-galactosidase and two other structural proteins
 
-476. **Repressible enzyme** - 可抑制酶<br>An enzyme that is normally produced, and whose synthesis is prevented by the presence of an effector
+405. **Operon** - 操纵子<br>A functional unit of transcription; acluster of genes that are controlled by the same promoter
 
-477. **Structural gene** - 结构基因<br>A gene that codes for a protein that has a function within a cell
+406. **Regulatory gene** - 调控基因<br>A gene that codes for a protein that helps to control the expression of other genes
 
-478. **Transcription factor** - 转录因子<br>A molecule that affects whether or not a gene is transcribed
+407. **Repressible enzyme** - 可抑制酶<br>An enzyme that is normally produced, and whose synthesis is prevented by the presence of an effector
 
-479. **Β-galactosidase** - β-半乳糖苷酶<br>An enzyme that catalyses the hydrolysis of lactose to glucose and galactose
+408. **Structural gene** - 结构基因<br>A gene that codes for a protein that has a function within a cell
 
-480. **Continuous variation** - 连续变异<br>Differences between individuals of a species in which each one can lie at any point in the range between the highest and lowest values
+409. **Transcription factor** - 转录因子<br>A molecule that affects whether or not a gene is transcribed
 
-481. **Discontinuous variation** - 非连续变异<br>Differences between individuals of a species in which each one belongs to one of a small number of distinct categories, with no intermediates
+410. **Β-galactosidase** - β-半乳糖苷酶<br>An enzyme that catalyses the hydrolysis of lactose to glucose and galactose
 
-482. **Genetic variation** - 遗传变异<br>Differences between the DNA base sequences of individuals within a species
+411. **Continuous variation** - 连续变异<br>Differences between individuals of a species in which each one can lie at any point in the range between the highest and lowest values
 
-483. **Phenotypic variation** - 表型变异<br>Differences between the observable characteristics of individuals within a species
+412. **Discontinuous variation** - 非连续变异<br>Differences between individuals of a species in which each one belongs to one of a small number of distinct categories, with no intermediates
 
-484. **Polygenes** - 多基因<br>A number of different genes at different loci that all contribute to a particular aspect of phenotype
+413. **Genetic variation** - 遗传变异<br>Differences between the DNA base sequences of individuals within a species
 
-485. **Abiotic factor** - 非生物因素<br>An environmental factor that is caused by non-living components (e.g. soil pH, light intensity)
+414. **Phenotypic variation** - 表型变异<br>Differences between the observable characteristics of individuals within a species
 
-486. **Biotic factor** - 生物因素<br>An environmental factor that is caused by living organisms (e.g. predation, competition)
+415. **Polygenes** - 多基因<br>A number of different genes at different loci that all contribute to a particular aspect of phenotype
 
-487. **Competition** - 竞争<br>The need for aresource by two organisms, when that resource is in short supply
+416. **Abiotic factor** - 非生物因素<br>An environmental factor that is caused by non-living components (e.g. soil pH, light intensity)
 
-488. **Directional selection** - 定向选择<br>Natural selection that causes a gradual change in allele frequency over many generations
+417. **Biotic factor** - 生物因素<br>An environmental factor that is caused by living organisms (e.g. predation, competition)
 
-489. **Disruptive selection** - 破坏性选择<br>Natural selection that maintains relatively high frequencies of two different sets of alleles; individuals with intermediate features and allele sets are not selected for
+418. **Competition** - 竞争<br>The need for aresource by two organisms, when that resource is in short supply
 
-490. **Environmental factor** - 环境因素<br>A feature of the environment of an organism that affects its survival
+419. **Directional selection** - 定向选择<br>Natural selection that causes a gradual change in allele frequency over many generations
 
-491. **Fitness** - 适应度<br>The ability of an organism to survive and reproduce
+420. **Disruptive selection** - 破坏性选择<br>Natural selection that maintains relatively high frequencies of two different sets of alleles; individuals with intermediate features and allele sets are not selected for
 
-492. **Natural selection** - 自然选择<br>The process by which individuals with a particular set of alleles are more likely to survive and reproduce than those with other alleles; overtime and many generations, the advantageous alleles become more frequent in the population
+421. **Environmental factor** - 环境因素<br>A feature of the environment of an organism that affects its survival
 
-493. **Polymorphism** - 多态性<br>The continued existence of two or more different phenotypes in a species
+422. **Fitness** - 适应度<br>The ability of an organism to survive and reproduce
 
-494. **Selection pressure** - 选择压力<br>An environmental factor that affects the chance of survival of an organism; organisms with one phenotype are more likely to survive and reproduce than those with a different phenotype
+423. **Natural selection** - 自然选择<br>The process by which individuals with a particular set of alleles are more likely to survive and reproduce than those with other alleles; overtime and many generations, the advantageous alleles become more frequent in the population
 
-495. **Stabilising selection** - 稳定选择<br>Natural selection that tends to keep allele frequencies relatively constant over many generations
+424. **Polymorphism** - 多态性<br>The continued existence of two or more different phenotypes in a species
 
-496. **Bottleneck (evolutionary)** - 瓶颈效应 (进化)<br>A period when the numbers of a species fall to a very low level, resulting in the loss of a large number of alleles and therefore a reduction in the gene pool of the species
+425. **Selection pressure** - 选择压力<br>An environmental factor that affects the chance of survival of an organism; organisms with one phenotype are more likely to survive and reproduce than those with a different phenotype
 
-497. **Founder effect** - 奠基者效应<br>The reduction in a gene pool compared with the main populations of a species, resulting from only two or three individuals (with only a selection of the alleles in the gene pool) starting off a new population
+426. **Stabilising selection** - 稳定选择<br>Natural selection that tends to keep allele frequencies relatively constant over many generations
 
-498. **Gene pool** - 基因库<br>The complete range of DNA base sequences in all the organisms in a species or population
+427. **Bottleneck (evolutionary)** - 瓶颈效应 (进化)<br>A period when the numbers of a species fall to a very low level, resulting in the loss of a large number of alleles and therefore a reduction in the gene pool of the species
 
-499. **Genetic drift** - 遗传漂变<br>The gradual change in allele frequencies in a small population, where some alleles are lost or favoured just by chance and not by natural selection
+428. **Founder effect** - 奠基者效应<br>The reduction in a gene pool compared with the main populations of a species, resulting from only two or three individuals (with only a selection of the alleles in the gene pool) starting off a new population
 
-500. **Artificial selection** - 人工选择<br>The selection by humans of organisms with desired traits to survive and reproduce; also known as selective breeding
+429. **Gene pool** - 基因库<br>The complete range of DNA base sequences in all the organisms in a species or population
 
-501. **Hybrid vigour** - 杂种优势<br>An increased ability to survive and grow well, as a result of outbreeding and therefore increased heterozygosity
+430. **Genetic drift** - 遗传漂变<br>The gradual change in allele frequencies in a small population, where some alleles are lost or favoured just by chance and not by natural selection
 
-502. **Inbreeding** - 近亲繁殖<br>Breeding between organisms with similar genotypes, or that are closely related
+431. **Artificial selection** - 人工选择<br>The selection by humans of organisms with desired traits to survive and reproduce; also known as selective breeding
 
-503. **Inbreeding depression** - 近交衰退<br>A loss of the ability to survive and grow well, due to breeding between close relatives; this increases the chance of harmful recessive alleles coming together in an individual and being expressed
+432. **Hybrid vigour** - 杂种优势<br>An increased ability to survive and grow well, as a result of outbreeding and therefore increased heterozygosity
 
-504. **Outbreeding** - 异交<br>Breeding between individuals that are not closely related
+433. **Inbreeding** - 近亲繁殖<br>Breeding between organisms with similar genotypes, or that are closely related
 
-505. **Selective breeding** - 选择性育种<br>See artificial selection
+434. **Inbreeding depression** - 近交衰退<br>A loss of the ability to survive and grow well, due to breeding between close relatives; this increases the chance of harmful recessive alleles coming together in an individual and being expressed
 
-506. **Allopatric speciation** - 异域物种形成<br>The development of new species following geographical isolation
+435. **Outbreeding** - 异交<br>Breeding between individuals that are not closely related
 
-507. **Behavioural separation** - 行为隔离<br>The separation of two populations because they have different behaviours which prevent them breeding together
+436. **Selective breeding** - 选择性育种<br>See artificial selection
 
-508. **Ecological separation** - 生态隔离<br>The separation of two populations because they live in different environments in the same area and so cannot breed together
+437. **Allopatric speciation** - 异域物种形成<br>The development of new species following geographical isolation
 
-509. **Evolution** - 进化<br>A process leading to the formation of new species from pre-existing species overtime
+438. **Behavioural separation** - 行为隔离<br>The separation of two populations because they have different behaviours which prevent them breeding together
 
-510. **Genetically isolated** - 遗传隔离<br>No longer able to breed together; there is no exchange of genes
+439. **Ecological separation** - 生态隔离<br>The separation of two populations because they live in different environments in the same area and so cannot breed together
 
-511. **Geographical isolation** - 地理隔离<br>Separation by a geographical barrier, such as a stretch of water or a mountain range
+440. **Evolution** - 进化<br>A process leading to the formation of new species from pre-existing species overtime
 
-512. **Morphological** - 形态学<br>Relating to structural features
+441. **Genetically isolated** - 遗传隔离<br>No longer able to breed together; there is no exchange of genes
 
-513. **Physiological** - 生理学<br>Relating to metabolic and other processes in a living organism
+442. **Geographical isolation** - 地理隔离<br>Separation by a geographical barrier, such as a stretch of water or a mountain range
 
-514. **Reproductive isolation** - 生殖隔离<br>The inability of two groups of organisms to breed with one another; two populations of the same species maybe geographically separated, or two different species are unable to breed to produce fertile offspring
+443. **Morphological** - 形态学<br>Relating to structural features
 
-515. **Speciation** - 物种形成<br>The production of new species 
+444. **Physiological** - 生理学<br>Relating to metabolic and other processes in a living organism
 
-516. **Sympatric speciation** - 同域物种形成<br>The development of new species without any geographical separation
+445. **Reproductive isolation** - 生殖隔离<br>The inability of two groups of organisms to breed with one another; two populations of the same species maybe geographically separated, or two different species are unable to breed to produce fertile offspring
 
-517. **Animalia** - 动物界<br>Kingdom of eukaryotic organisms which are multicellular and heterotrophic and have a nervous system
+446. **Speciation** - 物种形成<br>The production of new species 
 
-518. **Archaea** - 古菌<br>The domain of prokaryotic organisms that resemble bacteria but share some features with eukaryotes
+447. **Sympatric speciation** - 同域物种形成<br>The development of new species without any geographical separation
 
-519. **Bacteria** - 细菌<br>The domain that contains all prokaryotic organisms except those classified as Archaea
+448. **Animalia** - 动物界<br>Kingdom of eukaryotic organisms which are multicellular and heterotrophic and have a nervous system
 
-520. **Biological classification** - 生物分类<br>The organisation of living and extinct organisms into systematic groups based on similarities and differences between species
+449. **Archaea** - 古菌<br>The domain of prokaryotic organisms that resemble bacteria but share some features with eukaryotes
 
-521. **Biological species** - 生物种<br>A group of organisms with similar morphology and physiology, which can breed together to produce fertile offspring and are reproductively isolated from other species
+450. **Bacteria** - 细菌<br>The domain that contains all prokaryotic organisms except those classified as Archaea
 
-522. **Domain** - 域<br>The highest taxonomic rank
+451. **Biological classification** - 生物分类<br>The organisation of living and extinct organisms into systematic groups based on similarities and differences between species
 
-523. **Ecological species** - 生态种<br>A population of individuals of the same species living in the same area at the sametime
+452. **Biological species** - 生物种<br>A group of organisms with similar morphology and physiology, which can breed together to produce fertile offspring and are reproductively isolated from other species
 
-524. **Eukarya** - 真核生物域<br>The domain that contains all eukaryotic organismsprotoctists, fungi, plants and animals
+453. **Domain** - 域<br>The highest taxonomic rank
 
-525. **Fungi** - 真菌<br>Kingdom of eukaryotic organisms which do not photosynthesise and have cell walls but without cellulose
+454. **Ecological species** - 生态种<br>A population of individuals of the same species living in the same area at the sametime
 
-526. **Hierarchical classification** - 分层分类<br>The arrangement of organisms into groups of different rank. The lowest rank is the species; similar species are grouped together into the next rank, which is the genus; this continues to the highest rank, which is the domain where many species are grouped together
+455. **Eukarya** - 真核生物域<br>The domain that contains all eukaryotic organismsprotoctists, fungi, plants and animals
 
-527. **Kingdom** - 界<br>The taxonomic rank below domain
+456. **Fungi** - 真菌<br>Kingdom of eukaryotic organisms which do not photosynthesise and have cell walls but without cellulose
 
-528. **Morphological species** - 形态种<br>A group of organisms that share many physical features that distinguish them from other species
+457. **Hierarchical classification** - 分层分类<br>The arrangement of organisms into groups of different rank. The lowest rank is the species; similar species are grouped together into the next rank, which is the genus; this continues to the highest rank, which is the domain where many species are grouped together
 
-529. **Plantae** - 植物界<br>Kingdom of eukaryotic organisms which are multicellular, have cell walls that contain cellulose and can photosynthesise
+458. **Kingdom** - 界<br>The taxonomic rank below domain
 
-530. **Population** - 种群<br>All of the organisms of the same species present in the same place and at the sametime that can interbreed with one another
+459. **Morphological species** - 形态种<br>A group of organisms that share many physical features that distinguish them from other species
 
-531. **Protoctist** - 原生生物<br>A member of the Protoctista kingdom
+460. **Plantae** - 植物界<br>Kingdom of eukaryotic organisms which are multicellular, have cell walls that contain cellulose and can photosynthesise
 
-532. **Protoctista** - 原生生物界<br>Kingdom of eukaryotic organisms which are single-celled or made up of groups of similar cells
+461. **Population** - 种群<br>All of the organisms of the same species present in the same place and at the sametime that can interbreed with one another
 
-533. **Taxon** - 分类单元<br>(pluraltaxa) a taxonomic group of any rank, such as a particular species (e.g. Giraffa camelopardalis), a family (e.g. Elephantidae), a class (e.g. Mammalia) or a kingdom (e.g. Plantae)
+462. **Protoctist** - 原生生物<br>A member of the Protoctista kingdom
 
-534. **Taxonomic rank** - 分类等级<br>One of the groups used in the hierarchical classification system for organisms, e.g. species, genus, family, order, class, phylum, kingdom and domain
+463. **Protoctista** - 原生生物界<br>Kingdom of eukaryotic organisms which are single-celled or made up of groups of similar cells
 
-535. **Taxonomy** - 分类学<br>The study and practice of naming and classifying species and groups of species within the hierarchical classification scheme
+464. **Taxon** - 分类单元<br>(pluraltaxa) a taxonomic group of any rank, such as a particular species (e.g. Giraffa camelopardalis), a family (e.g. Elephantidae), a class (e.g. Mammalia) or a kingdom (e.g. Plantae)
 
-536. **Species** - 物种<br>See biological species
+465. **Taxonomic rank** - 分类等级<br>One of the groups used in the hierarchical classification system for organisms, e.g. species, genus, family, order, class, phylum, kingdom and domain
 
-537. **Biodiversity** - 生物多样性<br>The variety of ecosystems and species in an area and the genetic diversity within each species
+466. **Taxonomy** - 分类学<br>The study and practice of naming and classifying species and groups of species within the hierarchical classification scheme
 
-538. **Community** - 群落<br>All of the living organisms, of all species, that are found in a particular ecosystem at a particular time
+467. **Species** - 物种<br>See biological species
 
-539. **Ecosystem** - 生态系统<br>A relatively self-contained, interacting community of organisms, and the environment in which they live and with which they interact
+468. **Biodiversity** - 生物多样性<br>The variety of ecosystems and species in an area and the genetic diversity within each species
 
-540. **Genetic diversity** - 遗传多样性<br>All the alleles of all the genes in the genome of a species
+469. **Community** - 群落<br>All of the living organisms, of all species, that are found in a particular ecosystem at a particular time
 
-541. **Habitat** - 栖息地<br>The place where an organism, a population or a community lives
+470. **Ecosystem** - 生态系统<br>A relatively self-contained, interacting community of organisms, and the environment in which they live and with which they interact
 
-542. **Mark–release–recapture** - 标记-释放-再捕获<br>A method of estimating the numbers of individuals in a population of mobile animals
+471. **Genetic diversity** - 遗传多样性<br>All the alleles of all the genes in the genome of a species
 
-543. **Niche** - 生态位<br>The role of an organism in an ecosystem
+472. **Habitat** - 栖息地<br>The place where an organism, a population or a community lives
 
-544. **Pearson’slinear correlation** - 皮尔逊线性相关<br>A statistical test used to determine if there is a linear correlation between two variables that are normally distributed
+473. **Mark–release–recapture** - 标记-释放-再捕获<br>A method of estimating the numbers of individuals in a population of mobile animals
 
-545. **Quadrat** - 样方<br>A square frame which is used to mark out an area for sampling populations of organisms
+474. **Niche** - 生态位<br>The role of an organism in an ecosystem
 
-546. **Random sampling** - 随机抽样<br>Method of investigating the abundance and/or distribution of populations which is determined by chance and shows no bias on the part of the person carrying out the sampling
+475. **Pearson’slinear correlation** - 皮尔逊线性相关<br>A statistical test used to determine if there is a linear correlation between two variables that are normally distributed
 
-547. **Simpson’sindexof diversity (D)** - 辛普森多样性指数 (D)<br>Used to calculate the biodiversity of a habitat; the range of values is 0 (low biodiversity) to 1 (high biodiversity)
+476. **Quadrat** - 样方<br>A square frame which is used to mark out an area for sampling populations of organisms
 
-548. **Spearman’srank correlation** - 斯皮尔曼等级相关<br>A statistical test to determine if there is a correlation between two variables when one or both of them are not normally distributed
+477. **Random sampling** - 随机抽样<br>Method of investigating the abundance and/or distribution of populations which is determined by chance and shows no bias on the part of the person carrying out the sampling
 
-549. **Species diversity** - 物种多样性<br>All the species in an ecosystem
+478. **Simpson’sindexof diversity (D)** - 辛普森多样性指数 (D)<br>Used to calculate the biodiversity of a habitat; the range of values is 0 (low biodiversity) to 1 (high biodiversity)
 
-550. **Systematic sampling** - 系统抽样<br>Anon-random method of investigating the abundance and/or distribution of populations in which the position of sampling points are determined by the person carrying out the sampling (e.g. at every 2 m)
+479. **Spearman’srank correlation** - 斯皮尔曼等级相关<br>A statistical test to determine if there is a correlation between two variables when one or both of them are not normally distributed
 
-551. **Transect** - 样带<br>A line marked by a tape measure along which samples are taken, either by noting the species at equal distances (line transect) or placing quadrats at regular intervals (belt transect)
+480. **Species diversity** - 物种多样性<br>All the species in an ecosystem
 
-552. **Artificial insemination (AI)** - 人工授精 (AI)<br>Injection of semen collected from a male into the uterus
+481. **Systematic sampling** - 系统抽样<br>Anon-random method of investigating the abundance and/or distribution of populations in which the position of sampling points are determined by the person carrying out the sampling (e.g. at every 2 m)
 
-553. **Assisted reproduction** - 辅助生殖<br>Any technique that is involved in treating infertility or protecting a female mammal of an endangered species from the health risks of pregnancy 
+482. **Transect** - 样带<br>A line marked by a tape measure along which samples are taken, either by noting the species at equal distances (line transect) or placing quadrats at regular intervals (belt transect)
 
-554. **Embryo transfer** - 胚胎移植<br>Embryos are removed from the uterus of a female mammal of an endangered species shortly after fertilisation and transferred to surrogate females to bring to full term
+483. **Artificial insemination (AI)** - 人工授精 (AI)<br>Injection of semen collected from a male into the uterus
 
-555. **Frozen zoo** - 冻存动物园<br>A facility where genetic materials taken from animals are stored at very low temperatures (–196 °C); sperm, eggs, embryos and tissue samples are examples of these genetic materials
+484. **Assisted reproduction** - 辅助生殖<br>Any technique that is involved in treating infertility or protecting a female mammal of an endangered species from the health risks of pregnancy 
 
-556. **In vitro fertilisation (IVF)** - 体外受精 (IVF)<br>The fertilisation of an egg that occurs outside the body of a female (e.g. in a Petri dish)
+485. **Embryo transfer** - 胚胎移植<br>Embryos are removed from the uterus of a female mammal of an endangered species shortly after fertilisation and transferred to surrogate females to bring to full term
 
-557. **Seed bank** - 种子库<br>Facility where seeds are dried and kept in cold storage to conserve plant biodiversity
+486. **Frozen zoo** - 冻存动物园<br>A facility where genetic materials taken from animals are stored at very low temperatures (–196 °C); sperm, eggs, embryos and tissue samples are examples of these genetic materials
 
-558. **Surrogacy** - 代孕<br>A female becomes pregnant with an embryo from another female and carries it to full term; embryos can be conceived naturally, by AI or by IVF
+487. **In vitro fertilisation (IVF)** - 体外受精 (IVF)<br>The fertilisation of an egg that occurs outside the body of a female (e.g. in a Petri dish)
 
-559. **Alien species** - 外来物种<br>A species that has been moved into a new ecosystem where it was previously unknown; also known as invasive species
+488. **Seed bank** - 种子库<br>Facility where seeds are dried and kept in cold storage to conserve plant biodiversity
 
-560. **Genetic engineering** - 基因工程<br>Any procedure in which the genetic information in an organism is changed by altering the base sequence of a gene or by introducing a gene from another organism; the organism is then said to be a genetically modified organism (GMO)
+489. **Surrogacy** - 代孕<br>A female becomes pregnant with an embryo from another female and carries it to full term; embryos can be conceived naturally, by AI or by IVF
 
-561. **Genetically modified organism (GMO)** - 转基因生物 (GMO)<br>Any organism that has had its DNA changed in away that does not occur naturally or by selective breeding
+490. **Alien species** - 外来物种<br>A species that has been moved into a new ecosystem where it was previously unknown; also known as invasive species
 
-562. **Recombinant DNA (rDNA)** - 重组DNA (rDNA)<br>DNA made by artificially joining together pieces of DNA from two or more different species
+491. **Genetic engineering** - 基因工程<br>Any procedure in which the genetic information in an organism is changed by altering the base sequence of a gene or by introducing a gene from another organism; the organism is then said to be a genetically modified organism (GMO)
 
-563. **Transgenic organism** - 转基因生物<br>Any organism that contains DNA from another source, such as from another individual of the same species or from a different species
+492. **Genetically modified organism (GMO)** - 转基因生物 (GMO)<br>Any organism that has had its DNA changed in away that does not occur naturally or by selective breeding
 
-564. **Vector** - 载体<br>A means of delivering genes into a cell, used in gene technology; e.g. plasmids and viruses; see also
+493. **Recombinant DNA (rDNA)** - 重组DNA (rDNA)<br>DNA made by artificially joining together pieces of DNA from two or more different species
 
-565. **Bacteriophage (phage)** - 噬菌体 (噬菌体)<br>A type of virus that infects bacteria; phages have double-stranded DNA as their genetic material
+494. **Transgenic organism** - 转基因生物<br>Any organism that contains DNA from another source, such as from another individual of the same species or from a different species
 
-566. **Gene probe** - 基因探针<br>A length of DNA that has a complementary base sequence to another piece of DNA that you are trying to detect
+495. **Vector** - 载体<br>A means of delivering genes into a cell, used in gene technology; e.g. plasmids and viruses; see also
 
-567. **Genome** - 基因组<br>The complete set of genes or genetic material present in a cell or an organism; the genome of a eukaryote includes the DNA in the nucleus and in the mitochondria; the genomes of plants include chloroplast DNA
+496. **Bacteriophage (phage)** - 噬菌体 (噬菌体)<br>A type of virus that infects bacteria; phages have double-stranded DNA as their genetic material
 
-568. **Restriction endonuclease (restriction enzyme)** - 限制性内切酶 (限制酶)<br>An enzyme, originally derived from bacteria, that cuts DNA molecules; each type of restriction enzyme cuts only at a particular sequence of bases
+497. **Gene probe** - 基因探针<br>A length of DNA that has a complementary base sequence to another piece of DNA that you are trying to detect
 
-569. **Gene editing** - 基因编辑<br>A form of genetic engineering in which the genome of an organism can be changed by deleting, inserting or replacing a length of DNA using a method such as the Crispr/Cas9 system
+498. **Genome** - 基因组<br>The complete set of genes or genetic material present in a cell or an organism; the genome of a eukaryote includes the DNA in the nucleus and in the mitochondria; the genomes of plants include chloroplast DNA
 
-570. **Promoter** - 启动子<br>A length of DNA that includes the binding site for RNA polymerase where transcription of a gene or genes begins; in eukaryotes, promoters also have sites for binding of transcription factors
+499. **Restriction endonuclease (restriction enzyme)** - 限制性内切酶 (限制酶)<br>An enzyme, originally derived from bacteria, that cuts DNA molecules; each type of restriction enzyme cuts only at a particular sequence of bases
 
-571. **Gel electrophoresis** - 凝胶电泳<br>The separation of charged molecules (e.g. DNA) by differential movement through a gel in an electric field; the degree of movement is dependent on the mass of the fragments of DNA
+500. **Gene editing** - 基因编辑<br>A form of genetic engineering in which the genome of an organism can be changed by deleting, inserting or replacing a length of DNA using a method such as the Crispr/Cas9 system
 
-572. **Polymerase chain reaction (PCR)** - 聚合酶链反应 (PCR)<br>An automated process that amplifies selected regions of DNA using alternate stages of polynucleotide separation (denaturation of DNA) and DNA synthesis catalysed by DNA polymerase
+501. **Promoter** - 启动子<br>A length of DNA that includes the binding site for RNA polymerase where transcription of a gene or genes begins; in eukaryotes, promoters also have sites for binding of transcription factors
 
-573. **Bioinformatics** - 生物信息学<br>The collection, processing and analysis of biological information and data using computer software
+502. **Gel electrophoresis** - 凝胶电泳<br>The separation of charged molecules (e.g. DNA) by differential movement through a gel in an electric field; the degree of movement is dependent on the mass of the fragments of DNA
 
-574. **DNA hybridisation** - DNA杂交<br>Binding together of two molecules of single-stranded DNA by complementary base pairing
+503. **Polymerase chain reaction (PCR)** - 聚合酶链反应 (PCR)<br>An automated process that amplifies selected regions of DNA using alternate stages of polynucleotide separation (denaturation of DNA) and DNA synthesis catalysed by DNA polymerase
 
-575. **Microarray ** - 微阵列<br>(also known as gene or DNA chips) slides that are printed with thousands of tiny spots in defined positions, with each spot containing a known DNA sequence; the DNA molecules attached to each slide act as probes to detect lengths of DNA or RNA with complementary sequences
+504. **Bioinformatics** - 生物信息学<br>The collection, processing and analysis of biological information and data using computer software
 
-576. **Cystic fibrosis** - 囊性纤维化<br>A genetic disease caused by a recessive allele of the CFTR (cystic fibrosis transmembrane regulator) gene
+505. **DNA hybridisation** - DNA杂交<br>Binding together of two molecules of single-stranded DNA by complementary base pairing
 
-577. **Gene therapy** - 基因治疗<br>Treatment of a genetic disorder by inserting genetically corrected cells into the body or introducing functioning genes directly into affected cells
+506. **Microarray ** - 微阵列<br>(also known as gene or DNA chips) slides that are printed with thousands of tiny spots in defined positions, with each spot containing a known DNA sequence; the DNA molecules attached to each slide act as probes to detect lengths of DNA or RNA with complementary sequences
 
-578. **Genetic screening** - 遗传筛查<br>Testing an embryo, fetus or adult to find out whether a particular allele is present
+507. **Cystic fibrosis** - 囊性纤维化<br>A genetic disease caused by a recessive allele of the CFTR (cystic fibrosis transmembrane regulator) gene
 
-579. **Bt toxin** - Bt毒素<br>Insecticidal toxin produced by the bacterium Bacillus thuringiensis; the gene for Bt toxin is transferred to crop plants to make them resistant to insect pests
+508. **Gene therapy** - 基因治疗<br>Treatment of a genetic disorder by inserting genetically corrected cells into the body or introducing functioning genes directly into affected cells
 
-580. **Hypothesis** - 假设<br>A tentative statement providing an explanation or prediction, based on a body of prior knowledge and testable by experiment
+509. **Genetic screening** - 遗传筛查<br>Testing an embryo, fetus or adult to find out whether a particular allele is present
 
-581. **Prediction** - 预测<br>A statement about what you think might happen; a prediction could just be guesswork, but a good one is based on prior knowledge and an underlying hypothesis
+510. **Bt toxin** - Bt毒素<br>Insecticidal toxin produced by the bacterium Bacillus thuringiensis; the gene for Bt toxin is transferred to crop plants to make them resistant to insect pests
 
-582. **Continuous data** - 连续数据<br>A set of data in which any individual reading can have any value between the two extremes
+511. **Hypothesis** - 假设<br>A tentative statement providing an explanation or prediction, based on a body of prior knowledge and testable by experiment
 
-583. **Control experiment** - 对照实验<br>An experiment in which the factor whose effect is being investigated (the independent variable) is absent; it is used as a standard of comparison 
+512. **Prediction** - 预测<br>A statement about what you think might happen; a prediction could just be guesswork, but a good one is based on prior knowledge and an underlying hypothesis
 
-584. **Discrete data** - 离散数据<br>A set of data in which each measurement can only belong to one of a limited number of values
+513. **Continuous data** - 连续数据<br>A set of data in which any individual reading can have any value between the two extremes
 
-585. **Nominal data** - 名义数据<br>A set of data in which the individual results cannot be arranged in a sequence; instead, each is assigned to a distinct category
+514. **Control experiment** - 对照实验<br>An experiment in which the factor whose effect is being investigated (the independent variable) is absent; it is used as a standard of comparison 
 
-586. **Ordinal data** - 顺序数据<br>A set of data in which, although the values are not numerical, the individual results can be arranged in a sequence
+515. **Discrete data** - 离散数据<br>A set of data in which each measurement can only belong to one of a limited number of values
 
-587. **95 percent confidence interval** - 95%置信区间<br>A range of values calculated as the mean ±2 × standard error; you can be 95% certain that the true mean lies within this range
+516. **Nominal data** - 名义数据<br>A set of data in which the individual results cannot be arranged in a sequence; instead, each is assigned to a distinct category
 
-588. **Error bar** - 误差条<br>A line drawn through a point or the top of bar on a graph, extending two standard errors above and below the mean value indicated by the point or bar; you can be 95% certain that the true value lies within the range indicated by the error bar
+517. **Ordinal data** - 顺序数据<br>A set of data in which, although the values are not numerical, the individual results can be arranged in a sequence
 
-589. **Median** - 中位数<br>The middle value of all the values in the data set 
+518. **95 percent confidence interval** - 95%置信区间<br>A range of values calculated as the mean ±2 × standard error; you can be 95% certain that the true mean lies within this range
 
-590. **Mode (modal class)** - 众数 (众数类)<br>The most common value, or class, in the set of results
+519. **Error bar** - 误差条<br>A line drawn through a point or the top of bar on a graph, extending two standard errors above and below the mean value indicated by the point or bar; you can be 95% certain that the true value lies within the range indicated by the error bar
 
-591. **Normal distribution** - 正态分布<br>A set of data in which a graph shows a symmetrical distribution around the central value
+520. **Median** - 中位数<br>The middle value of all the values in the data set 
 
-592. **Null hypothesis** - 零假设<br>A statement saying that there is no association or difference between two sets of data
+521. **Mode (modal class)** - 众数 (众数类)<br>The most common value, or class, in the set of results
 
-593. **Standard deviation** - 标准差<br>A calculated value that indicateshow widely a set of data spreads out from the mean value
+522. **Normal distribution** - 正态分布<br>A set of data in which a graph shows a symmetrical distribution around the central value
 
-594. **Standard error** - 标准误差<br>A calculation that indicateshow close the calculated mean value is likely to be to the true mean value
+523. **Null hypothesis** - 零假设<br>A statement saying that there is no association or difference between two sets of data
 
-595. **T-test** - t检验<br>A statistical procedure used to determine whether the means of two samples differ significantly
+524. **Standard deviation** - 标准差<br>A calculated value that indicateshow widely a set of data spreads out from the mean value
+
+525. **Standard error** - 标准误差<br>A calculation that indicateshow close the calculated mean value is likely to be to the true mean value
+
+526. **T-test** - t检验<br>A statistical procedure used to determine whether the means of two samples differ significantly
 
 ---
 
