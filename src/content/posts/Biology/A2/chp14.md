@@ -119,9 +119,278 @@ Urea is the main **nitrogenous excretory product** of humans.
 
 ## Kidney
 
-- structure of kidney
-- structure of nephron
-- formation of urine
+Function:
+
+- excretion of urea
+- osmoregulation (controlled by hormone ADH, 用来调控collecting duct对水的“透性”)
+
+![image-20260623144146533](./chp14.assets/image-20260623144146533.png)
+
+After urea is produced in liver, the urea travels through:
+
+1. hepatic vein -> vena cava -> heart -> aorta -> renal artery -> kidney
+2. kidney -> ureter -> bladder -> urethra
+
+The key structures in renal system:
+
+- fibrous capsule
+- cortex
+- medulla
+- renal pelvis
+- ureter
+- renal artery / vein
+
+![image-20260623144331748](./chp14.assets/image-20260623144331748.png)
+
+The key structures of nephron:
+
+- arteriole
+  - **a**fferent arteriole (进入glomerulus)
+  - **e**fferent arteriole (离开glomerulus)
+
+- glomerulus
+- Bowman's capsule
+- proximal convoluted tubule
+- loop of Henle
+  - descending limb of loop of Henle
+  - ascending limb of loop of Henle
+- distal convoluted tubule
+- collecting duct
+- *pelvis* *(the destination of urine)*
+
+**Ultrafiltration** [ulltra-fil-tra-tion]
+
+> Location: **Bowman's capsule (glomerulus)**
+
+1. Small molecules (amino acid, water, glucose, urea, inorganic ions) are filtered out of the blood capillaries
+2. they enter the Bowman's capsule
+3. to form **glomerulus filtrate**
+
+**Selective Reabsorption**
+
+> Location: **Proximal convoluted tubule**
+
+1. Useful molecules are taken back (reabsorbed) from the filtrate
+2. returned to the blood as the filtrate flows along the nephron
+
+**Osmoregulation** [osmo-regulation]
+
+> Location: **collecting duct**
+
+- control the water potential by controlling the water content, and the concentration of ions, especially the **sodium ion**
+
+### Ultrafiltration
+
+![image-20260623151930669](./chp14.assets/image-20260623151930669.png)
+
+1. Afferent arteriole has a **wider** lumen than efferent arteriole, so there is a **higher blood pressure** in glomerulus, and fluid is <u>forced into Bowman's capsule</u>
+2. On the endothelium of glomerulus, there are **many holes** in the endothelial cells and **large gaps** between these cells
+3. A **basement membrane** acts as a **molecular filter** to prevent large plasma proteins and cells from passing through
+4. There are **filtration slits** between **podocytes** in the epithelium of Bowman's capsule
+5. Red blood cells, white blood cells, and large plasma proteins cannot pass through. **Small molecules**, like *glucose, amino acids, urea, water, and ions*, pass through.
+
+> [!IMPORTANT]
+>
+> Ultrafiltration涉及到的重要结构：
+>
+> - Glomerulus
+>
+> - Basement membrane （这不是细胞） - acts as a filter, large proteins cannot pass through
+> - Podocytes - have filtration slits, allow filtrate to pass into the lumen (Bowman's capsule). Filtration slits的作用是提供一个通道可以让滤液经过
+> - Bowman's capsule
+
+The factors affecting **glomerular filtration rate**:
+
+> Glomerular filtration rate is the rate of fluid filters from the glomerular capillaries into the Bowman's capsule
+
+- efferent arteriole lumen >  afferent arteriole lumen:
+
+  there is a **high blood pressure** in glomerular capillaries, to raise the water potential in the blood
+
+- the solute concentration in glomerular capillaries > Bowman's capsule:
+
+  this lowers the water potential in the glomerular capillaries
+
+Overall, the water potential in the glomerular capillaries  > Bowman's capsule, **water** *moves down the water potential gradient* **from the blood into the capsule**.
+
+### Selective Reabsorption
+
+**Selective reabsorption** - only certain substances are taken back to the blood
+
+This process occurs in there locations:
+
+- proximal convoluted tubule 主要发生在这边
+- loop of Henle and collecting duct 大纲上没写，算书本扩展的内容
+- distal convoluted tubule and collecting duct 大纲上没写，算书本扩展的内容
+
+为了把一些特定的物质回收到血液中，有**capillary network surrounds the tubule**.
+
+![image-20260624142410531](./chp14.assets/image-20260624142410531.png)
+
+#### Reabsorption in the proximal convoluted tubule
+
+![image-20260624120651407](./chp14.assets/image-20260624120651407.png)
+
+The features of epithelial cells of proximal convoluted tubule:
+
+- a single layer of **cuboidal** 立体的 epithelial cell - to reduce the transport distance
+- many microvilli in the **luminal membrane** (朝内的一侧) - to increase the surface area
+- many co-transporter proteins in the luminal membrane
+- **tight junctions** that hold **adjacent cells** together firmly, to prevent the fluid moves between the cells
+- there are many **mitochondria** to provide energy for **sodium-potassium pumps** in the **basal membranes**
+- folded basal membrane to give a large surface area for sodium-potassium pump proteins
+- many **aquaporins** 水通道蛋白 in the membrane and more rough ER / ribosomes for increased protein synthesis
+
+==此处应有手绘的feature总结图==
+
+The process of selective reabsorption:
+
+1. sodium-potassium pump pumps the sodium ions out of the cell, to the blood
+2. sodium ions in the proximal tubule lumen diffuse through the co-transporter protein, bring the glucoses and amino acid into PCT cell
+3. transport proteins actively transport the glucose and amino acid into the blood
+4. Water moves from filtrate into PCT cells and then into the blood by osmosis
+
+==此处应有手绘的process总结图==
+
+### Osmoregulation
+
+This process regulates the water potential in blood.
+
+一个叫ADH的hormone可以增加collecting duct上的aquaporins，aquaporins可以增加对水的“透性”，让更多水在经过collecting duct时，通过osmosis回到血液中。
+
+> Hypothalamus中有两种细胞来控制ADH的产生：
+>
+> - **osmoreceptor** [osmo-receptor]
+> - neurosecretory cells
+>
+> osmoreceptor检测water potential，当water potential过低时会促使neurosecretory cell产生ADH。
+>
+> 产生的ADH会暂时存在**posterior pituitary gland**中
+
+Negative feedback of osmoregulation:
+
+1. there is a decrease in water potential
+2. osmoreceptor in hypothalamus detects this change, and becomes shrink
+3. this stimulates the secretion of ADH by posterior pituitary gland
+4. ADH travels in blood stream
+5. ADH causes the collecting duct cells more permeable to water
+6. more water is reabsorbed by osmosis through aquaporins into blood
+
+反之亦然，posterior pituitary gland不再产生ADH，使collecting duct more permeable to water，让多出来的水分通过urine的方式流失。
+
+The cell signaling of ADH:
+
+1. ADH travels in blood stream
+2. ADH binds to the receptors in the CSM of the cells on the collecting duct
+3. This activates an **enzyme cascade**, producing an **active phosphorylase enzyme**
+4. The **phosphorylase** causes vesicles with **aquaporins** to move to the CSM
+5. The vesicles **fuse** with the CSM
+6. This increases the permeability of collecting duct to water
+7. Water diffuses through the collecting duct and enter the blood
+
+## Blood Glucose Control
+
+- [ ] Regulation of blood glucose concentration
+- [ ] Islets of Langerhans
+- [ ] α cells, glucagon, increase blood glucose concentration
+- [ ] β cells, insulin, decrease blood glucose concentration
+- [ ] Negative feedback
+- [ ] Glycogenesis
+- [ ] Gluconeogenesis
+- [ ] Glycogenolysis
+- [ ] Test strips and biosensor to test glucose concentration
+
+---
+
+The **pancreas** contains groups of cells, known as the **islets of Langerhans**:
+
+- alpha cells - secrete **glucagon**
+- beta cells - secrete **insulin**
+
+The alpha cells and beta cells act as the **receptors and the central control** for the homeostasis mechanism regulating blood glucose concentration.
+
+> insulin, glucagon, and ADH are small peptides (hormones)
+
+- Glucose can only enter cells by facilitated diffusion through transporter proteins known as **GLUT** 也就是说glucose进入细胞的量是可以被GLUT控制的
+
+- Muscle cells have **GULT4**. The **vesicles with GLUT4 protein** can move to the CSM and fuse with it to **increase permeability** to glucose and **increase glucose uptake**
+
+- Liver cells have **GULT2** proteins, which are always in the CSM. Liver cells increase glucose uptake by **phosphorylating glucose**. 
+
+  > This **phosphorylated glucose** cannot pass out through glucose transporters in the CSM 只进不出
+
+### The negative feedback of glucose control
+
+**HIGH blood glucose concentration**
+
+1. the alpha and beta cells in the islets of Langerhans detect the **rise in blood glucose**
+
+   > alpha cells stop secreting glucagon
+   >
+   > beta cells secrete more insulin
+
+2. more **insulin** produced
+
+3. liver, muscle and fat cells respond to more insulin: **increase the uptake of glucose** 
+
+   > more GLUT4 proteins move to CSM (in muscle cells)
+   >
+   > liver cells increase glucose uptake by phosphorylating glucose
+
+4. rate of respiration of glucose increases
+
+5. more glucose are stored
+
+   - more glucose is converted to glycogen by glycogen synthase (this process is called **glycogenesis**)
+   - more glucose is converted to lipid
+
+6. Gluconeogenesis[^1] decreases
+
+7. Blood glucose concentration decreases and returns to set point
+
+[^1]: Gluconeogenesis 糖异生 - the formation of glucose in liver from non-carbohydrate sources such as amino acid, pyruvate, lactate, fatty acid and glycerol
+
+**LOW blood glucose concentration**
+
+1. the alpha and beta cells in the islets of Langerhans detect the **fall in blood glucose**
+
+   > alpha cells secrete more glucagon
+   >
+   > beta cells stop producing insulin
+
+2. more **glucagon** produced
+
+3. liver cells respond to more glucagon: **breaking down more glycogen** into glucose
+
+   - Glucagon acts as a signalling molecule and binds to receptor in the CSM of liver cells
+   - G protein activated
+   - **adenylyl cyclase** activated
+   - **cAMP**[^2] is produced from ATP
+   - ... which is second messenger
+   - ... enzyme cascade occurs
+   - signal is amplified
+   - glycogen is **hydrolysed** to glucose (**glycogenolysis**)
+   - glucose is released into blood
+
+[^2]: cAMP - a second messenger to activate an enzyme cascade
+
+---
+
+作为补充，hormone **adrenaline**也可以通过类似于glucagon的方式在liver中增加血液中glucosee的含量:
+
+1. Adrenaline binds to receptors (in the cell surface membrane)
+2. Receptor changes conformation
+3. G proteins are activated
+4. **Adenylyl cyclase** is activated
+5. Cyclic AMP (cAMP) is made
+6. cAMP acts as a second messenger
+7. Activates a kinase (protein)
+8. Enzyme cascade orrurs
+9. Glycogen is broken down to glucose (**glycogenolysis**)
+10. Glucose diffuses into the blood
+11. This results in an **increase in blood glucose concentration**
+
+
 
 ## Keywords
 
