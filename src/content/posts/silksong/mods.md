@@ -21,7 +21,7 @@ lang: 'zh_CN'
 
 1. 下载BepInEx优化版
 
-   BepInEx主页：[BepInEx/BepInEx: Unity / XNA game patcher and plugin framework](https://github.com/BepInEx/BepInEx)
+   BepInEx主页：[BepInExPack Silksong](https://thunderstore.io/c/hollow-knight-silksong/p/silksong_modding/BepInExPack_Silksong/v/1.0.3/)
 
    下载连接：[夸克网盘分享](https://pan.quark.cn/s/2f9be838bb0a#/list/share)
 
@@ -103,7 +103,7 @@ lang: 'zh_CN'
 9. 皮肤mod：[夸克网盘分享](https://pan.quark.cn/s/03d7dc544094#/list/share) 
 10. mod配置管理器：[BepInEx 5 with Configuration Manager at Hollow Knight: Silksong Nexus - Mods and Community](https://www.nexusmods.com/hollowknightsilksong/mods/26)
 
-## 开关模组的简单方式
+## Linux下的开关模组的简单方式
 
 将丝之歌的Launch Options中的`WINEDLLOVERRIDES="winhttp=n,b"`换个名字就行了：
 
