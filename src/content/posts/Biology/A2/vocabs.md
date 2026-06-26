@@ -903,343 +903,345 @@ lang: 'zh_CN'
 
 357. **Troponin** - 肌钙蛋白<br>A calcium-binding protein that is part of the thin filaments in myofibrils in striated muscle
 
-358. **Aleurone layer** - 糊粉层<br>A layer of tissue around the endosperm that synthesises amylase during germination
 
-359. **Auxin** - 生长素<br>A plant growth regulator (plant hormone) that stimulates cell elongation
 
-360. **Endosperm** - 胚乳<br>A tissue in some seeds, such as barley, that is a store of starch and other nutrients
+316. **Aleurone layer** - 糊粉层<br>A layer of tissue around the endosperm that synthesises amylase during germination
 
-361. **Expansins** - 伸展蛋白<br>Proteins in the cell walls of plants that loosen the attachment of microfibrils of cellulose during elongation growth
+317. **Auxin** - 生长素<br>A plant growth regulator (plant hormone) that stimulates cell elongation
 
-362. **Gibberellin** - 赤霉素<br>A plant growth regulator (plant hormone) that stimulates seed germination and regulates plant height (stem growth); a lack of gibberellin causes dwarfness
+318. **Endosperm** - 胚乳<br>A tissue in some seeds, such as barley, that is a store of starch and other nutrients
 
-363. **Plant growth regulator (plant hormone)** - 植物生长调节剂 (植物激素)<br>Any chemical produced in plants that influences their growth and development (e.g. auxins, gibberellins, cytokinins and ABA)
+319. **Expansins** - 伸展蛋白<br>Proteins in the cell walls of plants that loosen the attachment of microfibrils of cellulose during elongation growth
 
-364. **Bivalent** - 二价体<br>Two homologous chromosomes lying alongside each other during meiosis I
+320. **Gibberellin** - 赤霉素<br>A plant growth regulator (plant hormone) that stimulates seed germination and regulates plant height (stem growth); a lack of gibberellin causes dwarfness
 
-365. **Chiasma ** - 交叉点<br>(plural chiasmata) a position at which non-sister chromatids of homologous chromosomes cross over each other
+321. **Plant growth regulator (plant hormone)** - 植物生长调节剂 (植物激素)<br>Any chemical produced in plants that influences their growth and development (e.g. auxins, gibberellins, cytokinins and ABA)
 
-366. **Crossing over** - 交叉互换<br>The exchange of alleles between non-sister chromatids of homologous chromosomes during meiosis I 
+322. **Bivalent** - 二价体<br>Two homologous chromosomes lying alongside each other during meiosis I
 
-367. **Diploid** - 二倍体<br>Containing two complete sets of chromosomes; can be signified by the symbol 2n
+323. **Chiasma ** - 交叉点<br>(plural chiasmata) a position at which non-sister chromatids of homologous chromosomes cross over each other
 
-368. **Fertilisation** - 受精<br>The fusing of the nuclei of two gametes, to form a zygote
+324. **Crossing over** - 交叉互换<br>The exchange of alleles between non-sister chromatids of homologous chromosomes during meiosis I 
 
-369. **Gamete** - 配子<br>A sex cell; during sexual reproduction, two gametes fuse together to form a zygote; gametes are usually haploid
+325. **Diploid** - 二倍体<br>Containing two complete sets of chromosomes; can be signified by the symbol 2n
 
-370. **Haploid** - 单倍体<br>Containing one complete set of chromosomes; can be signified by the symbol n
+326. **Fertilisation** - 受精<br>The fusing of the nuclei of two gametes, to form a zygote
 
-371. **Homologous chromosomes** - 同源染色体<br>Two chromosomes that carry the same genes in the same positions
+327. **Gamete** - 配子<br>A sex cell; during sexual reproduction, two gametes fuse together to form a zygote; gametes are usually haploid
 
-372. **Meiosis** - 减数分裂<br>Nuclear division that results in the production of four daughter cells with half the chromosome number of the parent cell and with reshuffled alleles; in animals and plants it results in the formation of gametes
+328. **Haploid** - 单倍体<br>Containing one complete set of chromosomes; can be signified by the symbol n
 
-373. **Reduction division** - 减数分裂<br>Nuclear division that results in a reduction in chromosome number; the first division of meiosis is a reduction division
+329. **Homologous chromosomes** - 同源染色体<br>Two chromosomes that carry the same genes in the same positions
 
-374. **Sexual reproduction** - 有性生殖<br>Reproduction involving the fusion of gametes (fertilisation) to produce a zygote
+330. **Meiosis** - 减数分裂<br>Nuclear division that results in the production of four daughter cells with half the chromosome number of the parent cell and with reshuffled alleles; in animals and plants it results in the formation of gametes
 
-375. **Zygote** - 合子<br>A cell formed by the fusion of the nuclei of two gametes; most zygotes are diploid
+331. **Reduction division** - 减数分裂<br>Nuclear division that results in a reduction in chromosome number; the first division of meiosis is a reduction division
 
-376. **Allele** - 等位基因<br>A variety of a gene
+332. **Sexual reproduction** - 有性生殖<br>Reproduction involving the fusion of gametes (fertilisation) to produce a zygote
 
-377. **Independent assortment** - 独立分配<br>The production of different combinations of alleles in daughter cells, as a result of the random alignment of bivalents on the equator of the spindle during metaphase I of meiosis
+333. **Zygote** - 合子<br>A cell formed by the fusion of the nuclei of two gametes; most zygotes are diploid
 
-378. **Locus** - 基因座<br>The position of a gene on a chromosome
+334. **Allele** - 等位基因<br>A variety of a gene
 
-379. **Genotype** - 基因型<br>The alleles possessed by an organism
+335. **Independent assortment** - 独立分配<br>The production of different combinations of alleles in daughter cells, as a result of the random alignment of bivalents on the equator of the spindle during metaphase I of meiosis
 
-380. **Heterozygous** - 杂合子<br>Having two different alleles of a gene
+336. **Locus** - 基因座<br>The position of a gene on a chromosome
 
-381. **Homozygous** - 纯合子<br>Having two identical alleles of a gene
+337. **Genotype** - 基因型<br>The alleles possessed by an organism
 
-382. **Phenotype** - 表现型<br>The observable features of an organism; it is affected by genes and also by environment
+338. **Heterozygous** - 杂合子<br>Having two different alleles of a gene
 
-383. **Codominant** - 共显性<br>Codominant alleles each affect phenotype when both of them are present
+339. **Homozygous** - 纯合子<br>Having two identical alleles of a gene
 
-384. **Dominant** - 显性<br>A dominant allele has the same effect on phenotype, whether or not another allele is present
+340. **Phenotype** - 表现型<br>The observable features of an organism; it is affected by genes and also by environment
 
-385. **F1 generation** - F1代<br>The offspring resulting from the cross between individuals with a homozygous recessive and a homozygous dominant genotype
+341. **Codominant** - 共显性<br>Codominant alleles each affect phenotype when both of them are present
 
-386. **F2 generation** - F2代<br>The offspring resulting from across between two F1 individuals
+342. **Dominant** - 显性<br>A dominant allele has the same effect on phenotype, whether or not another allele is present
 
-387. **Genetic diagram** - 遗传图<br>A standard format in which the results of a genetic cross are predicted and explained
+343. **F1 generation** - F1代<br>The offspring resulting from the cross between individuals with a homozygous recessive and a homozygous dominant genotype
 
-388. **Monohybrid inheritance** - 单基因遗传<br>Inheritance of one gene
+344. **F2 generation** - F2代<br>The offspring resulting from across between two F1 individuals
 
-389. **Multiple alleles** - 多等位基因<br>The existence of three or more alleles of a gene, as, e.g., in the determination of A,B,O blood groups
+345. **Genetic diagram** - 遗传图<br>A standard format in which the results of a genetic cross are predicted and explained
 
-390. **Punnett square** - 庞尼特方格<br>Part of a genetic diagram in which the genotypes of the offspring are worked out from the genotypes of the gametes
+346. **Monohybrid inheritance** - 单基因遗传<br>Inheritance of one gene
 
-391. **Recessive** - 隐性<br>A recessive allele only affects phenotype if no dominant allele is present
+347. **Multiple alleles** - 多等位基因<br>The existence of three or more alleles of a gene, as, e.g., in the determination of A,B,O blood groups
 
-392. **Sex chromosomes** - 性染色体<br>The chromosomes that determine sex; in humans, these are the X and Y chromosomes
+348. **Punnett square** - 庞尼特方格<br>Part of a genetic diagram in which the genotypes of the offspring are worked out from the genotypes of the gametes
 
-393. **Test cross** - 测交<br>A genetic cross in which an organism showing a characteristic caused by a dominant allele is crossed with an organism showing the dominant characteristic is crossed with a homozygous recessive organism; the phenotypes of the offspring can indicate whether the original organism is homozygous or heterozygous
+349. **Recessive** - 隐性<br>A recessive allele only affects phenotype if no dominant allele is present
 
-394. **Autosomal linkage** - 常染色体连锁<br>The presence of two genes on the same autosome, (any chromosome other than a sex chromosome) so that they tend to be inherited together and do not assort independently
+350. **Sex chromosomes** - 性染色体<br>The chromosomes that determine sex; in humans, these are the X and Y chromosomes
 
-395. **Carrier** - 携带者<br>An individual that possesses a particular allele as a single copy whose effect is masked by a dominant allele, so that the associated characteristic (such as a hereditary disease) is not displayed but maybe passed to offspring
+351. **Test cross** - 测交<br>A genetic cross in which an organism showing a characteristic caused by a dominant allele is crossed with an organism showing the dominant characteristic is crossed with a homozygous recessive organism; the phenotypes of the offspring can indicate whether the original organism is homozygous or heterozygous
 
-396. **Dihybrid inheritance** - 双基因遗传<br>The inheritance of two genes
+352. **Autosomal linkage** - 常染色体连锁<br>The presence of two genes on the same autosome, (any chromosome other than a sex chromosome) so that they tend to be inherited together and do not assort independently
 
-397. **Epistasis** - 上位性<br>The interaction of two genes at different loci; one gene may affect the expression of the other
+353. **Carrier** - 携带者<br>An individual that possesses a particular allele as a single copy whose effect is masked by a dominant allele, so that the associated characteristic (such as a hereditary disease) is not displayed but maybe passed to offspring
 
-398. **Parental type** - 亲本型<br>Offspring that show the same combinations of characteristics as their parents
+354. **Dihybrid inheritance** - 双基因遗传<br>The inheritance of two genes
 
-399. **Recombinant** - 重组型<br>Offspring that show different combinations of characteristics from their parents
+355. **Epistasis** - 上位性<br>The interaction of two genes at different loci; one gene may affect the expression of the other
 
-400. **Sex-linked gene** - 性连锁基因<br>A gene found on a region of a sex chromosome that is not present on the other sex chromosome; in humans, most sex-linked genes are found on the X chromosome
+356. **Parental type** - 亲本型<br>Offspring that show the same combinations of characteristics as their parents
 
-401. **Linkage** - 连锁<br>See autosomal linkage; see sex-linked gene
+357. **Recombinant** - 重组型<br>Offspring that show different combinations of characteristics from their parents
 
-402. **Chi-squared (χ2) test** - 卡方 (χ2) 检验<br>A statistical test that can be used to determine whether differences between observed and expected results are significant
+358. **Sex-linked gene** - 性连锁基因<br>A gene found on a region of a sex chromosome that is not present on the other sex chromosome; in humans, most sex-linked genes are found on the X chromosome
 
-403. **Inducible enzyme** - 诱导酶<br>An enzyme that is synthesised only when its substrate is present
+359. **Linkage** - 连锁<br>See autosomal linkage; see sex-linked gene
 
-404. **Lac operon** - 乳糖操纵子<br>An operon found in some bacteria that controls the production of β-galactosidase and two other structural proteins
+360. **Chi-squared (χ2) test** - 卡方 (χ2) 检验<br>A statistical test that can be used to determine whether differences between observed and expected results are significant
 
-405. **Operon** - 操纵子<br>A functional unit of transcription; acluster of genes that are controlled by the same promoter
+361. **Inducible enzyme** - 诱导酶<br>An enzyme that is synthesised only when its substrate is present
 
-406. **Regulatory gene** - 调控基因<br>A gene that codes for a protein that helps to control the expression of other genes
+362. **Lac operon** - 乳糖操纵子<br>An operon found in some bacteria that controls the production of β-galactosidase and two other structural proteins
 
-407. **Repressible enzyme** - 可抑制酶<br>An enzyme that is normally produced, and whose synthesis is prevented by the presence of an effector
+363. **Operon** - 操纵子<br>A functional unit of transcription; acluster of genes that are controlled by the same promoter
 
-408. **Structural gene** - 结构基因<br>A gene that codes for a protein that has a function within a cell
+364. **Regulatory gene** - 调控基因<br>A gene that codes for a protein that helps to control the expression of other genes
 
-409. **Transcription factor** - 转录因子<br>A molecule that affects whether or not a gene is transcribed
+365. **Repressible enzyme** - 可抑制酶<br>An enzyme that is normally produced, and whose synthesis is prevented by the presence of an effector
 
-410. **Β-galactosidase** - β-半乳糖苷酶<br>An enzyme that catalyses the hydrolysis of lactose to glucose and galactose
+366. **Structural gene** - 结构基因<br>A gene that codes for a protein that has a function within a cell
 
-411. **Continuous variation** - 连续变异<br>Differences between individuals of a species in which each one can lie at any point in the range between the highest and lowest values
+367. **Transcription factor** - 转录因子<br>A molecule that affects whether or not a gene is transcribed
 
-412. **Discontinuous variation** - 非连续变异<br>Differences between individuals of a species in which each one belongs to one of a small number of distinct categories, with no intermediates
+368. **Β-galactosidase** - β-半乳糖苷酶<br>An enzyme that catalyses the hydrolysis of lactose to glucose and galactose
 
-413. **Genetic variation** - 遗传变异<br>Differences between the DNA base sequences of individuals within a species
+369. **Continuous variation** - 连续变异<br>Differences between individuals of a species in which each one can lie at any point in the range between the highest and lowest values
 
-414. **Phenotypic variation** - 表型变异<br>Differences between the observable characteristics of individuals within a species
+370. **Discontinuous variation** - 非连续变异<br>Differences between individuals of a species in which each one belongs to one of a small number of distinct categories, with no intermediates
 
-415. **Polygenes** - 多基因<br>A number of different genes at different loci that all contribute to a particular aspect of phenotype
+371. **Genetic variation** - 遗传变异<br>Differences between the DNA base sequences of individuals within a species
 
-416. **Abiotic factor** - 非生物因素<br>An environmental factor that is caused by non-living components (e.g. soil pH, light intensity)
+372. **Phenotypic variation** - 表型变异<br>Differences between the observable characteristics of individuals within a species
 
-417. **Biotic factor** - 生物因素<br>An environmental factor that is caused by living organisms (e.g. predation, competition)
+373. **Polygenes** - 多基因<br>A number of different genes at different loci that all contribute to a particular aspect of phenotype
 
-418. **Competition** - 竞争<br>The need for aresource by two organisms, when that resource is in short supply
+374. **Abiotic factor** - 非生物因素<br>An environmental factor that is caused by non-living components (e.g. soil pH, light intensity)
 
-419. **Directional selection** - 定向选择<br>Natural selection that causes a gradual change in allele frequency over many generations
+375. **Biotic factor** - 生物因素<br>An environmental factor that is caused by living organisms (e.g. predation, competition)
 
-420. **Disruptive selection** - 破坏性选择<br>Natural selection that maintains relatively high frequencies of two different sets of alleles; individuals with intermediate features and allele sets are not selected for
+376. **Competition** - 竞争<br>The need for aresource by two organisms, when that resource is in short supply
 
-421. **Environmental factor** - 环境因素<br>A feature of the environment of an organism that affects its survival
+377. **Directional selection** - 定向选择<br>Natural selection that causes a gradual change in allele frequency over many generations
 
-422. **Fitness** - 适应度<br>The ability of an organism to survive and reproduce
+378. **Disruptive selection** - 破坏性选择<br>Natural selection that maintains relatively high frequencies of two different sets of alleles; individuals with intermediate features and allele sets are not selected for
 
-423. **Natural selection** - 自然选择<br>The process by which individuals with a particular set of alleles are more likely to survive and reproduce than those with other alleles; overtime and many generations, the advantageous alleles become more frequent in the population
+379. **Environmental factor** - 环境因素<br>A feature of the environment of an organism that affects its survival
 
-424. **Polymorphism** - 多态性<br>The continued existence of two or more different phenotypes in a species
+380. **Fitness** - 适应度<br>The ability of an organism to survive and reproduce
 
-425. **Selection pressure** - 选择压力<br>An environmental factor that affects the chance of survival of an organism; organisms with one phenotype are more likely to survive and reproduce than those with a different phenotype
+381. **Natural selection** - 自然选择<br>The process by which individuals with a particular set of alleles are more likely to survive and reproduce than those with other alleles; overtime and many generations, the advantageous alleles become more frequent in the population
 
-426. **Stabilising selection** - 稳定选择<br>Natural selection that tends to keep allele frequencies relatively constant over many generations
+382. **Polymorphism** - 多态性<br>The continued existence of two or more different phenotypes in a species
 
-427. **Bottleneck (evolutionary)** - 瓶颈效应 (进化)<br>A period when the numbers of a species fall to a very low level, resulting in the loss of a large number of alleles and therefore a reduction in the gene pool of the species
+383. **Selection pressure** - 选择压力<br>An environmental factor that affects the chance of survival of an organism; organisms with one phenotype are more likely to survive and reproduce than those with a different phenotype
 
-428. **Founder effect** - 奠基者效应<br>The reduction in a gene pool compared with the main populations of a species, resulting from only two or three individuals (with only a selection of the alleles in the gene pool) starting off a new population
+384. **Stabilising selection** - 稳定选择<br>Natural selection that tends to keep allele frequencies relatively constant over many generations
 
-429. **Gene pool** - 基因库<br>The complete range of DNA base sequences in all the organisms in a species or population
+385. **Bottleneck (evolutionary)** - 瓶颈效应 (进化)<br>A period when the numbers of a species fall to a very low level, resulting in the loss of a large number of alleles and therefore a reduction in the gene pool of the species
 
-430. **Genetic drift** - 遗传漂变<br>The gradual change in allele frequencies in a small population, where some alleles are lost or favoured just by chance and not by natural selection
+386. **Founder effect** - 奠基者效应<br>The reduction in a gene pool compared with the main populations of a species, resulting from only two or three individuals (with only a selection of the alleles in the gene pool) starting off a new population
 
-431. **Artificial selection** - 人工选择<br>The selection by humans of organisms with desired traits to survive and reproduce; also known as selective breeding
+387. **Gene pool** - 基因库<br>The complete range of DNA base sequences in all the organisms in a species or population
 
-432. **Hybrid vigour** - 杂种优势<br>An increased ability to survive and grow well, as a result of outbreeding and therefore increased heterozygosity
+388. **Genetic drift** - 遗传漂变<br>The gradual change in allele frequencies in a small population, where some alleles are lost or favoured just by chance and not by natural selection
 
-433. **Inbreeding** - 近亲繁殖<br>Breeding between organisms with similar genotypes, or that are closely related
+389. **Artificial selection** - 人工选择<br>The selection by humans of organisms with desired traits to survive and reproduce; also known as selective breeding
 
-434. **Inbreeding depression** - 近交衰退<br>A loss of the ability to survive and grow well, due to breeding between close relatives; this increases the chance of harmful recessive alleles coming together in an individual and being expressed
+390. **Hybrid vigour** - 杂种优势<br>An increased ability to survive and grow well, as a result of outbreeding and therefore increased heterozygosity
 
-435. **Outbreeding** - 异交<br>Breeding between individuals that are not closely related
+391. **Inbreeding** - 近亲繁殖<br>Breeding between organisms with similar genotypes, or that are closely related
 
-436. **Selective breeding** - 选择性育种<br>See artificial selection
+392. **Inbreeding depression** - 近交衰退<br>A loss of the ability to survive and grow well, due to breeding between close relatives; this increases the chance of harmful recessive alleles coming together in an individual and being expressed
 
-437. **Allopatric speciation** - 异域物种形成<br>The development of new species following geographical isolation
+393. **Outbreeding** - 异交<br>Breeding between individuals that are not closely related
 
-438. **Behavioural separation** - 行为隔离<br>The separation of two populations because they have different behaviours which prevent them breeding together
+394. **Selective breeding** - 选择性育种<br>See artificial selection
 
-439. **Ecological separation** - 生态隔离<br>The separation of two populations because they live in different environments in the same area and so cannot breed together
+395. **Allopatric speciation** - 异域物种形成<br>The development of new species following geographical isolation
 
-440. **Evolution** - 进化<br>A process leading to the formation of new species from pre-existing species overtime
+396. **Behavioural separation** - 行为隔离<br>The separation of two populations because they have different behaviours which prevent them breeding together
 
-441. **Genetically isolated** - 遗传隔离<br>No longer able to breed together; there is no exchange of genes
+397. **Ecological separation** - 生态隔离<br>The separation of two populations because they live in different environments in the same area and so cannot breed together
 
-442. **Geographical isolation** - 地理隔离<br>Separation by a geographical barrier, such as a stretch of water or a mountain range
+398. **Evolution** - 进化<br>A process leading to the formation of new species from pre-existing species overtime
 
-443. **Morphological** - 形态学<br>Relating to structural features
+399. **Genetically isolated** - 遗传隔离<br>No longer able to breed together; there is no exchange of genes
 
-444. **Physiological** - 生理学<br>Relating to metabolic and other processes in a living organism
+400. **Geographical isolation** - 地理隔离<br>Separation by a geographical barrier, such as a stretch of water or a mountain range
 
-445. **Reproductive isolation** - 生殖隔离<br>The inability of two groups of organisms to breed with one another; two populations of the same species maybe geographically separated, or two different species are unable to breed to produce fertile offspring
+401. **Morphological** - 形态学<br>Relating to structural features
 
-446. **Speciation** - 物种形成<br>The production of new species 
+402. **Physiological** - 生理学<br>Relating to metabolic and other processes in a living organism
 
-447. **Sympatric speciation** - 同域物种形成<br>The development of new species without any geographical separation
+403. **Reproductive isolation** - 生殖隔离<br>The inability of two groups of organisms to breed with one another; two populations of the same species maybe geographically separated, or two different species are unable to breed to produce fertile offspring
 
-448. **Animalia** - 动物界<br>Kingdom of eukaryotic organisms which are multicellular and heterotrophic and have a nervous system
+404. **Speciation** - 物种形成<br>The production of new species 
 
-449. **Archaea** - 古菌<br>The domain of prokaryotic organisms that resemble bacteria but share some features with eukaryotes
+405. **Sympatric speciation** - 同域物种形成<br>The development of new species without any geographical separation
 
-450. **Bacteria** - 细菌<br>The domain that contains all prokaryotic organisms except those classified as Archaea
+406. **Animalia** - 动物界<br>Kingdom of eukaryotic organisms which are multicellular and heterotrophic and have a nervous system
 
-451. **Biological classification** - 生物分类<br>The organisation of living and extinct organisms into systematic groups based on similarities and differences between species
+407. **Archaea** - 古菌<br>The domain of prokaryotic organisms that resemble bacteria but share some features with eukaryotes
 
-452. **Biological species** - 生物种<br>A group of organisms with similar morphology and physiology, which can breed together to produce fertile offspring and are reproductively isolated from other species
+408. **Bacteria** - 细菌<br>The domain that contains all prokaryotic organisms except those classified as Archaea
 
-453. **Domain** - 域<br>The highest taxonomic rank
+409. **Biological classification** - 生物分类<br>The organisation of living and extinct organisms into systematic groups based on similarities and differences between species
 
-454. **Ecological species** - 生态种<br>A population of individuals of the same species living in the same area at the sametime
+410. **Biological species** - 生物种<br>A group of organisms with similar morphology and physiology, which can breed together to produce fertile offspring and are reproductively isolated from other species
 
-455. **Eukarya** - 真核生物域<br>The domain that contains all eukaryotic organismsprotoctists, fungi, plants and animals
+411. **Domain** - 域<br>The highest taxonomic rank
 
-456. **Fungi** - 真菌<br>Kingdom of eukaryotic organisms which do not photosynthesise and have cell walls but without cellulose
+412. **Ecological species** - 生态种<br>A population of individuals of the same species living in the same area at the sametime
 
-457. **Hierarchical classification** - 分层分类<br>The arrangement of organisms into groups of different rank. The lowest rank is the species; similar species are grouped together into the next rank, which is the genus; this continues to the highest rank, which is the domain where many species are grouped together
+413. **Eukarya** - 真核生物域<br>The domain that contains all eukaryotic organismsprotoctists, fungi, plants and animals
 
-458. **Kingdom** - 界<br>The taxonomic rank below domain
+414. **Fungi** - 真菌<br>Kingdom of eukaryotic organisms which do not photosynthesise and have cell walls but without cellulose
 
-459. **Morphological species** - 形态种<br>A group of organisms that share many physical features that distinguish them from other species
+415. **Hierarchical classification** - 分层分类<br>The arrangement of organisms into groups of different rank. The lowest rank is the species; similar species are grouped together into the next rank, which is the genus; this continues to the highest rank, which is the domain where many species are grouped together
 
-460. **Plantae** - 植物界<br>Kingdom of eukaryotic organisms which are multicellular, have cell walls that contain cellulose and can photosynthesise
+416. **Kingdom** - 界<br>The taxonomic rank below domain
 
-461. **Population** - 种群<br>All of the organisms of the same species present in the same place and at the sametime that can interbreed with one another
+417. **Morphological species** - 形态种<br>A group of organisms that share many physical features that distinguish them from other species
 
-462. **Protoctist** - 原生生物<br>A member of the Protoctista kingdom
+418. **Plantae** - 植物界<br>Kingdom of eukaryotic organisms which are multicellular, have cell walls that contain cellulose and can photosynthesise
 
-463. **Protoctista** - 原生生物界<br>Kingdom of eukaryotic organisms which are single-celled or made up of groups of similar cells
+419. **Population** - 种群<br>All of the organisms of the same species present in the same place and at the sametime that can interbreed with one another
 
-464. **Taxon** - 分类单元<br>(pluraltaxa) a taxonomic group of any rank, such as a particular species (e.g. Giraffa camelopardalis), a family (e.g. Elephantidae), a class (e.g. Mammalia) or a kingdom (e.g. Plantae)
+420. **Protoctist** - 原生生物<br>A member of the Protoctista kingdom
 
-465. **Taxonomic rank** - 分类等级<br>One of the groups used in the hierarchical classification system for organisms, e.g. species, genus, family, order, class, phylum, kingdom and domain
+421. **Protoctista** - 原生生物界<br>Kingdom of eukaryotic organisms which are single-celled or made up of groups of similar cells
 
-466. **Taxonomy** - 分类学<br>The study and practice of naming and classifying species and groups of species within the hierarchical classification scheme
+422. **Taxon** - 分类单元<br>(pluraltaxa) a taxonomic group of any rank, such as a particular species (e.g. Giraffa camelopardalis), a family (e.g. Elephantidae), a class (e.g. Mammalia) or a kingdom (e.g. Plantae)
 
-467. **Species** - 物种<br>See biological species
+423. **Taxonomic rank** - 分类等级<br>One of the groups used in the hierarchical classification system for organisms, e.g. species, genus, family, order, class, phylum, kingdom and domain
 
-468. **Biodiversity** - 生物多样性<br>The variety of ecosystems and species in an area and the genetic diversity within each species
+424. **Taxonomy** - 分类学<br>The study and practice of naming and classifying species and groups of species within the hierarchical classification scheme
 
-469. **Community** - 群落<br>All of the living organisms, of all species, that are found in a particular ecosystem at a particular time
+425. **Species** - 物种<br>See biological species
 
-470. **Ecosystem** - 生态系统<br>A relatively self-contained, interacting community of organisms, and the environment in which they live and with which they interact
+426. **Biodiversity** - 生物多样性<br>The variety of ecosystems and species in an area and the genetic diversity within each species
 
-471. **Genetic diversity** - 遗传多样性<br>All the alleles of all the genes in the genome of a species
+427. **Community** - 群落<br>All of the living organisms, of all species, that are found in a particular ecosystem at a particular time
 
-472. **Habitat** - 栖息地<br>The place where an organism, a population or a community lives
+428. **Ecosystem** - 生态系统<br>A relatively self-contained, interacting community of organisms, and the environment in which they live and with which they interact
 
-473. **Mark–release–recapture** - 标记-释放-再捕获<br>A method of estimating the numbers of individuals in a population of mobile animals
+429. **Genetic diversity** - 遗传多样性<br>All the alleles of all the genes in the genome of a species
 
-474. **Niche** - 生态位<br>The role of an organism in an ecosystem
+430. **Habitat** - 栖息地<br>The place where an organism, a population or a community lives
 
-475. **Pearson’slinear correlation** - 皮尔逊线性相关<br>A statistical test used to determine if there is a linear correlation between two variables that are normally distributed
+431. **Mark–release–recapture** - 标记-释放-再捕获<br>A method of estimating the numbers of individuals in a population of mobile animals
 
-476. **Quadrat** - 样方<br>A square frame which is used to mark out an area for sampling populations of organisms
+432. **Niche** - 生态位<br>The role of an organism in an ecosystem
 
-477. **Random sampling** - 随机抽样<br>Method of investigating the abundance and/or distribution of populations which is determined by chance and shows no bias on the part of the person carrying out the sampling
+433. **Pearson’slinear correlation** - 皮尔逊线性相关<br>A statistical test used to determine if there is a linear correlation between two variables that are normally distributed
 
-478. **Simpson’sindexof diversity (D)** - 辛普森多样性指数 (D)<br>Used to calculate the biodiversity of a habitat; the range of values is 0 (low biodiversity) to 1 (high biodiversity)
+434. **Quadrat** - 样方<br>A square frame which is used to mark out an area for sampling populations of organisms
 
-479. **Spearman’srank correlation** - 斯皮尔曼等级相关<br>A statistical test to determine if there is a correlation between two variables when one or both of them are not normally distributed
+435. **Random sampling** - 随机抽样<br>Method of investigating the abundance and/or distribution of populations which is determined by chance and shows no bias on the part of the person carrying out the sampling
 
-480. **Species diversity** - 物种多样性<br>All the species in an ecosystem
+436. **Simpson’sindexof diversity (D)** - 辛普森多样性指数 (D)<br>Used to calculate the biodiversity of a habitat; the range of values is 0 (low biodiversity) to 1 (high biodiversity)
 
-481. **Systematic sampling** - 系统抽样<br>Anon-random method of investigating the abundance and/or distribution of populations in which the position of sampling points are determined by the person carrying out the sampling (e.g. at every 2 m)
+437. **Spearman’srank correlation** - 斯皮尔曼等级相关<br>A statistical test to determine if there is a correlation between two variables when one or both of them are not normally distributed
 
-482. **Transect** - 样带<br>A line marked by a tape measure along which samples are taken, either by noting the species at equal distances (line transect) or placing quadrats at regular intervals (belt transect)
+438. **Species diversity** - 物种多样性<br>All the species in an ecosystem
 
-483. **Artificial insemination (AI)** - 人工授精 (AI)<br>Injection of semen collected from a male into the uterus
+439. **Systematic sampling** - 系统抽样<br>Anon-random method of investigating the abundance and/or distribution of populations in which the position of sampling points are determined by the person carrying out the sampling (e.g. at every 2 m)
 
-484. **Assisted reproduction** - 辅助生殖<br>Any technique that is involved in treating infertility or protecting a female mammal of an endangered species from the health risks of pregnancy 
+440. **Transect** - 样带<br>A line marked by a tape measure along which samples are taken, either by noting the species at equal distances (line transect) or placing quadrats at regular intervals (belt transect)
 
-485. **Embryo transfer** - 胚胎移植<br>Embryos are removed from the uterus of a female mammal of an endangered species shortly after fertilisation and transferred to surrogate females to bring to full term
+441. **Artificial insemination (AI)** - 人工授精 (AI)<br>Injection of semen collected from a male into the uterus
 
-486. **Frozen zoo** - 冻存动物园<br>A facility where genetic materials taken from animals are stored at very low temperatures (–196 °C); sperm, eggs, embryos and tissue samples are examples of these genetic materials
+442. **Assisted reproduction** - 辅助生殖<br>Any technique that is involved in treating infertility or protecting a female mammal of an endangered species from the health risks of pregnancy 
 
-487. **In vitro fertilisation (IVF)** - 体外受精 (IVF)<br>The fertilisation of an egg that occurs outside the body of a female (e.g. in a Petri dish)
+443. **Embryo transfer** - 胚胎移植<br>Embryos are removed from the uterus of a female mammal of an endangered species shortly after fertilisation and transferred to surrogate females to bring to full term
 
-488. **Seed bank** - 种子库<br>Facility where seeds are dried and kept in cold storage to conserve plant biodiversity
+444. **Frozen zoo** - 冻存动物园<br>A facility where genetic materials taken from animals are stored at very low temperatures (–196 °C); sperm, eggs, embryos and tissue samples are examples of these genetic materials
 
-489. **Surrogacy** - 代孕<br>A female becomes pregnant with an embryo from another female and carries it to full term; embryos can be conceived naturally, by AI or by IVF
+445. **In vitro fertilisation (IVF)** - 体外受精 (IVF)<br>The fertilisation of an egg that occurs outside the body of a female (e.g. in a Petri dish)
 
-490. **Alien species** - 外来物种<br>A species that has been moved into a new ecosystem where it was previously unknown; also known as invasive species
+446. **Seed bank** - 种子库<br>Facility where seeds are dried and kept in cold storage to conserve plant biodiversity
 
-491. **Genetic engineering** - 基因工程<br>Any procedure in which the genetic information in an organism is changed by altering the base sequence of a gene or by introducing a gene from another organism; the organism is then said to be a genetically modified organism (GMO)
+447. **Surrogacy** - 代孕<br>A female becomes pregnant with an embryo from another female and carries it to full term; embryos can be conceived naturally, by AI or by IVF
 
-492. **Genetically modified organism (GMO)** - 转基因生物 (GMO)<br>Any organism that has had its DNA changed in away that does not occur naturally or by selective breeding
+448. **Alien species** - 外来物种<br>A species that has been moved into a new ecosystem where it was previously unknown; also known as invasive species
 
-493. **Recombinant DNA (rDNA)** - 重组DNA (rDNA)<br>DNA made by artificially joining together pieces of DNA from two or more different species
+449. **Genetic engineering** - 基因工程<br>Any procedure in which the genetic information in an organism is changed by altering the base sequence of a gene or by introducing a gene from another organism; the organism is then said to be a genetically modified organism (GMO)
 
-494. **Transgenic organism** - 转基因生物<br>Any organism that contains DNA from another source, such as from another individual of the same species or from a different species
+450. **Genetically modified organism (GMO)** - 转基因生物 (GMO)<br>Any organism that has had its DNA changed in away that does not occur naturally or by selective breeding
 
-495. **Vector** - 载体<br>A means of delivering genes into a cell, used in gene technology; e.g. plasmids and viruses; see also
+451. **Recombinant DNA (rDNA)** - 重组DNA (rDNA)<br>DNA made by artificially joining together pieces of DNA from two or more different species
 
-496. **Bacteriophage (phage)** - 噬菌体 (噬菌体)<br>A type of virus that infects bacteria; phages have double-stranded DNA as their genetic material
+452. **Transgenic organism** - 转基因生物<br>Any organism that contains DNA from another source, such as from another individual of the same species or from a different species
 
-497. **Gene probe** - 基因探针<br>A length of DNA that has a complementary base sequence to another piece of DNA that you are trying to detect
+453. **Vector** - 载体<br>A means of delivering genes into a cell, used in gene technology; e.g. plasmids and viruses; see also
 
-498. **Genome** - 基因组<br>The complete set of genes or genetic material present in a cell or an organism; the genome of a eukaryote includes the DNA in the nucleus and in the mitochondria; the genomes of plants include chloroplast DNA
+454. **Bacteriophage (phage)** - 噬菌体 (噬菌体)<br>A type of virus that infects bacteria; phages have double-stranded DNA as their genetic material
 
-499. **Restriction endonuclease (restriction enzyme)** - 限制性内切酶 (限制酶)<br>An enzyme, originally derived from bacteria, that cuts DNA molecules; each type of restriction enzyme cuts only at a particular sequence of bases
+455. **Gene probe** - 基因探针<br>A length of DNA that has a complementary base sequence to another piece of DNA that you are trying to detect
 
-500. **Gene editing** - 基因编辑<br>A form of genetic engineering in which the genome of an organism can be changed by deleting, inserting or replacing a length of DNA using a method such as the Crispr/Cas9 system
+456. **Genome** - 基因组<br>The complete set of genes or genetic material present in a cell or an organism; the genome of a eukaryote includes the DNA in the nucleus and in the mitochondria; the genomes of plants include chloroplast DNA
 
-501. **Promoter** - 启动子<br>A length of DNA that includes the binding site for RNA polymerase where transcription of a gene or genes begins; in eukaryotes, promoters also have sites for binding of transcription factors
+457. **Restriction endonuclease (restriction enzyme)** - 限制性内切酶 (限制酶)<br>An enzyme, originally derived from bacteria, that cuts DNA molecules; each type of restriction enzyme cuts only at a particular sequence of bases
 
-502. **Gel electrophoresis** - 凝胶电泳<br>The separation of charged molecules (e.g. DNA) by differential movement through a gel in an electric field; the degree of movement is dependent on the mass of the fragments of DNA
+458. **Gene editing** - 基因编辑<br>A form of genetic engineering in which the genome of an organism can be changed by deleting, inserting or replacing a length of DNA using a method such as the Crispr/Cas9 system
 
-503. **Polymerase chain reaction (PCR)** - 聚合酶链反应 (PCR)<br>An automated process that amplifies selected regions of DNA using alternate stages of polynucleotide separation (denaturation of DNA) and DNA synthesis catalysed by DNA polymerase
+459. **Promoter** - 启动子<br>A length of DNA that includes the binding site for RNA polymerase where transcription of a gene or genes begins; in eukaryotes, promoters also have sites for binding of transcription factors
 
-504. **Bioinformatics** - 生物信息学<br>The collection, processing and analysis of biological information and data using computer software
+460. **Gel electrophoresis** - 凝胶电泳<br>The separation of charged molecules (e.g. DNA) by differential movement through a gel in an electric field; the degree of movement is dependent on the mass of the fragments of DNA
 
-505. **DNA hybridisation** - DNA杂交<br>Binding together of two molecules of single-stranded DNA by complementary base pairing
+461. **Polymerase chain reaction (PCR)** - 聚合酶链反应 (PCR)<br>An automated process that amplifies selected regions of DNA using alternate stages of polynucleotide separation (denaturation of DNA) and DNA synthesis catalysed by DNA polymerase
 
-506. **Microarray ** - 微阵列<br>(also known as gene or DNA chips) slides that are printed with thousands of tiny spots in defined positions, with each spot containing a known DNA sequence; the DNA molecules attached to each slide act as probes to detect lengths of DNA or RNA with complementary sequences
+462. **Bioinformatics** - 生物信息学<br>The collection, processing and analysis of biological information and data using computer software
 
-507. **Cystic fibrosis** - 囊性纤维化<br>A genetic disease caused by a recessive allele of the CFTR (cystic fibrosis transmembrane regulator) gene
+463. **DNA hybridisation** - DNA杂交<br>Binding together of two molecules of single-stranded DNA by complementary base pairing
 
-508. **Gene therapy** - 基因治疗<br>Treatment of a genetic disorder by inserting genetically corrected cells into the body or introducing functioning genes directly into affected cells
+464. **Microarray ** - 微阵列<br>(also known as gene or DNA chips) slides that are printed with thousands of tiny spots in defined positions, with each spot containing a known DNA sequence; the DNA molecules attached to each slide act as probes to detect lengths of DNA or RNA with complementary sequences
 
-509. **Genetic screening** - 遗传筛查<br>Testing an embryo, fetus or adult to find out whether a particular allele is present
+465. **Cystic fibrosis** - 囊性纤维化<br>A genetic disease caused by a recessive allele of the CFTR (cystic fibrosis transmembrane regulator) gene
 
-510. **Bt toxin** - Bt毒素<br>Insecticidal toxin produced by the bacterium Bacillus thuringiensis; the gene for Bt toxin is transferred to crop plants to make them resistant to insect pests
+466. **Gene therapy** - 基因治疗<br>Treatment of a genetic disorder by inserting genetically corrected cells into the body or introducing functioning genes directly into affected cells
 
-511. **Hypothesis** - 假设<br>A tentative statement providing an explanation or prediction, based on a body of prior knowledge and testable by experiment
+467. **Genetic screening** - 遗传筛查<br>Testing an embryo, fetus or adult to find out whether a particular allele is present
 
-512. **Prediction** - 预测<br>A statement about what you think might happen; a prediction could just be guesswork, but a good one is based on prior knowledge and an underlying hypothesis
+468. **Bt toxin** - Bt毒素<br>Insecticidal toxin produced by the bacterium Bacillus thuringiensis; the gene for Bt toxin is transferred to crop plants to make them resistant to insect pests
 
-513. **Continuous data** - 连续数据<br>A set of data in which any individual reading can have any value between the two extremes
+469. **Hypothesis** - 假设<br>A tentative statement providing an explanation or prediction, based on a body of prior knowledge and testable by experiment
 
-514. **Control experiment** - 对照实验<br>An experiment in which the factor whose effect is being investigated (the independent variable) is absent; it is used as a standard of comparison 
+470. **Prediction** - 预测<br>A statement about what you think might happen; a prediction could just be guesswork, but a good one is based on prior knowledge and an underlying hypothesis
 
-515. **Discrete data** - 离散数据<br>A set of data in which each measurement can only belong to one of a limited number of values
+471. **Continuous data** - 连续数据<br>A set of data in which any individual reading can have any value between the two extremes
 
-516. **Nominal data** - 名义数据<br>A set of data in which the individual results cannot be arranged in a sequence; instead, each is assigned to a distinct category
+472. **Control experiment** - 对照实验<br>An experiment in which the factor whose effect is being investigated (the independent variable) is absent; it is used as a standard of comparison 
 
-517. **Ordinal data** - 顺序数据<br>A set of data in which, although the values are not numerical, the individual results can be arranged in a sequence
+473. **Discrete data** - 离散数据<br>A set of data in which each measurement can only belong to one of a limited number of values
 
-518. **95 percent confidence interval** - 95%置信区间<br>A range of values calculated as the mean ±2 × standard error; you can be 95% certain that the true mean lies within this range
+474. **Nominal data** - 名义数据<br>A set of data in which the individual results cannot be arranged in a sequence; instead, each is assigned to a distinct category
 
-519. **Error bar** - 误差条<br>A line drawn through a point or the top of bar on a graph, extending two standard errors above and below the mean value indicated by the point or bar; you can be 95% certain that the true value lies within the range indicated by the error bar
+475. **Ordinal data** - 顺序数据<br>A set of data in which, although the values are not numerical, the individual results can be arranged in a sequence
 
-520. **Median** - 中位数<br>The middle value of all the values in the data set 
+476. **95 percent confidence interval** - 95%置信区间<br>A range of values calculated as the mean ±2 × standard error; you can be 95% certain that the true mean lies within this range
 
-521. **Mode (modal class)** - 众数 (众数类)<br>The most common value, or class, in the set of results
+477. **Error bar** - 误差条<br>A line drawn through a point or the top of bar on a graph, extending two standard errors above and below the mean value indicated by the point or bar; you can be 95% certain that the true value lies within the range indicated by the error bar
 
-522. **Normal distribution** - 正态分布<br>A set of data in which a graph shows a symmetrical distribution around the central value
+478. **Median** - 中位数<br>The middle value of all the values in the data set 
 
-523. **Null hypothesis** - 零假设<br>A statement saying that there is no association or difference between two sets of data
+479. **Mode (modal class)** - 众数 (众数类)<br>The most common value, or class, in the set of results
 
-524. **Standard deviation** - 标准差<br>A calculated value that indicateshow widely a set of data spreads out from the mean value
+480. **Normal distribution** - 正态分布<br>A set of data in which a graph shows a symmetrical distribution around the central value
 
-525. **Standard error** - 标准误差<br>A calculation that indicateshow close the calculated mean value is likely to be to the true mean value
+481. **Null hypothesis** - 零假设<br>A statement saying that there is no association or difference between two sets of data
 
-526. **T-test** - t检验<br>A statistical procedure used to determine whether the means of two samples differ significantly
+482. **Standard deviation** - 标准差<br>A calculated value that indicateshow widely a set of data spreads out from the mean value
+
+483. **Standard error** - 标准误差<br>A calculation that indicateshow close the calculated mean value is likely to be to the true mean value
+
+484. **T-test** - t检验<br>A statistical procedure used to determine whether the means of two samples differ significantly
 
 ---
 
