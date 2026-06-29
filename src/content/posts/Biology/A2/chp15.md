@@ -561,6 +561,27 @@ Gibberellin（由$GA_1$激活的$GA$）参与：
 > 3. water moves into cells by osmosis
 > 4. cell expands
 
+Explain the control of gibberellin synthesis and why lack of it leads to dwarfness:
+
+1. Gibberellin synthesis is controlled by gene Le/le
+
+2. **Dominant allele Le** gives functional enzymes which converts inactive GA to active GA
+3. **Tall plants** have dominant allele Le with a genotype of `LeLe` of `Lele` to produce active GA which causes stem elongation
+4. **Dwarf plants** only have recessive allele le with a genotype of lele and have no active GA
+5. GA1 is the active form of gibberellin
+
+#### Germination of Cereal Seeds
+
+![image-20260628203706046](./chp15.assets/image-20260628203706046.png)
+
+1. Seed absorbs water
+2. Embryo produces gibberellin
+3. Gibberellin moves to and stimulates **aleurone layer** where amylase is produced
+4. Amylase hydrolyses starch in endosperm into maltose
+5. Embryo uses sugars for respiration
+6. ATP is used for growth
+7. Gibberellin affects gene coding for amylase
+
 ## Keywords
 
 1. **Acetylcholine (ACh)** - 乙酰胆碱 (ACh)<br>A molecule made up of coenzyme A and a 2C acetyl group, important in the link reaction; a type of neurotransmitter released by cholinergic synapses
