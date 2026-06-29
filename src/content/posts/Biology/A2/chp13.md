@@ -181,7 +181,7 @@ There are two types of photosystem:
 > Mark scheme对“Describe how <u>non-cyclic</u> photophosphorylation produces ATP and reduced NADP”的回答：
 >
 > 1. PSII and PSII involved
-> 2. light harvesting clusters (这是什么？)
+> 2. light harvesting clusters
 > 3. light absorbed by accessory pigments
 > 4. primary pigment (reaction centre) is chlorophyll *a*
 > 5. <u>energy</u> passed to primary pigment / chlorophyll *a*
