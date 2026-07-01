@@ -1,5 +1,5 @@
 ---
-title: A2 Biology Chapter 15
+title: A2 Biology Chapter 15 - Control and Coordination
 published: 2026-06-25
 description: 'Control and Coordination'
 image: ''
@@ -11,10 +11,26 @@ lang: 'zh_CN'
 
 # Control and Coordination
 
-- Nervous system and endocrine system
-- Nervous communication
-- Muscle contraction
-- Control and coordination in plants
+- [Control and Coordination](#control-and-coordination)
+  - [Involuntary Response](#involuntary-response)
+    - [Reflex Arc](#reflex-arc)
+    - [Endocrine System](#endocrine-system)
+  - [Nervous Communication](#nervous-communication)
+    - [Structure](#structure)
+    - [Resting Potentials](#resting-potentials)
+    - [Action Potential in a Stimulated Neurone](#action-potential-in-a-stimulated-neurone)
+    - [Receptors and Synpase](#receptors-and-synpase)
+  - [Muscle Contraction](#muscle-contraction)
+    - [How Muscles Contract](#how-muscles-contract)
+    - [Typical Questions](#typical-questions)
+    - [Antagonist](#antagonist)
+  - [Coordination in Plants](#coordination-in-plants)
+    - [Venus Fly Trap](#venus-fly-trap)
+    - [Auxin](#auxin)
+    - [Gibberellin](#gibberellin)
+      - [Germination of Cereal Seeds](#germination-of-cereal-seeds)
+  - [Keywords](#keywords)
+
 
 Homeostasis in mammals is maintained by two coordination systems:
 

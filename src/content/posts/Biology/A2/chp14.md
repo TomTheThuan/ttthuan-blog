@@ -1,5 +1,5 @@
 ---
-title: A2 Biology Chapter 14
+title: A2 Biology Chapter 14 - Homeostasis
 published: 2026-06-23
 description: 'Homeostasis'
 image: ''
@@ -10,6 +10,30 @@ lang: 'zh_CN'
 ---
 
 # Homeostasis
+
+- [Homeostasis](#homeostasis)
+  - [Homeostasis Control](#homeostasis-control)
+    - [Negative Feedback](#negative-feedback)
+    - [Positive Feedback](#positive-feedback)
+  - [Excretion](#excretion)
+  - [Deamination](#deamination)
+  - [Kidney](#kidney)
+    - [Ultrafiltration](#ultrafiltration)
+    - [Selective Reabsorption](#selective-reabsorption)
+      - [Reabsorption in the proximal convoluted tubule](#reabsorption-in-the-proximal-convoluted-tubule)
+    - [Osmoregulation](#osmoregulation)
+      - [Negative feedback of osmoregulation](#negative-feedback-of-osmoregulation)
+      - [The cell signaling of ADH](#the-cell-signaling-of-adh)
+  - [Blood Glucose Control](#blood-glucose-control)
+    - [The negative feedback of glucose control](#the-negative-feedback-of-glucose-control)
+    - [Measure the Concentration of Glucose](#measure-the-concentration-of-glucose)
+      - [Test strips](#test-strips)
+      - [Biosensor](#biosensor)
+  - [Stomata Control](#stomata-control)
+    - [The mechanics of opening the stoma](#the-mechanics-of-opening-the-stoma)
+    - [Closing the Stoma](#closing-the-stoma)
+  - [Keywords](#keywords)
+
 
 **Homeostasis** - the maintenance of a <u>relatively constant internal environment</u> for the cells within the body
 

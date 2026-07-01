@@ -1,5 +1,5 @@
 ---
-title: A2 Biology Chapter 12
+title: A2 Biology Chapter 12 - Energy and respiration
 published: 2026-06-08
 description: 'Energy and respiration'
 image: ''
@@ -11,11 +11,29 @@ lang: 'zh_CN'
 
 # Energy and respiration
 
-- [ ] ATP
-- [ ] Aerobic Respiration
-- [ ] Mitochondrial Structure and Function
-- [ ] Anaerobic Respiration
-- [ ] Respiratory Substrates
+- [Energy and respiration](#energy-and-respiration)
+  - [ATP](#atp)
+  - [Coenzyme and Cofactor](#coenzyme-and-cofactor)
+    - [Carrier of hydrogen](#carrier-of-hydrogen)
+  - [Aerobic Respiration](#aerobic-respiration)
+    - [Glycolysis](#glycolysis)
+    - [Link Reaction](#link-reaction)
+    - [Krebs Cycle](#krebs-cycle)
+    - [Oxidative Phosphorylation](#oxidative-phosphorylation)
+    - [Summary](#summary)
+  - [Anaerobic Respiration](#anaerobic-respiration)
+    - [Yeast and Plant](#yeast-and-plant)
+    - [Animal](#animal)
+    - [Oxygen Bebt / Excess Post-exercise Oxygen Consumption](#oxygen-bebt--excess-post-exercise-oxygen-consumption)
+    - [Ethanol Fermentation in Rice](#ethanol-fermentation-in-rice)
+    - [Comparison Table](#comparison-table)
+  - [Mitochondrial Structure and Function](#mitochondrial-structure-and-function)
+  - [Respiratory Substratess](#respiratory-substratess)
+    - [Respiratory Quotient](#respiratory-quotient)
+    - [Measurement of RQ by Respirometer](#measurement-of-rq-by-respirometer)
+  - [Measurement of rate of Respiration Using Redox Indicator](#measurement-of-rate-of-respiration-using-redox-indicator)
+  - [Keywords](#keywords)
+
 
 ## ATP
 
