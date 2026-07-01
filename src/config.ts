@@ -43,6 +43,11 @@ export const navBarConfig: NavBarConfig = {
 	links: [
 		LinkPreset.Home,
 		LinkPreset.Archive,
+		{
+			name: "Biology",
+			url: "posts/biology/a2/notes/", // Internal links should not include the base path, as it is automatically added
+			external: false, // Show an external link icon and will open in a new tab
+		},
 		LinkPreset.About,
 		// {
 		// 	name: "GitHub",
