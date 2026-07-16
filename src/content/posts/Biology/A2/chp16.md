@@ -357,11 +357,296 @@ For example, in the inheritance of feather colour in chickens:
 
 优先表达F，没有F时再看G和g。
 
-## Chi-squared test
-
 ## Mutation & Genetic Diseases
 
+| Disease              | Gene                                | Faulty allele                 | Patients' genotype                         |
+| :------------------- | :---------------------------------- | :---------------------------- | :----------------------------------------- |
+| Albinism             | TYR gene on autosome                | recessive                     | Homozygous recessive                       |
+| Sickle cell anaemia  | HBB gene on autosome                | **codominant** Hb<sup>S</sup> | Hb<sup>S</sup>Hb<sup>S</sup>               |
+| Haemophilia          | F8 gene on X chromosome, sex-linked | recessive                     | X<sup>f</sup>X<sup>f</sup>, X<sup>f</sup>Y |
+| Huntington's disease | HTT gene on autosome                | dominant                      | Has the dominant allele                    |
+
+**Gene Mutation** - the <u>random</u> <u>change in base sequence</u> <u>during DNA replication</u>. (有三个主要的得分点)
+
+Possible consequences of a gene mutation:
+
+- [基因层面] base addition, base deletion, and base substitution
+  - base substitution often has no effects, many different codons code for the same amino acid
+- [宏观层面] great impact on phenotype
+- frame shifts 基因序列发生偏移了
+- alters whole sequence of bases after mutation 改变整个序列
+- may lead to stop codon 更快结束translation
+- different allele formed
+- the protein has different shape
+
+> **Missense mutations** 错义突变 - Substitutions that change one amino acid to another one
+>
+> **Silent mutation** 同义突变 / 沉默突变 - Substitution that has no observable effect on the phenotype; for example, a mutation that results in a codon that codes for the same amino acid
+>
+> **Nonsense mutation** 无义突变 - A mutation that changes an amino acid codon to a stop codon, resulting in a shorter and usually nonfunctional protein
+>
+> | 突变类型     | DNA变了没？ | 氨基酸变了没？       | 蛋白质长度变了没？ | 通常结果                 |
+> | :----------- | :---------- | :------------------- | :----------------- | :----------------------- |
+> | **错义突变** | 变了        | 变了（换了一个）     | 没变               | 功能可能改变（或好或坏） |
+> | **同义突变** | 变了        | 没变（同一种）       | 没变               | 基本无影响               |
+> | **无义突变** | 变了        | 变了（变成终止信号） | **变短了**         | 通常功能丧失             |
+
+### Albinism 白化病
+
+异变基因：TYR gene
+
+***TYR* gene** (chromosome 11) has 2 alleles. The **dominant allele** is normal and can code for **active tyrosinase**. <u>The mutant allele is recessive</u> which leads to inactive tyrosinase.
+
+Tyrosinase converts tyrosine into DOPA and then into dopaquinone. Then melanin is made in melanocytes 黑素细胞.
+$$
+\text{tyrosine} \xrightarrow {typosinase} DOPA \rightarrow \text{dopaquinone} \rightarrow \text{melanin}
+$$
+白化症患者没办法合成typosine，导致接下来的一串生产黑色素的过程都没办法发生。
+
+**Albinism** only occurs in **homozygous recessive** people and affects hair, skin and iris.
+
+> Patients have **pale** hair and skin and pale blue or **pink iris**.
+>
+> The condition is often accompanied by **poor vision**, rapid, **jerky movements of the eyes** and a tendency to **avoid bright light**.
+
+> [!NOTE]
+>
+> Explain how the presence of a mutant allele can result in albinism. [7]
+>
+> - ref. to *TYR* gene ;
+> - normal gene product is tyrosinase ;
+> - tyrosine converted to, DOPA / dopaquinone ; **ora**
+> - <u>melanin</u> is made in <u>melanocytes</u> ;
+> - mutant allele is recessive ;
+> - tyrosinase, not produced / inactive ;
+> - affects, hair / skin / irises ;
+> - only in homozygous recessive people ;
+
+### Sickle Cell Anaemia 镰刀型细胞贫血病
+
+异变基因：HBB gene
+
+- Hb<sup>A</sup> = normal β-globin allele
+
+- Hb<sup>S</sup> = mutant β-globin allele
+
+  > The allele Hb<sup>S</sup> has a base substitution and alters the tertiary structure of β-globin, and alters the quaternary structure of haemoglobin.
+
+| Genotype                     | Genes                          | Phenotype                                                    |
+| ---------------------------- | ------------------------------ | ------------------------------------------------------------ |
+| Hb<sup>A</sup>Hb<sup>A</sup> | 2 normal β polypeptide alleles | Normal                                                       |
+| Hb<sup>S</sup>Hb<sup>S</sup> | 2 mutant β polypeptide alleles | sickle cell anaemia                                          |
+| Hb<sup>A</sup>Hb<sup>S</sup> | 1 normal & 1 mutant            | → Has the sickle cell trait / 'carriers'<br/>→ Half of the haemoglobin is normal<br/>→ Codominant |
+
+**Mutated β-globin causes:**
+
+- Hb molecule to become less soluble in low pO<sub>2</sub>
+- Form long fibres
+- Cells become crescent / sickle-shaped
+- Carry less oxygen
+
+> 异变后产生的别的特性：
+>
+> - Sickled red blood cells <u>break down faster</u> → cause lack of RBCs
+>
+>   更快分解
+>
+> - Sickle cell crisis (RBC get <u>stuck in capillaries</u> and <u>block blood flow</u>) → Cause pain
+>
+>   堵塞血管
+>
+> - Sickle Cell Anaemia can give <u>protection against malaria</u> / *Plasmodium* infection
+>
+>   提供针对于malaria的保护
+
+> [!NOTE]
+>
+> Outline the effects of the mutant sickle cell allele on the phenotype of a person with sickle cell anaemia. [9]
+>
+> - homozygous for, mutant allele / *Hb*<sup>S</sup> ; 写出变异的allele
+> - altered β polypeptide in haemoglobin ; 什么地方发生了改变
+> - haemoglobin / β-globin, less soluble ; 后果1
+> - in low(er) oxygen (concentration) ; 后果2
+> - (Hb) forms long fibres ; 形态变化
+> - red blood cells, sickle / form crescent shape ; 反映到红细胞上的形态变化
+> - (RBCs) carry less oxygen ; 红细胞的后果1
+> - <u>sickle cell crisis</u>: (RBCs) get <u>stuck in capillaries</u>, <u>blocks blood flow</u> and <u>causes pain</u> ;;;; 堵塞血管（价值四分）
+> - RBCs break down faster / lack of RBCs ; 更快分解
+> - protection against, malaria / *Plasmodium* infection ; 提供针对于正常血红细胞特异性感染疾病的保护
+>
+
+### Haemophilia血友病
+
+异变基因：F8 gene on X chromosome
+
+The **sex-linked *F8* gene** only on the **X chromosome**, it has 2 alleles. 
+
+- The **dominant** allele **X<sup>F</sup>** codes for **functional, normal factor VIII**
+
+  > Factor VIII - a protein necessary for **blood clotting**. 
+
+- The **recessive** allele **X<sup>f</sup>** **cannot** code for normal factor VIII
+
+The blood **does not clot normally** and **excessive bleeding** can follow from even a small injury.
+
+由于haemophilia是由recessive sex-linked gene造成的，所以它的发生条件是：
+
+- Female - **X<sup>f</sup>X<sup>f</sup>**
+- Male - **X<sup>f</sup>Y**
+
+### Huntington's disease亨廷顿病
+
+异变基因：HTT gene
+
+The *HTT* gene (on chromosome 4) codes for the protein **huntingtin**. This gene contains **repeated CAG triplets**[^2]. When the number of CAG repeats is **over 40**, neurone development is abnormal. 
+
+- Dominant allele - faulty allele
+- Recessive allele - normal allele
+
+If a person has one dominant allele, the person develops Huntington's disease. 
+
+When they get older, they will begin to <u>lose ability to walk, talk and think.</u>
+
+[^2]: sequence of 3 DNA nucleotide bases, it's complementary to mRNA codon that codes for a specific amino acid
+
 ## Gene Regulation
+
+- In prokaryotic cells - **operon**
+- In eukaryotic cells - **transcription factors**
+
+Gene expression发生梗在transcription这个阶段
+
+### Operon in Prokaryotic cells
+
+*在prokaryotic cells中以**lac operon**为例:* 
+
+The *E. coli* lac operon is an example of an inducible set of genes.
+
+The responsibility of *lac* operon:
+
+- transporting lactose in cell
+- metabolizing (breakdown the lactose molecule into sugars)
+
+> lac → lactose
+
+![image-20260716102109613](./chp16.assets/image-20260716102109613.png)
+
+**Operon** - a cluster of functionally-related genes that are controlled by a **shared operator and promoter**, and transcribed together
+
+*lac* operon是在DNA的一部分，它包括:
+
+- structural genes: lacZ, lacY, lacA
+
+- regulatory genes: promoter, operator
+
+  > Promoter和operator用于指示operon的起点和终点（tell the operon when to start and stop transcription）
+  >
+  > - **Promoter** - where RNA polymerase binds, allow the transcription to begin
+  > - **Operator** - where the **repressor protein**[^3] 阻遏蛋白 binds
+
+其中的lacZYA genes负责生产用于transport和metabolise的蛋白质：
+
+- lacZ - 生产β-galactosidase (lactase)，用于分解lactose，以及isomerise lactose to allolactose
+- lacY - 生产β-galactosidase permease (lactose permease)，结合到CSM上成为channel protein，促使lactose进入细胞
+- lacA - 生产β-galactoside transacetylase（这个部分的功能还不明确，算补充内容）
+
+Repressor protein在glucose浓度高的时候bind于operator上，阻止RNA polymerase编译lacZYA genes。
+
+当lactose的浓度显著高于glucose时，有一部分lactose会自然转换成lactose的isomer，allolactose，此时allolactose会bind到repressor protein上，使repressor protein改变形状并脱离operator，允许RNA polymerase编译lacZYA genes。
+$$
+\text{lactose} \xrightarrow[\text{(hydrolysis)}]{\beta\text{-galactosidase半乳糖苷酶}} \text{galactose} + \text{glucose}
+$$
+
+[^3]: coded by *lacI* gene (or called $\text{gene I}$), repressor protein is consitutive protein
+
+**Constitutive protein** (repressor protein)
+
+- it is made all the time (produced continuously)
+- **concentration** doesn't vary
+
+**Inducible proteins** (β-galactosidase, lactose permease, transacetylase)
+
+- are not made all the time and only made when needed
+- only made when the **inducer** lactose is present
+- inducer **causes the gene expression**
+
+如果没有repressor protein时，inducible proteins会一直产生，造成：
+
+- waste of ATP and amino acid
+- excess of protein
+- decrease growth
+
+---
+
+> [!NOTE]
+>
+> Describe the genetic control of protein production in a prokaryote using the *lac* operon. [7]
+>
+> - the <u>regulatory gene</u> codes for <u>repressor protein</u> ;;
+> - (repressor protein) binds to operator ;
+>
+> *In presence of lactose*
+>
+> - lactose (allolactose) binds to repressor protein ;
+> - (repressor protein) **changes shape** and **moves away** from/no longer binds to, operator ;;
+>
+> *In absence of lactose*
+>
+> - repressor protein <u>blocks</u> promoter **or** promoter region now unblocked ;
+> - RNA polymerase <u>cannot bind to promoter</u> **or** RNA polymerase can now bind to promoter ;
+> - <u>lacZYA genes</u> cannot be transcribed / mRNA not synthesised **or** (named) gene now, transcribed / 'switched on' ;
+> - <u>β-galactosidase and lactose permease</u> cannot be synthesised **or** enzymes / named enzyme, can now be synthesised ; 
+
+### Transcription Factors in Eukaryotic Cells
+
+> [!IMPORTANT]
+>
+> Eukaryotic cell中没有operon和operator，但是有promoter
+
+In eukaryotic cells, RNA polymerase cannot bind to promoter directly. It needs the help of transcription factors.
+
+Transcription factors are coded for by different regulatory genes.
+
+**How TFs carry out their role:**
+
+1. They are proteins that can bind to DNA.
+2. They **bind to promoter first**, which then allows RNA polymerase to get attached to promoter/DNA.
+3. They control transcription.
+
+TF会先结合到promoter上，然后允许RNA polymerase附着到promoter上，三者结合在一起的整个东西被称为**transcription initiation complex**
+
+Only after transcription factors are attached to the promoter does RNA polymerase II bind to it. The whole complex of transcription factors and RNA polymerase II bound to the promoter is called a **transcription initiation complex**.
+
+> [!NOTE]
+>
+> In eukaryotes, gene expression is controlled by transcription factors, coded for by regulatory genes.
+>
+> Outline ways in which transcription factors carry out their role. [2]
+>
+> *any two from*
+>
+> 1. proteins that bind to DNA ;
+> 2. binds to the promoter ;
+>     **A** enhancers
+> 3. control, gene expression / transcription / mRNA synthesis ;
+> 4. allow attachment of RNA polymerase to DNA ;
+
+---
+
+这一部分还会关联到15单元中和植物生长（gibberellin）相关的知识：[Control and Coordination - Gibberellin](https://thyrius.top/posts/biology/a2/chp15/#gibberellin)
+
+> [!NOTE]
+>
+> Gibberellin is a plant growth hormone that has a role in germination and in stem elongation.
+>
+> Outline how gibberellin is involved in activating genes for stem elongation. [2]
+>
+> *any two from*
+> 1. idea that **DELLA proteins prevent the activation of genes** (for stem elongation) ;
+> 2. gibberellin binds to receptors (on cell surface membrane) ;
+> 3. causes **breakdown of DELLA proteins** ;
+> 4. (so) transcription / gene expression / **gene activation** / mRNA synthesis, can occur ;
+> 5. AVP ; e.g. ref. to transcription factors / PIF
 
 ## Keywords
 
