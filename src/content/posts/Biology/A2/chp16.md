@@ -11,6 +11,27 @@ lang: 'zh_CN'
 
 # Inheritance
 
+- [Inheritance](#inheritance)
+  - [Cell Division Process](#cell-division-process)
+  - [Process of Meiosis and Source of Genetic Variation](#process-of-meiosis-and-source-of-genetic-variation)
+    - [Prophase I](#prophase-i)
+    - [Metaphase I](#metaphase-i)
+    - [Anaphase I](#anaphase-i)
+    - [Telophase I](#telophase-i)
+    - [Meiosis II](#meiosis-ii)
+    - [Genetic Variation](#genetic-variation)
+  - [Inheritance Patterns and Genetic Diagram](#inheritance-patterns-and-genetic-diagram)
+    - [Inheritance](#inheritance-1)
+  - [Mutation \& Genetic Diseases](#mutation--genetic-diseases)
+    - [Albinism 白化病](#albinism-白化病)
+    - [Sickle Cell Anaemia 镰刀型细胞贫血病](#sickle-cell-anaemia-镰刀型细胞贫血病)
+    - [Haemophilia血友病](#haemophilia血友病)
+    - [Huntington's disease亨廷顿病](#huntingtons-disease亨廷顿病)
+  - [Gene Regulation](#gene-regulation)
+    - [Operon in Prokaryotic cells](#operon-in-prokaryotic-cells)
+    - [Transcription Factors in Eukaryotic Cells](#transcription-factors-in-eukaryotic-cells)
+  - [Keywords](#keywords)
+
 ## Cell Division Process
 
 - Binary fission
