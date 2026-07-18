@@ -34,11 +34,13 @@ AS Level:
 
 A2 Level:
 
-- [A2 Biology Chapter 12 - Thyrius](https://thyrius.top/posts/biology/a2/chp12/)
-- [A2 Biology Chapter 13 - Thyrius](https://thyrius.top/posts/biology/a2/chp13/)
-- [A2 Biology Chapter 14 - Thyrius](https://thyrius.top/posts/biology/a2/chp14/)
-- [A2 Biology Chapter 15 - Thyrius](https://thyrius.top/posts/biology/a2/chp15/)
-- [A2 Biology Chapter 18 - Thyrius](https://thyrius.top/posts/biology/a2/chp18/)
+- [A2 Biology Chapter 12 - Energy and respiration](https://thyrius.top/posts/biology/a2/chp12/)
+- [A2 Biology Chapter 13 - Photosynthesis](https://thyrius.top/posts/biology/a2/chp13/)
+- [A2 Biology Chapter 14 - Homeostasis](https://thyrius.top/posts/biology/a2/chp14/)
+- [A2 Biology Chapter 15 - Control and Coordination](https://thyrius.top/posts/biology/a2/chp15/)
+- [A2 Biology Chapter 16 - Inheritance](https://thyrius.top/posts/biology/a2/chp16/)
+- [A2 Biology Chapter 17 - Selection and Evolution](https://thyrius.top/posts/biology/a2/chp17/)
+- [A2 Biology Chapter 18 - Classification Biodiversity and Conservation](https://thyrius.top/posts/biology/a2/chp18/)
 
 ## 其他资料
 
