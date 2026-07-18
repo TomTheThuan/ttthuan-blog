@@ -9,7 +9,7 @@ draft: false
 lang: 'zh_CN'
 ---
 
-## 本站上的资料
+## 本站上的Cambridge CIE考试生物资料
 
 IGCSE：
 
@@ -55,3 +55,4 @@ ZNotes：
 SaveMyExam - [Save My Exams Cambridge (CIE) A Level Biology Revision Notes 2023](https://www.savemyexams.com/a-level/biology/cie/25/revision-notes/)
 
 Tutopiya - [Cambridge A Level Biology 9700 Revision Notes & Past Papers (2026) | Tutopiya | Tutopiya](https://www.tutopiya.com/learning-portal/resource/cambridge-international-a-levels/biology/standard/9700)
+
