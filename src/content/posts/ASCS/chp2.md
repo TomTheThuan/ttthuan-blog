@@ -172,8 +172,6 @@ LAN vs WLAN (wireless LAN)
 - The clients can access to the resources on the server
 - The server determines which users are able to access which files
 
-![image-20260719112627330](./chp2.assets/image-20260719112627330.png)
-
 The reasons of using client-server model:
 
 - The central server is controlled by one company / person / organisation
