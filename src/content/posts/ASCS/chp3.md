@@ -1,6 +1,6 @@
 ---
 title: ASCS Chapter 3 and 4 - Hardware and Processor Fundamentals
-published: 2026-07-19
+published: 2026-07-23
 description: ''
 image: ''
 tags: ["学校", "笔记", "AS", "计算机", "资料"]
