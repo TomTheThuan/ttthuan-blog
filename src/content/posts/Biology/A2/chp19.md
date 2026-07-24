@@ -342,4 +342,290 @@ Why sometimes gene editing is more suitable as a potential cure for some disease
 - adding a normal recessive allele would not work
 - gene editing can alter the mutant allele / DNA
 
-## Genetic Technologies 
+## Genetic Technologies
+
+### Gel Electrophoresis 凝胶电泳
+
+This is a technique that is used to separate DNA fragments of different lengths.
+
+> DNA molecules are **negatively charged**
+
+The gel contains many pores, smaller molecules move through the gel faster than large molecules:
+
+![image-20260723233759979](./chp19.assets/image-20260723233759979.png)
+
+> 参考来源：[【实验动画化】四分钟秒懂 DNA 凝胶电泳_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wa4y1o7q7)
+
+1. Agar/agarose gel is made. **DNA is fragmented by restriction enzyme** and loaded into wells at the negative end of agar/agarose gel. 准备凝胶和DNA片段
+2. Gel is submerged in buffer solution. 将凝胶放入缓冲液中
+3. Phosphate groups of DNA are negatively charged. When **direct current** is applied, DNA is attracted/moves to anode/**positive electrode**. 通直流电时向正极移动
+4. Larger fragments of DNA move more slowly due to gel resistance/impedance. 片段越小移动越快越远
+5. DNA fragments of different sizes separate due to electric field. 发生分离
+6. DNA was stained so that UV light can be used to observe DNA banding pattern. 通过UV light观察染色了的片段
+
+可以通过和已知长度的片段（marker）来估算右边移动的marker长度。
+
+![image-20260723234005489](./chp19.assets/image-20260723234005489.png)
+
+> Electrophoresis can also be used to separate **protein / RNA pieces with different lengths**.
+
+### Genetic Fingerprinting
+
+Belong to genetic/DNA profiling 基因谱分析
+
+Based on the fact that some regions of DNA have highly variable repetitive sequences (e.g. Variable Number Tandem Repeats, VNTR 可变数目串联重复序列) 在DNA中有些部分是独一无二的（除了同卵双胞胎）
+
+- unique to each individual - These unique DNA sequences can be used to identify individuals, similar to how fingerprints are used for identification.
+- except for identical twins.
+
+The greater the number of repeats, the longer the fragment of DNA.
+
+Electrophoresis经常在做genetic fingerprinting的时候使用：
+
+1. **Extract** DNA with **VNTR sequences**. Amplify DNA by PCR.
+2. Agar/**agarose gel is made**. DNA is **fragmented by restriction enzyme** and loaded into wells at the negative end of agar/agarose gel.
+3. Gel is submerged in buffer solution.
+4. Phosphate groups of DNA are negatively charged. When direct current is applied, DNA is attracted/moves to anode/positive electrode.
+5. Larger fragments of DNA move more slowly due to gel resistance/impedance.
+6. DNA fragments of different sizes separate due to electric field.
+7. DNA was stained so that UV light can be used to observe DNA banding pattern.
+
+### Microarray 微阵列
+
+Also known as a gene or **DNA chip** based on a small piece of glass or plastic usually 2 cm².
+
+![image-20260723235801335](./chp19.assets/image-20260723235801335.png)
+
+> 参考来源：[DNA微阵列是什么？它是如何比较2种细胞，进而分析，哪些基因是激活的？哪些是抑制的？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fa411z7hg)
+
+Microarrays are used to find out which genes are expressed within cells and to identify the genes present in an organism's genome. 用来比较哪些基因被activated激活和哪些基因被repressed抑制
+
+A microarray contains thousands of tiny spots, each of which contains a **single-stranded DNA probe 探针** from a particular known gene and unique to the gene.
+
+Each **ssDNA probe** has a complementary base sequence to a gene being detected. 这个每个探针只对一种基因有效，当这个基因被激活时，探针也会相应地做出反应。
+
+**How to do microarray to find out expression of genes?**
+
+1. Extract and obtain mRNA from cell. Use **reverse transcriptase** to carry out **reverse transcription of mRNA** to produce single stranded cDNA. Add fluorescent label to cDNA. 将mRNA制作成带染色的cDNA（两个不同的样本需要标记不同的颜色）
+2. Microarray has **ssDNA probes**, each of which is from a particular known gene. 
+3. Add cDNA to microarray and cDNA **hybridises** to ssDNA probes by complementary base pairing (reverse transcription). cDNA与探针杂交（互补配对）
+4. **Wash off excess cDNA** and expose microarray to UV light. 去除（洗掉）多余没有bind上的cDNA
+5. **Fluorescence** shows the expressed genes. 把板子放在紫外灯下看。**有荧光**的地方，就说明这个基因在细胞里表达了。
+6. **Intensity of fluorescence** gives quantitative measure/shows level of gene expression. 越亮说明基因表达得越多
+
+> [!TIP]
+>
+> **cDNA不是基因本身**，它是通过mRNA反转录来的。这意味着——**我们看到的荧光，其实是细胞当时正在“喊话”的基因**（mRNA），而不是深藏在细胞核里“沉睡”的DNA。
+>
+> > **我们看到的荧光（cDNA），不是来自细胞核里永远存在的那份“死”DNA原稿，而是来自细胞质里那份“活”的、临时的工作单（mRNA）。**
+>
+> 之所以要强调这个“陷阱”，是因为很多初学者会误以为：“基因在DNA里，我测到DNA就等于基因在表达”。**但这是错的！** 因为：
+>
+> - 即使某个基因的DNA**永远存在于**细胞核里（比如所有人的癌细胞里都有“癌基因”的DNA），
+> - 但只要它**没有转录成mRNA**（没有复印成工作单），
+> - 那么在Microarray芯片上就**绝对不会有荧光**，这个基因就被认为是“关闭/抑制”状态。
+>
+> <div style="text-align: right;">- DeepSeek</div>
+
+> [!NOTE]
+>
+> Describe how microarray analysis can **detect differences in the expression of many genes** when comparing two samples, such as the **offspring of wild** and **captive-bred fish**.
+> *any five from:*
+>
+> 1. obtain mRNA from wild and captive bred fish / AW 分别从两个samples中提取mRNA信息 ;
+> 2. **reverse transcription** of mRNA to produce cDNA 制作cDNA ;
+> 3. add fluorescent label to (c)DNA 添加染色物质 ; I colour A dyes / markers / tags
+> 4. (microarray has) **ssDNA probes** 需要提到microarray上最重要的ssDNA probe ;
+> 5. each from a, different / known, gene 每个probe能检测不同的已知gene ;
+> 6. (c)DNA hybridises / AW, to, probes / ssDNA (on microarray) ;
+> 7. fluorescence shows the expressed genes 如果gene表达了出来，那么就会有荧光的颜色 ;
+> 8. intensity of fluorescence (shows level of gene expression) 颜色越强烈，gene表达得越多 ;
+> 9. compare, fluorescence / gene expression (between fish groups) 对比两个samples中的gene表达情况 ;
+> 10. AVP ; e.g. ref. to washing off excess (c)DNA (only), after hybridisation UV light / laser scanning (to record fluorescence pattern)
+>
+> ------
+>
+> (a) Outline the steps required to **prepare the genome of an individual** so that the genome is ready for analysis using a microarray chip. 
+>
+> 这个问题问的是怎么准备这个microarray上的所有基因样本，而不是参与“表达性”测试的cDNA。
+>
+> **基因组（Genome）** = 细胞核里**所有的DNA**（包括编码的、不编码的、开启的、关闭的）
+>
+> *any three from:*
+>
+> 1. ref. to isolate / **extract**, DNA, from, cells / tissue / named 提取DNA ;
+> 2. ref. to cut DNA, into small fragments / using **restriction enzymes** 分割DNA ;
+> 3. ref. to denature / AW, **into single-stranded DNA** 通过denaturation，把double-stranded DNA变成single-stranded DNA（以便在后面和参与测试的cDNA结合到一起） ;
+> 4. add **fluorescent**, tag / marker / dye 染色 ;
+>
+> ------
+>
+> (i) Outline how microarrays are used in the analysis of genomes.
+> *any four from:*
+>
+> 1. obtain single-stranded DNA ;
+> 2. label DNA with fluorescent, dye / tag / label ;
+> 3. probes on, chip / microarray ;
+> 4. each probe is unique to a particular, SNP / gene / allele ;
+> 5. DNA (added), binds / hybridises, to probes ;
+> 6. wash off excess DNA (after hybridisation) ;
+> 7. (view under) UV light / laser scanner / high resolution digital camera ;
+> 8. fluorescence indicates presence of, SNP / gene ; R gene expressed
+
+### Bioinformatics 生物信息学
+
+Bioinformatics - use <u>computer softwares</u> to <u>analyse the biological informations</u>, there is a database contains the information about DNA sequences.
+
+**Large databases** contain DNA base sequences and amino acid sequences of different species and organisms, allowing data to be shared.
+
+The role of bioinformatics following the sequencing of genomes of humans and parasites:
+
+- to allow the data to be shared
+- can predict the amino acid sequence
+- provide analytical tool , o.g. BLAST
+- compare the base sequences
+
+> [!NOTE]
+>
+> Outline how sequencing the genome of \*Plasmodium\* and the use of bioinformatics can suggest new targets for anti-malarial drugs.
+> *[max 3]*
+>
+> 1. identify / recognise, gene(s) ; **A** find **where genes are**
+> 2. **predict, primary structure** / amino acid sequences, of proteins ;
+> 3. **predict 3D structure** of proteins ; **A** tertiary
+> 4. identify / **predict, functions of proteins** (from 3D structure) ;
+> 5. *ref. to* drug to, bind with / block activity of / disrupt structure of, protein / enzyme ; **A** drug specific to protein **I** denature, protein / enzyme
+> 6. drug prevents, transcription / expression, (of gene) ; **I** gene editing
+
+The advantages of using theoretical models in research rather than testing possible drugs in the laboratory:
+
+- cheaper 更加便宜
+- faster 更快
+- no need to test on animals / humans 可以避免道德问题
+- no need for laboratories and equipment 不需要使用器材
+
+但是使用理论模型不能完全代替试验操作，因为：
+
+- cannot assume the predictions are correct
+
+- there may some clinical traits / side effects
+
+- have to make sure the dosage is safty
+
+  > theoretical modelling will not give information on doses
+
+### Genetic screening 遗传筛查
+
+Analysis of a person’s (embryo’s, fetus’ or adult’s) DNA to check for the presence of one or more alleles that are **associated with disease**.
+
+Genetic screening helps provide **early diagnosis**
+
+DNA sample can be obtained by:
+
+- Taking **tissue samples** from adults
+- **Embryo biopsy** 胚胎活检 - embryo produced by in-vitro fertilisation; one or several cells are removed;
+- **Chorionic villus** sampling 绒毛取样 or **amniocentesis** 羊膜穿刺术
+
+遗传筛查的使用例子：
+
+- Breast cancer - Genes *BRCA1* and *BRCA2*
+
+- Huntington’s disease - *HTT* gene
+
+- Cystic fibrosis 囊性纤维化 - *CFTR* gene
+
+  > Cystic fibrosis - a genetic disease caused by recessive alleles of the *CFTR* gene
+
+使用遗传筛查的好处：
+
+- if **negative** - reduce worry
+- if **positive**
+  - change the lifestyle
+  - have early treatment
+  - informed decision about having children
+
+## Social and Ethical Considerations
+
+讨论基因技术和社会伦理时，可以从以下三个维度去分析：
+
+- personal 个人 - 带来安心还是焦虑？痊愈还是加重病情？
+- social 社会 - 公平和资源
+- population 群体 - 基因池与人类未来
+
+> [!NOTE]
+>
+> Individuals can choose to have their DNA analysed on a microarray chip to predict their risk of developing different diseases.
+>
+> Outline the social and ethical considerations of this type of DNA analysis. [3] 
+>
+> *any three from:*
+>
+> | 角度     | 得分点                                                       |
+> | -------- | ------------------------------------------------------------ |
+> | 个人影响 | - result may cause anxiety<br>- result may affect the ability of getting job and insurance |
+> | 社会公平 | - DNA analysis not available for everyone                    |
+> | 个人规划 | - allow people to take early treatment<br>- people can **change the lifestyle** to slow down the progression of the disease<br>- to make plans about their future<br>- decide whether to have children |
+
+一般情况来说，基因工程都是利弊共存的，答题的时候也最好从正反两个方面来论述。
+
+> [!NOTE]
+>
+> **Discuss the ethical and social considerations of gene testing embryos for genetic diseases.** [3]
+>
+> *any three from:*
+>
+> 正面立场 - 预防胜于治疗：
+>
+> - can avoid having offspring with genetic disease
+> - allows couples to have children who would otherwise choose not to (due to risk of genetic disease) 让有遗传病风险夫妇敢生育
+>
+> 反面立场 - “我们有没有权利决定谁该出生”：
+>
+> - health embryo may be discarded 健康的胚胎也可能会被丢弃
+> - may conflict to beliefs and values 宗教和价值观冲突
+> - could lead to selection based on gender or specific traits 可能会造成更大规模的筛选
+
+使用基因疗法本身也有风险：
+
+> [!NOTE]
+>
+> A modified retrovirus is used to insert the new gene into the DNA of the blood stem cells.
+>
+> State two ethical considerations of using a retrovirus for gene therapy. [2]
+>
+> *any two from:*
+>
+> - retrovirus may disrupt other genes 破坏其他基因
+> - may cause **cancer**
+> - may cause **infection**
+> - may cause **allergic response**
+>
+> ---
+>
+> 这类题**不要写“它可能治不好病”**，因为那不是伦理问题，是疗效问题。要写**“它可能带来不可预见的伤害”**，这才是伦理考量的核心。
+>
+> <div style="text-align: right;">- DeepSeek</div>
+
+### Genetic technology's summary
+
+> Outline the different ways in which genetic technology can be applied to medicine, with reference to named diseases. [7]
+
+Genetic engineering (recombinant DNA technology):
+
+- make drugs from genetic modified bacteria / yeast
+- e.g. making human insulin (for **diabetes**)
+- e.g. making factor VIII (for **haemophilia**)
+- e.g. making adenosine deaminase (for **SCID)
+
+Genetic screening:
+
+- detect *BRCA1* amd *BRCA2* (for **breast cancer**)
+- detect **Huntington's** disease
+- detect *CFTR* for **cystic fibrosis**
+
+Gene therapy:
+
+- add normal alleles into the tissue of person
+- e.g. to treat eye diseases
+- e.g. to treat SCID
+- 
