@@ -41,6 +41,7 @@ A2 Level:
 - [A2 Biology Chapter 16 - Inheritance](https://thyrius.top/posts/biology/a2/chp16/)
 - [A2 Biology Chapter 17 - Selection and Evolution](https://thyrius.top/posts/biology/a2/chp17/)
 - [A2 Biology Chapter 18 - Classification Biodiversity and Conservation](https://thyrius.top/posts/biology/a2/chp18/)
+- [A2 Biology Chapter 19 - Genetic Technology](https://thyrius.top/posts/biology/a2/chp19/)
 
 ## 其他资料
 

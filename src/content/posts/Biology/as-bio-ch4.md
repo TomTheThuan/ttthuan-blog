@@ -3,7 +3,7 @@ title: AS Biology Chapter 4 - Cell Membranes and Transport
 published: 2025-11-09
 description: '细胞膜与细胞之间的运输'
 image: ''
-tags: ["生物", "学校", "笔记"]
+tags: ["生物", "学校", "笔记", "AS"]
 category: '生物'
 draft: false
 lang: 'zh_CN'

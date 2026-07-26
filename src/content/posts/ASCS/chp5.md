@@ -11,6 +11,16 @@ lang: 'zh_CN'
 
 # System Software
 
+- [System Software](#system-software)
+  - [Operating System](#operating-system)
+    - [OS Tasks](#os-tasks)
+    - [Utility Softwares](#utility-softwares)
+    - [Program Libraries](#program-libraries)
+  - [Language Translators](#language-translators)
+    - [Assembler](#assembler)
+    - [Compiler - Two-Step translation](#compiler---two-step-translation)
+    - [IDE Features](#ide-features)
+
 ## Operating System
 
 Operating System OS - the software that provides an environment in which applications can run and provides an interface between hardware and human operators.

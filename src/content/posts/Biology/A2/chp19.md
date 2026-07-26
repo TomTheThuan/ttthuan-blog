@@ -11,6 +11,26 @@ lang: "zh_CN"
 
 # Genetic Technology
 
+- [Genetic Technology](#genetic-technology)
+  - [Genetic Engineering](#genetic-engineering)
+    - [Transgenesis](#transgenesis)
+      - [Polymerase Chain Reaction](#polymerase-chain-reaction)
+      - [Identification of modified gene](#identification-of-modified-gene)
+      - [How plasmids become a popular vector](#how-plasmids-become-a-popular-vector)
+      - [Summary of the complete process](#summary-of-the-complete-process)
+      - [Recombinant human insulin](#recombinant-human-insulin)
+      - [Applications of transgenesis](#applications-of-transgenesis)
+    - [Gene therapy](#gene-therapy)
+    - [Gene editing](#gene-editing)
+  - [Genetic Technologies](#genetic-technologies)
+    - [Gel Electrophoresis 凝胶电泳](#gel-electrophoresis-凝胶电泳)
+    - [Genetic Fingerprinting](#genetic-fingerprinting)
+    - [Microarray 微阵列](#microarray-微阵列)
+    - [Bioinformatics 生物信息学](#bioinformatics-生物信息学)
+    - [Genetic screening 遗传筛查](#genetic-screening-遗传筛查)
+  - [Social and Ethical Considerations](#social-and-ethical-considerations)
+    - [Genetic technology's summary](#genetic-technologys-summary)
+
 ## Genetic Engineering
 
 Genetic Engineering - the deliberate manipulation and modification of an organism's genetic material to modify specific characteristics. It may involve transferring a gene into an organism so that the gene is expressed.

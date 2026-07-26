@@ -3,7 +3,7 @@ title: AS Biology Chapter 1 - Cells
 published: 2025-10-14
 description: "My notes for AS-Level Biology, chapter 1"
 image: ""
-tags: ["生物", "学校", "笔记"]
+tags: ["生物", "学校", "笔记", "AS"]
 category: "生物"
 draft: false
 lang: "zh_CN"

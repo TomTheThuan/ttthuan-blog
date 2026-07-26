@@ -11,6 +11,25 @@ lang: 'zh_CN'
 
 # Chapter 3 and 4 - Hardware and Processor Fundamentals
 
+- [Chapter 3 and 4 - Hardware and Processor Fundamentals](#chapter-3-and-4---hardware-and-processor-fundamentals)
+  - [Hardware Devices](#hardware-devices)
+    - [Primary Memory](#primary-memory)
+    - [Secondary Memory](#secondary-memory)
+  - [Processor Fundamentals](#processor-fundamentals)
+    - [Von Neumann Architecture](#von-neumann-architecture)
+    - [CPU performance](#cpu-performance)
+    - [Computer Port](#computer-port)
+      - [USB](#usb)
+      - [HDMI](#hdmi)
+    - [VGA](#vga)
+    - [F-E cycle](#f-e-cycle)
+    - [Interruption](#interruption)
+  - [Assembly Language](#assembly-language)
+    - [Register Transfer Notation (RTN)](#register-transfer-notation-rtn)
+    - [Addressing Modes](#addressing-modes)
+  - [Bit manipulation](#bit-manipulation)
+    - [Binary Shift.](#binary-shift)
+
 ## Hardware Devices
 
 ROM - Read Only Memory, primary memory unit that can only be read from.
