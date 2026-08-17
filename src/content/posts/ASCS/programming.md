@@ -96,10 +96,28 @@ ENDPROCEDURE
 Stages in the program development lifecycle:
 
 - **Analysis** - to define the problem, use abstraction and decomposition
+
+  > **Abstraction:** filtering out and **concentrating on the relevant information** in a problem; allowing a programmer to **deal with complexity**
+  >
+  > **Decomposition:** **breaking down problems into sub-problems** in order to understand a process more clearly; program modules, procedures and functions all help the programmer to break down large problems [^1]
+  >
+  > [^1]: [Znote CAIE | AS Level](https://znotes.org/caie/as-level/) - [Computer Science](https://znotes.org/caie/as-level/computer-science-9618/) - Practical - Algorithm Design & Problem-Solving
+  >
+  >  (use modular programming)
 - **Design** - use structure charts, state-transition diagrams or pseudocode to plan how the tasks can be completed
 - **Coding** - write the program with actual code
 - **Testing** - run the program under different test data by different test methods
 - **Maintenance** - dealing with any problems that arise during use
+
+### Stepwise Refinement
+
+This is the process of **developing a modular design** by **splitting a problem into smaller sub-tasks,** which themselves are repeatedly split into even smaller sub-tasks until each is just one element of the final program.
+
+1. Break down the complex problem into smaller and more manageable parts.
+2. These steps parts then need to be written as a series of steps.
+3. Each step can be written as a statement in a high-level programming language.
+
+---
 
 ### Waterfall Model
 
@@ -193,6 +211,12 @@ Develops different parts of the requirements in parallel
 - state-transition diagrams
 - pseudocode
 
+The using of appropriate can...
+
+- make the program easier to understand
+- provide the overview of the process, allow logical errors to be identified
+- provide documentations for other programmers
+
 ### Structure Diagram
 
 Structure chart is a **modelling tool** used to decompose a problem into a set of sub-tasks.
@@ -251,6 +275,14 @@ They may also show the condition **needed for an event to cause a transition** (
 **Testing plan** - a detailed plan list showing **all the stages of testing** and every test that will be performed for a particular program. 
 
 Test plan helps to determine the effort needed to validate the quality of the application under test.
+
+### Errors
+
+**Syntax** - An error in the grammar that breaks the rules of the Programming Language.
+
+**Run-time** - Can be compiled to machine code but fails upon execution. *eg. divide by 0, infinite loop.*
+
+**Logic** - The program runs but gives incorrect output.
 
 ### Testing Methods
 
@@ -337,13 +369,18 @@ Test plan helps to determine the effort needed to validate the quality of the ap
 
 ### Abstract Data Type
 
+ADT is the collection of data, and the set of operations on those data
+
 > 关于这部分内容，建议参考[Hello 算法](https://www.hello-algo.com/)中的介绍。*(大力推荐这本书)*
 
 考试会涉及的三种抽象数据类型：
 
 - Stack - [5.1 栈 - Hello 算法](https://www.hello-algo.com/chapter_stack_and_queue/stack/)
 
-  > last in, first out 
+  > last in, first out
+  >
+  > - PUSH
+  > - POP
 
   ```pseudocode
   // To set up a stack
@@ -377,6 +414,9 @@ Test plan helps to determine the effort needed to validate the quality of the ap
 - Queue - [5.2 队列 - Hello 算法](https://www.hello-algo.com/chapter_stack_and_queue/queue/)
 
   > first in, first out
+  >
+  > - ENQUEUE
+  > - DEQUEUE
 
   ```pseudocode
   // To set up a queue
@@ -514,4 +554,72 @@ Close a file: `CLOSEFILE <file identifier>`
 > NEXT i
 > CLOSEFILE "studentInfo.txt"
 > ```
+
+## Algorithms
+
+An algorithm is ...
+
+- the solution to a problem
+- expressed as a sequence of defined steps
+
+### Bubble Sort
+
+> 对bubble sort完全不理解的话建议先看一遍这个视频：[数据结构合集 - 冒泡排序(算法过程, 算法改进, 效率分析, 稳定性分析)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV181421876R)
+
+```pseudocode
+// The content of the array is pre-defined
+DECLARE myList : ARRAY[0:8] OF INTEGER
+
+DECLARE upperBound : INTEGER
+DECLARE lowerBound : INTEGER
+DECLARE index : INTEGER
+DECLARE swap : BOOLEAN
+DECLARE temp : INTEGER
+DECLARE top : INTEGER
+
+upperBound <- 8
+lowerBound <- 0
+top <- upperBound
+
+REPEAT
+    FOR index = lowerBound TO top - 1
+        Swap <- FALSE
+        IF myList[index] > myList[index + 1]
+        THEN
+            temp <- myList[index]
+            myList[index] <- myList[index + 1]
+            myList[index + 1] <- temp
+            swap <- TRUE
+        ENDIF
+    NEXT
+    top <- top -1
+UNTIL (NOT swap) OR (top = 0)
+```
+
+### Linear Search
+
+```pseudocode
+// The content of the array is pre-defined
+DECLARE myList : ARRAY[0:8] OF INTEGER
+
+DECLARE index : INTEGER
+DECLARE target : INTEGER
+DECLARE position : INTEGER
+
+target <- "4"
+position <- -1
+FOR index <- 0 TO 8
+	IF myList[index] = target 
+	THEN
+		position <- index
+	ENDIF
+NEXT index
+
+IF position = -1 
+THEN
+	OUTPUT "Not Found"
+ELSE
+	OUTPUT position
+ENDIF
+```
 
