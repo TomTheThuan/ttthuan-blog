@@ -11,6 +11,27 @@ lang: "zh_CN"
 
 # Database
 
+- [Database](#database)
+  - [File-based database](#file-based-database)
+  - [Relational Database](#relational-database)
+  - [Database Management System](#database-management-system)
+    - [Logic Schema](#logic-schema)
+    - [Data Definition Language DDL](#data-definition-language-ddl)
+    - [Data Manipulation Language DML](#data-manipulation-language-dml)
+  - [Normalisation](#normalisation)
+  - [Appendix](#appendix)
+    - [Example of a Relational Database](#example-of-a-relational-database)
+    - [Different Keys](#different-keys)
+      - [Primary Key（主键）](#primary-key主键)
+      - [Candidate Key（候选键）](#candidate-key候选键)
+      - [Composite Key（复合键 / 组合键）](#composite-key复合键--组合键)
+      - [Secondary Key（次要键 / 备用键）](#secondary-key次要键--备用键)
+      - [Foreign Key（外键）](#foreign-key外键)
+    - [Normalising a Database](#normalising-a-database)
+      - [1NF](#1nf)
+      - [2NF](#2nf)
+      - [3NF](#3nf)
+
 Database is a collection of organized data, the types of database:
 
 - file-based database

@@ -11,6 +11,9 @@ lang: 'zh_CN'
 
 # Security, privacy and data integrity
 
+- [Security, privacy and data integrity](#security-privacy-and-data-integrity)
+  - [Digital Signature](#digital-signature)
+
 **Security** - methods taken to **prevent unauthorised access to data** and to **recover data** if lost or corrupted.
 
 - **Software Security** - the collection of methods used to protect computer programs and sensitive information they handle against malicious attacks.

@@ -11,6 +11,10 @@ lang: "zh_CN"
 
 # Ethics and Ownership
 
+- [Ethics and Ownership](#ethics-and-ownership)
+  - [Software Licencing](#software-licencing)
+  - [Artificial Intelligence](#artificial-intelligence)
+
 Computer Ethics regulate how computing professionals should make decisions regarding professional & social conduct.
 
 A computing professional can be ethically **guided** by joining a professional, ethical body such as the **BCS** and **IEEE**, which have codes of conduct.
