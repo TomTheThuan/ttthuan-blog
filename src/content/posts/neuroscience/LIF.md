@@ -9,7 +9,7 @@ draft: false
 lang: 'zh_CN'
 ---
 
-我是用过这两个文章接触到Leak Integrate-and-Fire模型的：
+我是通过这两个文章接触到Leak Integrate-and-Fire模型的：
 
 1. [How the Eon Team Produced a Virtual Embodied Fly · Eon](https://eon.systems/updates/embodied-brain-emulation)
 2. [A connectomics milestone: Mapping the complete male fruit fly brain](https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/)
@@ -59,7 +59,7 @@ $$
 
   前置知识：
 
-  - 电容的定义：$\text{电容} = \frac{\text{储存的电荷量}}{\text{两段的电压}}$
+  - 电容的定义：$\text{电容} = \frac{\text{储存的电荷量}}{\text{两端的电压}}$
     $$
     C = \frac{Q}{V} \quad \Rightarrow \quad Q = C V
     $$
