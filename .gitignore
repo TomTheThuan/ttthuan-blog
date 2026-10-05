@@ -32,3 +32,6 @@ yarn.lock
 
 # vscode
 .vscode/
+
+# obsidian
+src/content/posts/.obsidian/
