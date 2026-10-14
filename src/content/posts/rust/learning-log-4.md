@@ -1,12 +1,12 @@
 ---
 title: Rust学习笔记 4 - match
 published: 2026-09-24
-description: ''
-image: ''
+description: ""
+image: ""
 tags: ["rust", "笔记", "计算机"]
-category: 'Rust'
+category: "Rust"
 draft: false
-lang: 'zh_CN'
+lang: "zh_CN"
 ---
 
 - [`match`](#match)
@@ -110,7 +110,7 @@ dbg!(plus_one(none));
 >         Some(i) => Some(i + 1),
 >     }
 > }
-> 
+>
 > ```
 
 ### 通配模式和占位符`_`
