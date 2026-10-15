@@ -13,6 +13,13 @@ lang: "zh_CN"
 
 参考视频：[Differential Equations: The Language of Change - YouTube](https://www.youtube.com/watch?v=vTTlzmCRwU4)
 
+本文中包括的Python代码示例默认导入了`numpy`和`matplotlib`包：
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+```
+
 ## State Variables
 
 State variable是描述一个系统的真实的数字，这包括：
@@ -143,6 +150,58 @@ $$
 
 在一般情况下，我们也不会知道每个state variable / parameter的确切值，通常我们需要做实验，然后将时间数据和预估的parameter做比较。
 
+### Python
+
+设置要使用的常量：
+
+```python
+N0 = 1000
+k = 1.0
+t_end = 3.0
+```
+
+Numerical Solution：
+
+```python
+dt = 5 / 60  # unit: min
+n_steps = int(t_end / dt)
+
+t_list = [0.0]
+N_list = [N0]
+
+N = N0  # set the inital state
+for t in range(n_steps):
+    dN = k * N * dt
+    N += dN
+
+    t_list.append((t + 1) * dt)
+    N_list.append(N)
+```
+
+Analytical Solution：
+
+```python
+t_analytic = np.linspace(0, t_end, 200)
+N_analytic = N0 * np.exp(k * t_analytic)
+```
+
+绘制两个结果：
+
+```python
+plt.plot(t_analytic, N_analytic, label="Analytical")
+plt.plot(t_list, N_list, "o--", label="Numerical (dt = 5 min)")
+plt.xlabel("Time (hours)")
+plt.ylabel("Population N")
+plt.title("Bacteria Growth: Analytical Solution")
+plt.legend()
+plt.grid(True)
+plt.show()
+```
+
+![image-20261015172624790](./the-language-of-change.assets/image-20261015172624790.png)
+
+二者得出的结果相似，但不一样，是因为用numerical method会有误差。
+
 ## Coupled Differential Equations
 
 $$
@@ -235,6 +294,109 @@ $$
 ![image-20261015164928738](./the-language-of-change.assets/image-20261015164928738.png)
 
 最后rabbit和fox的数量会趋近于平衡，这个状态被称为**Stable Equilibrium**。
+
+### Python Code of Rabbit-Fox Case
+
+设置初始的变量（state variable）：
+
+```python
+a, b, c, d = 1.0, 0.1, 0.075, 1.5
+K = 50.0
+```
+
+添加初始状态：
+
+```python
+x0, y0 = 10.0, 5.0
+```
+
+添加计算所需的参数：
+
+```python
+dt = 0.01
+t_end = 30.0
+n_steps = int(t_end / dt)
+
+t_vals = np.zeros(n_steps + 1)
+x_vals = np.zeros(n_steps + 1)
+y_vals = np.zeros(n_steps + 1)
+
+t_vals[0] = 0
+x_vals[0] = x0
+y_vals[0] = y0
+```
+
+通过计算每一步的步长，来模拟变化：
+
+```python
+x, y, = x0, y0
+for t in range(n_steps):
+    dx = (a * x - b * x * y) * dt
+    dy = ( - d * y + c * x * y) * dt
+
+    x += dx
+    y += dy
+
+    t_vals[t + 1] = (t + 1) * dt
+    x_vals[t + 1] = x
+    y_vals[t + 1] = y
+```
+
+> 如果要计算带环境食物参数$K$的例子，使用以下的`dx`：
+>
+> ```python
+> dx = (a * x * (1 - x / K) - b * x * y) * dt
+> ```
+
+绘制population-time图：
+
+```python
+plt.figure(figsize=(10, 4))
+plt.plot(t_vals, x_vals, label="Rabbit (x)")
+plt.plot(t_vals, y_vals, label="Fox (y)")
+plt.xlabel("Time")
+plt.ylabel("Population")
+plt.title("Rabbit-Fox: Time Series")
+plt.legend()
+plt.grid(True)
+plt.show()
+```
+
+| Without environment factor $K$                               | With environment factor $K$                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![image-20261015204935372](./the-language-of-change.assets/image-20261015204935372.png) | ![image-20261015204920498](./the-language-of-change.assets/image-20261015204920498.png) |
+
+或者绘制phase plane：
+
+```python
+plt.figure(figsize=(6, 6))
+plt.plot(x_vals, y_vals, lw=1)
+plt.plot(x0, y0, "go", label="Start")
+plt.xlabel("Rabbit (x)")
+plt.ylabel("Fox (y)")
+plt.title("Rabbit-Fox: Phase Plane")
+plt.legend()
+plt.grid(True)
+plt.axis("equal")
+plt.show()
+```
+
+| Without environment factor $K$                               | With environment factor $K$                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![image-20261015205018457](./the-language-of-change.assets/image-20261015205018457.png) | ![image-20261015205033933](./the-language-of-change.assets/image-20261015205033933.png) |
+
+## Some Numpy and Matplotlib Details
+
+1. `np.linspace` - 生成一段等间距的数字序列
+
+   从 0 到 1，生成 5 个等间距的点：
+
+   ```python
+   a = np.linspace(0, 1, 5)
+   print(a)   # [0., 0.25, 0.5, 0.75, 1.]
+   ```
+
+2. `plt.legend` - 显示右上角的图例
 
 ---
 
