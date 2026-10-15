@@ -35,3 +35,4 @@ yarn.lock
 
 # obsidian
 src/content/posts/.obsidian/
+src/content/posts/_obsidian/
