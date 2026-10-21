@@ -295,6 +295,8 @@ The reasons of using client-server model:
 - Cloud storage - A method of data storage where data is stored on offsite servers.
 - Cloud computing - The delivery of computing services (including servers, storage, database, networking, software, analytics, and intelligence) over the Internet to offer faster innovation, flexible resources, and cost reduction. 通过 Internet 提供计算服务，以提供更快的创新、灵活的资源调配和降低成本。
 
+> Cloud Computing 更短的定义 - Accessing a service/files/software on a remote server
+
 - Public cloud - Delivered via the Internet and shared across organisations.
 - Private cloud - Data dedicated solely to your own organisation.
 - Hybrid cloud - Any environment that uses both public and private clouds.
@@ -306,6 +308,25 @@ The reasons of using client-server model:
 | - Pay-as-you-go model. Thus the setting and operation cost is low.<br>- 低设置和操作成本. | - Cloud bursting is also possible.<br>- 允许云爆发.          | - Greater flexibility to control the cloud environment.<br>- 更具灵活性. |
 | - Lesser security as the platform is shared.<br>- 平台共享 → 不安全. | - Network complexities & compliance issues.<br>- 网络复杂性和合规性问题. | - Purchase and maintenance has to be handled by the organisation.<br>- 由组织负责采购和维护. |
 | - Lesser flexibility and control over the cloud environment.<br>- 云环境有更少灵活性和掌控性. | - Can be extremely expensive.<br>- 贵.                       | - Expensive than public cloud.<br>- 比公有云贵.              |
+
+---
+
+**Advantages of using cloud storage**
+
+- Can be accessed anywhere **with Internet access**
+- Do not need to perform backups
+- Do not need to buy specific software/hardware 
+- Can easily share documents 
+- Can have multiple people working on the same document 
+
+**Disadvantages of using cloud storage**
+
+- You cannot access it if no internet access
+- Reliant on someone else to backup 
+- Reliant on someone else for security // can have poorer security
+- Cannot access if server goes down
+
+---
 
 ## Subnet
 
