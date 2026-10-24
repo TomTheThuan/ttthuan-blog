@@ -17,7 +17,7 @@ lang: 'zh_CN'
 
 3. **Nucleus** - 细胞核<br>(plural nuclei) a relatively large organelle found in eukaryotic cells, but absent from prokaryotic cells; the nucleus contains the cell’s DNA and therefore controls the activities of the cell; it is surrounded by two membranes which together form the nuclear envelope
 
-4. **Organelle** - 细胞器<br>A functionally and structurally distinct part of a cell,e.g. a ribosome or mitochondrion
+4. **Organelle** - 细胞器<br>A functionally and structurally distinct part of a cell, e.g. a ribosome or mitochondrion
 
 5. **Prokaryote** - 原核生物<br>An organism whose cells do not contain a nucleus or any other membrane-bound organelles
 
@@ -41,21 +41,21 @@ lang: 'zh_CN'
 
 15. **Photosynthesis** - 光合作用<br>The production of organic substances from inorganic ones, using energy from light
 
-16. **Plasmodesma** - 胞间连丝<br>(plural plasmodesmata) a pore-like structure found in plant cell walls; plasmodesmata of neighbouring plant cells lineup to form tube-like pores through the cell walls, allowing the controlled passage of materials from one cell to the other; the pores contain ER and are lined with the cell surface membrane
+16. **Plasmodesma** - 胞间连丝<br>(plural plasmodesmata) a pore-like structure found in plant cell walls; plasmodesmata of neighbouring plant cells line up to form tube-like pores through the cell walls, allowing the controlled passage of materials from one cell to the other; the pores contain ER and are lined with the cell surface membrane
 
 17. **Protoplasm** - 原生质<br>All the living material inside a cell (cytoplasm plus nucleus)
 
 18. **Tonoplast** - 液泡膜<br>The partially permeable membrane that surrounds plant vacuoles
 
-19. **Vacuole** - 液泡<br>An organelle found in eukaryotic cells; alarge, permanent central vacuole is atypical feature of plant cells, where it has a variety of functions, including storage of biochemicals such as salts, sugars and waste products; temporary vacuoles, such as phagocytic vacuoles (also known as phagocytic vesicles),may form in animal cells; see endocytosis
+19. **Vacuole** - 液泡<br>An organelle found in eukaryotic cells; a large, permanent central vacuole is a typical feature of plant cells, where it has a variety of functions, including storage of biochemicals such as salts, sugars and waste products; temporary vacuoles, such as phagocytic vacuoles (also known as phagocytic vesicles), may form in animal cells; see endocytosis
 
 20. **Eyepiece graticule** - 目镜刻尺<br>Small scale that is placed in a microscope eyepiece
 
 ## Section 2 - [21~]
 
-21. **Magnification** - 放大倍数<br>The number of times larger animage of an object is than the real size of the object; magnification = image size ÷ actual (real) size of the object
+21. **Magnification** - 放大倍数<br>The number of times larger an image of an object is than the real size of the object; magnification = image size ÷ actual (real) size of the object
 
-22. **Micrograph** - 显微照片<br>A picture taken with the aid of a microscope; a photomicrograph (or light micrograph) is taken using alight microscope; an electron micrograph is taken using an electron microscope
+22. **Micrograph** - 显微照片<br>A picture taken with the aid of a microscope; a photomicrograph (or light micrograph) is taken using a light microscope; an electron micrograph is taken using an electron microscope
 
 23. **Stage micrometer** - 台尺<br>Very small, accurately drawn scale of known dimensions, engraved on a microscope slide
 

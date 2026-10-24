@@ -38,7 +38,7 @@ lang: "zh_CN"
 
 - **Bacteria** - 细菌
 - **Eukarya** - 动物，植物，真菌，原生生物 Protoctist
-- **Archaea** 古生菌 - 介于植物和动物之间的活物
+- **Archaea** 古生菌 - 原核生物，细胞结构类似细菌，但分子特征更接近真核生物
 
 生物分类有等级之分：**Taxonomic hierarchy**
 
@@ -98,7 +98,7 @@ Bacteria和Archaea之间有些相似的地方：
 
 - 没有细胞核
 - 有circular DNA和plasmid（大多数）
-- 没有membrane-bounmd organelles
+- 没有membrane-bound organelles
 - 70S ribosomes
 - binary fission
 - 通常是unicellular
@@ -190,7 +190,7 @@ They are all **parasites**, they cannot reproduce on their own without host cell
 Biodiversity有三个层级：
 
 1. Ecosystem（整体）
-2. Species（个体）
+2. Species（物种）
 3. Genetic（基因）
 
 Species diversity关联到**species richness**和**species evenness**
@@ -201,8 +201,8 @@ The <u>more species there are</u>, and the <u>more evenly the number of organism
 
 计算物种多样性的方法：
 
-- **random sampling** using **quadrates to avoid bias**
-- **systematic smapling** using **transects**
+- **random sampling** using **quadrats to avoid bias**
+- **systematic sampling** using **transects**
 - **mark-release-recapture** method for **mobile animals**
 
 不同的情况下，有不同的方法。
@@ -213,7 +213,7 @@ The <u>more species there are</u>, and the <u>more evenly the number of organism
 
 1. Place quadrats at randomly chosen positions and record data
 
-2. Calculate **species frequency** and **specioes density**, estimate **percentage cover** or use **cover scale**
+2. Calculate **species frequency** and **species density**, estimate **percentage cover** or use **cover scale**
    - species frequency：如果在n个quadrats中找到了x个物种，那么species frequency为：
 
      $$
@@ -232,7 +232,7 @@ The <u>more species there are</u>, and the <u>more evenly the number of organism
 
 #### Systematic Sampling
 
-Throughout some areas, there can be **changes in the physical conditions**. For example, there mayt be changes in:
+Throughout some areas, there can be **changes in the physical conditions**. For example, there may be changes in:
 
 - altitude
 - soil pH
@@ -362,7 +362,7 @@ $$
 - 计算第二组数据的平均数：$\bar y$
 - 计算$\sum xy$：在表格中看就是横向的两个数据相乘，并将所有乘积相加
 
-然后在计算第一组数据和第二组数据的standard division标准差：
+然后在计算第一组数据和第二组数据的standard deviation 标准差：
 
 - $s_x$:
 
@@ -372,7 +372,7 @@ $$
 
 - 计算$s_y$的方式同理
 
-最后将上卖弄算出的5个部分带入到$r$的公式中：
+最后将上面算出的5个部分带入到$r$的公式中：
 
 $$
 r = \frac{\sum xy - n\bar{x}\bar{y}}{(n-1)s_xs_y}
@@ -392,34 +392,34 @@ $$
 > |           8            |             12             |             24             |       288        |
 > |           9            |             12             |             22             |       264        |
 > |           10           |             9              |             19             |       171        |
-> |        **mean**        |      $\bar{x} = 9.2$       |      $\bar{y} = 20.4$      | $\sum xy = 2126$ |
-> | **standard deviation** |        $s_x = 2.10$        |        $s_y = 2.55$        |                  |
+> |        **mean**        |      $\bar{x} = 9.4$       |      $\bar{y} = 20.4$      | $\sum xy = 1966$ |
+> | **standard deviation** |        $s_x = 2.59$        |        $s_y = 2.55$        |                  |
 >
 > **Calculation Steps**
 >
 > 1. **Add up all the values of \(xy\) to find \(\sum xy\).**
->    - $\sum xy = 2126$
+>    - $\sum xy = 1966$
 >
 > 2. **Calculate the means for each set of figures, \(\bar{x}\) and \(\bar{y}\).**
->    - $\bar{x} = 9.2\), \(\bar{y} = 20.4$
+>    - $\bar{x} = 9.4\), \(\bar{y} = 20.4$
 >
 > 3. **Calculate \(n\bar{x}\bar{y}\).**
->    - Here, $n = 10$, $\bar{x} = 9.2$ and $\bar{y} = 20.4$
->    - $n\bar{x}\bar{y} = 10 \times 9.2 \times 20.4$
->    - $n\bar{x}\bar{y} = 2080.8$
+>    - Here, $n = 10$, $\bar{x} = 9.4$ and $\bar{y} = 20.4$
+>    - $n\bar{x}\bar{y} = 10 \times 9.4 \times 20.4$
+>    - $n\bar{x}\bar{y} = 1917.6$
 > 4. **Now calculate the standard deviation, \(s\), for each set of figures.**
 >
->    **standard deviation\***: $s_x = 2.10$ and $s_y = 2.55$
+>    **standard deviation\***: $s_x = 2.59$ and $s_y = 2.55$
 >
 > 5. **Now substitute your numbers into the formula and calculate \(r\).**
 >
 > $$
 > \begin{aligned}
 > r &= \frac{\sum xy - n\bar{x}\bar{y}}{(n-1)s_xs_y} \\
->   &= \frac{2124 - (10 \times 9.2 \times 20.4)}{9 \times 2.10 \times 2.55} \\
->   &= \frac{2124 - 2080.8}{48.20} \\
->   &= \frac{43.2}{48.20} \\
->   &= 0.896
+>   &= \frac{1966 - (10 \times 9.4 \times 20.4)}{9 \times 2.59 \times 2.55} \\
+>   &= \frac{1966 - 1917.6}{59.4} \\
+>   &= \frac{48.4}{59.4} \\
+>   &= 0.815
 > \end{aligned}
 > $$
 
@@ -564,14 +564,13 @@ $$
 
 ### Preconditions of carrying out the statistical tests
 
-- $\chi^2$ test - **quantitative**, **nominal**/categoric data 名义/分类数据
+- $\chi^2$ test - **categoric / nominal**（定性、分类）data
 - Pearson's linear correlation
   - **continuous**, **quantitative** data
   - data are **normally distributed**
   - scatter graph shows there is a linear correlation/relationship
 - Spearman's rank correlation
-  - **not continuous quantitative data**
-  - data may **not show a normal distribution**
+  - **ordinal**（可排序）data，或 continuous 但 **not normally distributed** 的 data
   - scatter graph shows there is a relationship
 - $t$-test
   - **continuous**, **quantitative** data
@@ -587,7 +586,7 @@ $$
 3. economic reason 经济原因 - 旅游和医药行业依赖生态的多样性
 4. aesthetic reason 享受自然
 5. agricultural reason 农业
-6. environmental reasons 自然环境可以降解有机垃圾，和吸收二氧化然
+6. environmental reasons 自然环境可以降解有机垃圾，和吸收二氧化碳
 
 会灭绝是因为：
 
@@ -630,16 +629,16 @@ Methods of conservation and protecting endangered species:
 
   > **Seed** **Bank**
   >
-  > - varied collection of seeds, and maintain the genetic diversity **and** biodiversdity
+  > - varied collection of seeds, and maintain the genetic diversity **and** biodiversity
   > - provide long term storage
   > - have to prevent germination (in frozen condition)
   > - seeds are regularly tested for **viability**
 
-**Captive breedgin programme** - used to increase their number for reintroducing them to the wild when their habitats are restored
+**Captive breeding programme** - used to increase their number for reintroducing them to the wild when their habitats are restored
 
 | Advantage                             | Disadvantage                                   |
 | ------------------------------------- | ---------------------------------------------- |
-| Provide **adequatic** food            | stress in captivity                            |
+| Provide **adequate** food             | stress in captivity                            |
 | healthcare                            | behavioural changes                            |
 | protection from predators and disease | difficulties in reintroduce them into the wild |
 
@@ -655,7 +654,7 @@ Method of assisted reproduction:
 
 2. Many oocytes harvested from female 采集多个卵母细胞
 
-3. Obtain fresh/frozen sperm from a male 获取男性的精子
+3. Obtain fresh/frozen sperm from a male 获取雄性的精子
 
 4. Oocytes mixed with sperm for fertilization in a Petri dish; ideally genetically different 混合受精
 

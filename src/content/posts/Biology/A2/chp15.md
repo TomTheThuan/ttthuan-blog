@@ -19,7 +19,7 @@ lang: 'zh_CN'
     - [Structure](#structure)
     - [Resting Potentials](#resting-potentials)
     - [Action Potential in a Stimulated Neurone](#action-potential-in-a-stimulated-neurone)
-    - [Receptors and Synpase](#receptors-and-synpase)
+    - [Receptors and Synapse](#receptors-and-synapse)
   - [Muscle Contraction](#muscle-contraction)
     - [How Muscles Contract](#how-muscles-contract)
     - [Typical Questions](#typical-questions)
@@ -160,7 +160,7 @@ The basic structure of sensory neurone is same as motor neurone, however they al
 
 神经元内部始终保持着负电荷，这个电荷差距被称作resting potential。
 
-> The resting potential is usually about **-65mV**
+> The resting potential is usually about **-65mV**（部分教材/glossary写作-70mV，两者均可）
 
 为了维持这些负电荷，neurone的cell surface membrane会将带正点的阳离子排出细胞之外：
 
@@ -274,14 +274,14 @@ Facts about action potential:
 > - Reduce resistance
 > - Elongated axon / dendron / neurone
 
-### Receptors and Synpase
+### Receptors and Synapse
 
 Receptor (又被成为chemoreceptors) serves as **energy transducer**, it initiates a **receptor potential**, if the potential reaches the **potential threshold**, the action potential will be passed along the nerve (all-or-nothing law).
 
 感受器的例子：
 
 - **rod / cone cells in retina** - sense *sight*
-- **taste buds on tongue** - sense *taste* 多个感搜不同味道的细胞组成在一起，形成一个taste bud
+- **taste buds on tongue** - sense *taste* 多个感知不同味道的细胞组成在一起，形成一个taste bud
 
 关于receptors是如何产生action potential的：
 
@@ -312,13 +312,13 @@ The examples of neurotransmitter:
 - dopamine
 - glutamic acid
 
-在书中一般讨论的是一种使用ACh作为neurotransmitter的synpase，被称为**cholinrgic synpase**. 这种synpase中有一种酶，叫作**acetylcholinesterase** [actyl-cholin-ester-ase]，用于hydrolyse水解ACh，是ACh可以被recycle。
+在书中一般讨论的是一种使用ACh作为neurotransmitter的synapse，被称为**cholinergic synapse**. 这种synapse中有一种酶，叫作**acetylcholinesterase** [actyl-cholin-ester-ase]，用于hydrolyse水解ACh，是ACh可以被recycle。
 
-The role of acetylcholinesterase in a synpase:
+The role of acetylcholinesterase in a synapse:
 
 - breaks down acetylcholine
 - so ACh leaves the binding site (of the receptor)
-- depolarisation stops in <u>postsynpatic membrane</u>\
+- depolarisation stops in <u>postsynaptic membrane</u>\
 - ... action potential also stops
 
 - ACh is recycled
@@ -385,17 +385,17 @@ Motor neurone会在末端，和muscle fibre形成一个motor end plate，这个�
 
 ![image-20260627154155149](./chp15.assets/image-20260627154155149.png)
 
-一个sacromere是肌肉收缩的最基本的单位。
+一个sarcomere是肌肉收缩的最基本的单位。
 
-当sacrolemma接收到来自motor neurone的信号时：
+当sarcolemma接收到来自motor neurone的信号时：
 
-1. The depolarization of sacrolemma **spreads down T-tubules**. Calcium ions **diffuse out of sarcoplasmic reticulum** (the release of calcium ions)
+1. The depolarization of sarcolemma **spreads down T-tubules**. Calcium ions **diffuse out of sarcoplasmic reticulum** (the release of calcium ions)
 
-2. Calcium ion **binds to troponin**. **Troponin changes** and **moves tropomyosin**. Myosin head binding sites on action filaments are **exposed**.
+2. Calcium ion **binds to troponin**. **Troponin changes** and **moves tropomyosin**. Myosin head binding sites on actin filaments are **exposed**.
 
-3. Myosin heads bind to these sites, forming **cross bridges** with action filaments.
+3. Myosin heads bind to these sites, forming **cross bridges** with actin filaments.
 
-4. Myosin heads **tilt** 倾斜, releasing APT and Pi. **Power stroke** 动力冲程 occurs, and sarcomere is shortened
+4. Myosin heads **tilt** 倾斜, releasing ADP and Pi. **Power stroke** 动力冲程 occurs, and sarcomere is shortened
 
 5. Myosin head has ATPase (breakdown ATP molecule)
 
@@ -420,7 +420,7 @@ Motor neurone会在末端，和muscle fibre形成一个motor end plate，这个�
 > The role of tropomyosin:
 >
 > - tropomyosin uncovers the myosin binding site on actin
-> - changes shape when calcium ion binded
+> - changes shape when calcium ions bind
 > - allows myosin to form cross-bridge
 
 > [!NOTE]
@@ -440,7 +440,7 @@ Motor neurone会在末端，和muscle fibre形成一个motor end plate，这个�
 > 当ATP过少时会发生的事情：
 >
 > - no attachment of myosin heads
-> - so no energy transfered to myosin
+> - so no energy transferred to myosin
 > - so no cross-bridges
 > - so no power stroke
 > - so no recovery of power stroke
@@ -451,7 +451,7 @@ Motor neurone会在末端，和muscle fibre形成一个motor end plate，这个�
 > - ATP binds to myosin head
 > - ATP will be **hydrolysed** by ATPase
 > - ... causes the head detaches from actin
-> - and then the head tilts hack into original position
+> - and then the head tilts back into original position
 
 ### Antagonist
 
@@ -475,7 +475,7 @@ When one of the two muscles contracts, another muscle relaxes, lengthening sarco
 - low mineral ions in the content of soil
 - insects provide mineral ions for growth
 
-The specialised lead id divided into 2 **lobe** either side of a **midrib**, each lobe has 3 **sensory hairs**.
+The specialised leaf is divided into 2 **lobes** either side of a **midrib**, each lobe has 3 **sensory hairs**.
 
 - when the trap is open, the lobes are **convex** 凸的 in shape
 - when the trap is closed, the lobes are **concave** 凹的 in shape
@@ -493,7 +493,7 @@ The specialised lead id divided into 2 **lobe** either side of a **midrib**, eac
 4. an action potential occurs when:
 
    - two of the sensory hairs are stimulated at the same time
-   - OR one hair is stimulate twice within \~35 seconds
+   - OR one hair is stimulated twice within \~35 seconds
 
    Then the depolarisation spreads over lobe
 
@@ -508,7 +508,7 @@ The specialised lead id divided into 2 **lobe** either side of a **midrib**, eac
    5. calcium ions enter **hinge cells**
    6. water enters hinge cells by **osmosis**
    7. cells become **turgid**
-   8. lobs change **from convex to concave**
+   8. lobes change **from convex to concave**
    9. trap **shuts quickly** in 0.3s, **elastic tension** released
 
 6. further stimulation of the sensory hairs causes **calcium ions to enter gland cells**, where they stimulate the **exocytosis of vesicles** containing **digestive enzymes**
@@ -517,9 +517,9 @@ The trap then stays closed for up to a week to allow the prey to be digested and
 
 **The adaptation of Venus fly trap**
 
-- stimulation of a single hair dose not trigger closure
+- stimulation of a single hair does not trigger closure
   - at least two hairs must be touched OR one hair touched twice within in 35 seconds
-  - to prevent the closure from the physical stimuli from rains of debris falls into the trap
+  - to prevent closure caused by physical stimuli such as rain or debris falling into the trap
 - Gaps between stiff hairs allow very small insects to **crawl out**
   - no energy wasted on digesting a very small meal
 
@@ -548,7 +548,7 @@ The **acid growth hypothesis** of auxin:
 
 ### Gibberellin
 
-Gibberellin（由$GA_1$激活的$GA$）参与：
+Gibberellin（活性形式为$GA_1$）参与：
 
 - Stem elongation - cause breakdown of DELLA protein and transcription of growth genes
 
@@ -572,7 +572,7 @@ Gibberellin（由$GA_1$激活的$GA$）参与：
 
 > Interaction with auxin and acid growth:
 >
-> 1. expansins are stiumulated
+> 1. expansins are stimulated
 > 2. cell wall loosens
 > 3. water moves into cells by osmosis
 > 4. cell expands
@@ -581,8 +581,8 @@ Explain the control of gibberellin synthesis and why lack of it leads to dwarfne
 
 1. Gibberellin synthesis is controlled by gene Le/le
 
-2. **Dominant allele Le** gives functional enzymes which converts inactive GA to active GA
-3. **Tall plants** have dominant allele Le with a genotype of `LeLe` of `Lele` to produce active GA which causes stem elongation
+2. **Dominant allele Le** gives functional enzymes which convert inactive GA ($GA_{20}$) into active GA ($GA_1$)
+3. **Tall plants** have dominant allele Le with a genotype of `LeLe` or `Lele` to produce active GA which causes stem elongation
 4. **Dwarf plants** only have recessive allele le with a genotype of lele and have no active GA
 5. GA1 is the active form of gibberellin
 
@@ -604,14 +604,14 @@ Explain the control of gibberellin synthesis and why lack of it leads to dwarfne
 2. **Acetylcholinesterase** - 乙酰胆碱酯酶<br>An enzyme in the synaptic cleft and on the postsynaptic membrane that hydrolyses ACh to acetate and choline
 3. **Action potential** - 动作电位<br>A brief change in the potential difference from –70 mV to +30 mV across the cell surface membranes of neurones and muscle cells caused by the inward movement of sodium ions
 4. **All-or-none law** - 全或无定律<br>Neurones and muscle cells only transmit impulses if the initial stimulus is sufficient to increase the membrane potential above a threshold potential
-5. **Chemoreceptor** - 化学感受器<br>A receptor cell that responds to chemical stimuli; chemoreceptors are found in taste buds on the tongue, in the nose and in bloodvessels where they detect changes in oxygen and carbon dioxide concentrations
+5. **Chemoreceptor** - 化学感受器<br>A receptor cell that responds to chemical stimuli; chemoreceptors are found in taste buds on the tongue, in the nose and in blood vessels where they detect changes in oxygen and carbon dioxide concentrations
 6. **Cholinergic synapse** - 胆碱能突触<br>A synapse at which the transmitter substance is ACh
 7. **Depolarisation** - 去极化<br>The reversal of the resting potential across the cell surface membrane of a neurone or muscle cell, so that the inside becomes positively charged compared with the outside
 8. **Motor neurone** - 运动神经元<br>A neurone whose cell body is in the brain, spinal cord or a ganglion (a swelling on a nerve), and that transmits nerve impulses to an effector such as a muscle or gland
 9. **Myelin** - 髓鞘<br>Insulating material that surrounds the axons of many neurones; myelin is made of layers of cell surface membranes formed by Schwann cells so that they are very rich in phospholipids and therefore impermeable to water and ions in tissue fluid
 10. **Nerve impulse** - 神经冲动<br>(usually shortened to impulse) a wave of electrical depolarisation that is transmitted along neurones
 11. **Neuromuscular junction** - 神经肌肉接头<br>A synapse between a motor neurone and a muscle
-12. **Neurone** - 神经元<br>Anerve cell; a cell which is specialised for the conduction of nerve impulses
+12. **Neurone** - 神经元<br>A nerve cell; a cell which is specialised for the conduction of nerve impulses
 13. **Neurotransmitter** - 神经递质<br>A chemical released at synapses to transmit impulses between neurones or between a motor neurone and a muscle fibre
 14. **Node of Ranvier** - 郎飞结<br>A very short gap between Schwann cells where myelinated axons are not covered in myelin so are exposed to tissue fluid
 15. **Noradrenaline** - 去甲肾上腺素<br>A type of neurotransmitter, which is also released by cells in the adrenal glands as a hormone
@@ -634,7 +634,7 @@ Explain the control of gibberellin synthesis and why lack of it leads to dwarfne
 32. **Myofibril** - 肌原纤维<br>One of many cylindrical bundles of thick (myosin) and thin (actin) filaments inside a muscle fibre
 33. **Myosin** - 肌球蛋白<br>The protein that makes up the thick filaments in striated muscle; the globular heads of each molecule break down ATP (they act as an ATP-ase)
 34. **Sarcolemma** - 肌膜<br>The cell surface membrane of a muscle fibre 
-35. **Sarcomere** - 肌节<br>The part of amyofibril between two Z discs
+35. **Sarcomere** - 肌节<br>The part of a myofibril between two Z discs
 36. **Sarcoplasm** - 肌质<br>The cytoplasm of muscle cells
 37. **Sarcoplasmic reticulum (SR)** - 肌浆网 (SR)<br>The endoplasmic reticulum of muscle fibre
 38. **Sliding filament model** - 滑动丝模型<br>The mechanism of muscle contraction; within each sarcomere the movement of thin filaments closer together by the action of myosin heads in the thick filaments shortens the overall length of each muscle fibre

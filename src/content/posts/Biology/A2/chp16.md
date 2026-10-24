@@ -39,7 +39,7 @@ lang: 'zh_CN'
 - Meiosis
 - Fertilization
 
-Prokaryotic cells divide by binary fission, it doses not involve a spindle.
+Prokaryotic cells divide by binary fission, it does not involve a spindle.
 
 Eukaryotic cells divide by:
 
@@ -93,7 +93,7 @@ One homologous chromosome is inherited from mother, and another is from father.
 
 After S phase (in interphase), there are still 46 chromosomes, but each chromosome has 2 **sister chromatids**
 
-**Locus** (*phural.* loci) 基因点位 - the position of a gene on a chromosome.
+**Locus** (*plural.* loci) 基因点位 - the position of a gene on a chromosome.
 
 **Allele** 等位基因 - an **alternative form** of a gene (a variety of a gene)
 
@@ -132,7 +132,7 @@ However, there are two divisions in meiosis:
 
    > **Chiasma** (*plural.* chiasmata) 交叉点
    >
-   > corssing over这一步中**交换了基因**，会有新的allele产生，**增加了genetic variation**
+   > crossing over这一步中**交换了基因**，会有新的allele产生，**增加了genetic variation**
 
 3. **Linkage groups** are broken
 
@@ -150,7 +150,7 @@ Independent assortment makes the gametes that are **genetically unique.** This i
 
 Total possible of chromosome combination: $2^n$
 
-> For example: human has 23 pairs chromosomes, so there are $2^{23} = 8324608$ different combinations.
+> For example: human has 23 pairs chromosomes, so there are $2^{23} = 8388608$ different combinations.
 
 ### Anaphase I
 
@@ -200,7 +200,7 @@ Meiosis II is just like mitosis, but no homologous chromosomes exist, and no DNA
 | No. of nuclear division | 1                     | 2                 |
 | No. of daughter cells   | 2                     | 4                 |
 | di- / haploid           | diploids              | haploids          |
-| Corssing over           | No                    | Yes               |
+| Crossing over           | No                    | Yes               |
 | Independent assortment  | No                    | Yes               |
 | Synapsis                | No                    | Yes               |
 
@@ -281,7 +281,7 @@ Test cross - needed to determine the genotype of one organism showing dominant p
 
 > - All the F₁ individuals are heterozygous, called monohybrids.
 >
-> - A cross between F₁ individuals is known as monohybrid cross. 这句话存疑，如果monohybrid是只考虑一个allele的话，就不可能是F₁这一代之间的杂交，P这一代的基因是GG和gg，所以F₁这一代的基因只可能是Gg。
+> - A cross between F₁ individuals is known as monohybrid cross.（monohybrid cross 泛指只考虑一个 gene 的杂交，F₁×F₁ 正是经典例子）
 > - More broadly, monohybrid cross means a cross in which the inheritance of one gene is considered.
 
 Alleles of one gene are separated along with the **separation of homologous chromosomes in anaphase I**. Each gamete inherits one allele of a gene.
@@ -354,7 +354,7 @@ During meiosis:
 
 一般来说在有autosomal linkage的情况下，括号中的alleles是一起遗传的，把这个括号内的东西当成一个整体即可。
 
-这边的例外是corssing over，发生crossing over时有小概率会互换括号行内的alleles。
+这边的例外是crossing over，发生crossing over时有小概率会互换括号行内的alleles。
 
 ![image-20260703153929706](./chp16.assets/image-20260703153929706.png)
 
@@ -420,9 +420,9 @@ Possible consequences of a gene mutation:
 
 Tyrosinase converts tyrosine into DOPA and then into dopaquinone. Then melanin is made in melanocytes 黑素细胞.
 $$
-\text{tyrosine} \xrightarrow {typosinase} DOPA \rightarrow \text{dopaquinone} \rightarrow \text{melanin}
+\text{tyrosine} \xrightarrow {tyrosinase} DOPA \rightarrow \text{dopaquinone} \rightarrow \text{melanin}
 $$
-白化症患者没办法合成typosine，导致接下来的一串生产黑色素的过程都没办法发生。
+白化症患者的tyrosinase没有活性，无法把tyrosine转化为melanin，导致黑色素无法合成。
 
 **Albinism** only occurs in **homozygous recessive** people and affects hair, skin and iris.
 
@@ -535,7 +535,7 @@ When they get older, they will begin to <u>lose ability to walk, talk and think.
 - In prokaryotic cells - **operon**
 - In eukaryotic cells - **transcription factors**
 
-Gene expression发生梗在transcription这个阶段
+Gene expression的控制主要发生在transcription这个阶段
 
 ### Operon in Prokaryotic cells
 
@@ -558,7 +558,9 @@ The responsibility of *lac* operon:
 
 - structural genes: lacZ, lacY, lacA
 
-- regulatory genes: promoter, operator
+- regulatory sequences（调控序列）: promoter, operator
+
+  > 注意：promoter和operator不是基因，真正的regulatory gene是*lacI*（见脚注）
 
   > Promoter和operator用于指示operon的起点和终点（tell the operon when to start and stop transcription）
   >
@@ -571,14 +573,14 @@ The responsibility of *lac* operon:
 - lacY - 生产β-galactosidase permease (lactose permease)，结合到CSM上成为channel protein，促使lactose进入细胞
 - lacA - 生产β-galactoside transacetylase（这个部分的功能还不明确，算补充内容）
 
-Repressor protein在glucose浓度高的时候bind于operator上，阻止RNA polymerase编译lacZYA genes。
+Repressor protein在glucose浓度高的时候bind于operator上，阻止RNA polymerase转录lacZYA genes。
 
-当lactose的浓度显著高于glucose时，有一部分lactose会自然转换成lactose的isomer，allolactose，此时allolactose会bind到repressor protein上，使repressor protein改变形状并脱离operator，允许RNA polymerase编译lacZYA genes。
+当lactose的浓度显著高于glucose时，有一部分lactose会自然转换成lactose的isomer，allolactose，此时allolactose会bind到repressor protein上，使repressor protein改变形状并脱离operator，允许RNA polymerase转录lacZYA genes。
 $$
 \text{lactose} \xrightarrow[\text{(hydrolysis)}]{\beta\text{-galactosidase半乳糖苷酶}} \text{galactose} + \text{glucose}
 $$
 
-[^3]: coded by *lacI* gene (or called $\text{gene I}$), repressor protein is consitutive protein
+[^3]: coded by *lacI* gene (or called $\text{gene I}$), repressor protein is constitutive protein
 
 **Constitutive protein** (repressor protein)
 

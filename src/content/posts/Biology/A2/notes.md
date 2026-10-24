@@ -26,9 +26,9 @@ AS Level:
 
   这个是我AS阶段完整版的笔记，但是最终我自己复习用的是后面自己整理的手写版笔记。
 
-  这边的电子版笔记可能还有一些问题没有修正，不过大体上拿来看时没问题的。
+  这边的电子版笔记可能还有一些问题没有修正，不过大体上拿来看是没问题的。
 
-- [9700 Microscope Sides Reference Images - Thyrius](https://thyrius.top/posts/9700-as-paper3-samples/)
+- [9700 Microscope Slides Reference Images - Thyrius](https://thyrius.top/posts/9700-as-paper3-samples/)
 
   里面放了一些实验卷（卷三）所对应的显微镜拨片，可以拿来去做实验题。
 

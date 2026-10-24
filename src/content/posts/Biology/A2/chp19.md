@@ -98,7 +98,7 @@ The materials needed in PCR machine:
 
 - 2 different primers
 
-- free deoxynucleotide triphosphate molecules (dNTPs), for energy supply
+- free deoxynucleotide triphosphate molecules (dNTPs)，作为合成新DNA链的**原料**，同时提供能量
 
 - 7\~8 pH buffer solution
 
@@ -110,7 +110,7 @@ There are 3 main stages in PCR machine:
 
 | Stage                | Temp | Procedure                                                    |
 | -------------------- | ---- | ------------------------------------------------------------ |
-| 1. Denaturation 变性 | 95°C | 1. Break the hydrogen bonds between base pairs<br>2. Each DNA molecule is denatured and seperated into two strands<br>3. Expose the bases |
+| 1. Denaturation 变性 | 95°C | 1. Break the hydrogen bonds between base pairs<br>2. Each DNA molecule is denatured and separated into two strands<br>3. Expose the bases |
 | 2. Annealing 退火    | 60°C | Primers anneal to the 3' end of the 2 DNA template strands<br>Forming hydrogen bonds and complementary base pairing |
 | 3. Extension 延伸    | 72°C | *Taq polymerase* uses dNTPs to make new complementary strands |
 
@@ -159,7 +159,7 @@ Marker gene and gene of interest can use same promoter. Both genes are transcrib
 >
 > *3 easy things to be identified*
 >
-> - recombinant plasmid $\rightarrow$ transformed bacteria $\rightarrow$ transgenetic organism ;;;
+> - recombinant plasmid $\rightarrow$ transformed bacteria $\rightarrow$ transgenic organism ;;;
 >
 > *其他重点*
 >
@@ -313,7 +313,7 @@ How the genetic disease may be treated using **gene therapy**:
 
 1. <u>normal allele</u> is <u>inserted into vector</u> ;;
 2. the vector liposomes in <u>aerosol</u> <u>fuses with host cell</u> ;;
-3. OR use <u>virus</u> (<u>harmless</u> virus) as the vector ;;l
+3. OR use <u>virus</u> (<u>harmless</u> virus) as the vector ;;
 4. This is only a <u>short term effect</u>, the treatment has to be <u>repeated</u> ;;
 
 Considering different vectors:
@@ -358,7 +358,7 @@ Involve **modification of the existing DNA** of an organism rather than the inse
 
 Why sometimes gene editing is more suitable as a potential cure for some disease:
 
-- the disease may be caused by a <u>dominant ellele</u>
+- the disease may be caused by a <u>dominant allele</u>
 - adding a normal recessive allele would not work
 - gene editing can alter the mutant allele / DNA
 
@@ -383,7 +383,7 @@ The gel contains many pores, smaller molecules move through the gel faster than 
 5. DNA fragments of different sizes separate due to electric field. 发生分离
 6. DNA was stained so that UV light can be used to observe DNA banding pattern. 通过UV light观察染色了的片段
 
-可以通过和已知长度的片段（marker）来估算右边移动的marker长度。
+可以通过与已知长度的片段（marker）对比，来估算未知DNA片段的长度。
 
 ![image-20260723234005489](./chp19.assets/image-20260723234005489.png)
 
@@ -502,7 +502,7 @@ The role of bioinformatics following the sequencing of genomes of humans and par
 
 - to allow the data to be shared
 - can predict the amino acid sequence
-- provide analytical tool , o.g. BLAST
+- provide analytical tool , e.g. BLAST
 - compare the base sequences
 
 > [!NOTE]
@@ -530,7 +530,7 @@ The advantages of using theoretical models in research rather than testing possi
 
 - there may some clinical traits / side effects
 
-- have to make sure the dosage is safty
+- have to make sure the dosage is safe
 
   > theoretical modelling will not give information on doses
 
@@ -639,7 +639,7 @@ Genetic engineering (recombinant DNA technology):
 
 Genetic screening:
 
-- detect *BRCA1* amd *BRCA2* (for **breast cancer**)
+- detect *BRCA1* and *BRCA2* (for **breast cancer**)
 - detect **Huntington's** disease
 - detect *CFTR* for **cystic fibrosis**
 

@@ -40,7 +40,7 @@ Chloroplast - the site of photosynthesis
 
 > Other components:
 >
-> - strchh grains
+> - starch grains
 > - lipid droplets
 > - ribosomes
 
@@ -54,7 +54,7 @@ $$
 - carbon dioxide is reduced （二氧化碳失去了氧）
 - oxygen is used in respiration, or diffuses into the environment
 
-Plants can provide nutrients by their own for all the synthesis of all the metabolities the plant needs. 这种self-feeding的行为被成为**autotrophic nutrition**
+Plants can provide nutrients by their own for all the synthesis of all the metabolites the plant needs. 这种self-feeding的行为被成为**autotrophic nutrition**
 
 Photosynthesis **converts inorganic carbon to organic carbon**
 
@@ -89,7 +89,7 @@ Photosynthesis分为两个stage：
 > A graph showing the absorbance of different wavelengths of light by a photosynthetic pigment 展示光的吸收率
 
 - Chlorophylls mainly **absorb red and blue-violet light** and **reflect green light** (so they look green)
-- Carotenoids mainly **absorb th blue-violet light**
+- Carotenoids mainly **absorb the blue-violet light**
 
 ![image-20260615214424309](./chp13.assets/image-20260615214424309.png)
 
@@ -135,7 +135,7 @@ There are two types of photosystem:
 
 1. **At PSII**
 
-   Accessory pigments (chorophyll *b*, carotene and xanthophyll) 吸收并将能量传递至reaction centre chlorophyll *a*:
+   Accessory pigments (chlorophyll *b*, carotene and xanthophyll) 吸收并将能量传递至reaction centre chlorophyll *a*:
 
    - this raises the energy level of electrons in chlorophyll *a*
    - electrons get excited and emitted
@@ -187,7 +187,7 @@ There are two types of photosystem:
 | -------------------- | --------------- | ------------------------------------------------------------ |
 | Photolysis           | Splitting Water | $2\text{H}_2\text{O} \rightarrow 4\text{H}^+ + 4\text{e}^- + \text{O}_2$ |
 | Photophosphorylation | Making ATP      | $\text{ADP} + \text{P}_i \rightarrow \text{ATP}$             |
-| Reduction            | Making NADPH    | $\text{NADP}^+ + \text{e}^- \rightarrow \text{NADPH}$        |
+| Reduction            | Making NADPH    | $\text{NADP}^+ + 2\text{e}^- + \text{H}^+ \rightarrow \text{NADPH}$ |
 
 描述non-cyclic photophosphorylation的图像又被成为**Z-scheme**
 
@@ -216,9 +216,9 @@ There are two types of photosystem:
 
 ### Cyclic Photophosphorylation
 
-After a long day of sun, **NADPH** is being used in Calvin cycle and there is no (oxidised) NADP to combine with the electron from PSI in the light dependent stage.
+Sometimes the light-independent stage cannot keep up with the light-dependent stage (e.g. the Calvin cycle is limited by CO₂ concentration or temperature), so most NADP ends up in its reduced form (NADPH), and no oxidised NADP is available to accept electrons from PSI.
 
-在经过很长一段的阳光照射下，NADPH会被在Calvin cycle中被使用，导致没有足够的NADP可以在PSI中和电子结合。
+有时light-independent stage跟不上light-dependent stage的节奏（比如Calvin cycle受CO₂浓度或温度限制），导致大多数NADP都以还原形式（NADPH）存在，没有足够的氧化型NADP可以在PSI中接受电子。
 
 为了避免这个情况，
 
@@ -249,7 +249,7 @@ After a long day of sun, **NADPH** is being used in Calvin cycle and there is no
 > - pigments arranged in light-harvesting clusters
 > - chlorophyll *a* is located in the reaction centre
 > - accessory pigments surround primary pigment
-> - photosystem located in thyalkoid
+> - photosystem located in thylakoid
 
 ---
 
@@ -306,18 +306,18 @@ This process is located in the **stroma of the chloroplast**
 
    这一步中产生的GP并不是碳水化合物，但是它会在下一步中转换成碳水化合物。
    $$
-   \mathrm{CO_2 + C_5H_8O_{11}P_2 \ (RuBP) \xrightarrow{rubisco} C_6H_{10}O_{15}P_2 \ (unstable \ 6C \ intermediate)}
-   
+   \mathrm{CO_2 + RuBP \ (5C) \xrightarrow{rubisco} unstable \ 6C \ compound}
+
    \\ \\
-   
-   \mathrm{C_6H_{10}O_{15}P_2 + H_2O \rightarrow 2 \ C_3H_5O_6P \ (glycerate-3-phosphate)}
+
+   \mathrm{unstable \ 6C \ compound \rightarrow 2 \ GP \ (3C)}
    $$
    
 2. ATP and NADPH from light dependent stage are used to **reduce GP to TP** (triose phosphate)
 
-3. Most ($\frac{5}{6}$) carbon molecules in TPs are used to **regenerate** RuBP, by using ATP;
+3. Most ($\frac{5}{6}$) of the TP molecules are used to **regenerate** RuBP, by using ATP;
 
-   $\frac{1}{6}$ is used in respiration, to produce **glucose**, **amina acid**, **fatty acids**, etc.
+   $\frac{1}{6}$ is used in respiration, to produce **glucose**, **amino acid**, **fatty acids**, etc.
 
 > 如果有10个TP分子，则总共有10\*3个碳原子，被用于合成RuBP的碳原子有30\*5/6个（25个），也就是有5个RuBP分子
 
@@ -325,7 +325,7 @@ This process is located in the **stroma of the chloroplast**
 
 > [!NOTE]
 >
-> [Past Paper Question] Outline the steps of the Calcin Cycle:
+> [Past Paper Question] Outline the steps of the Calvin Cycle:
 >
 > 1. RuBP combines with carbon dioxide
 > 2. ... by enzyme rubisco
@@ -369,7 +369,7 @@ Method:
 
 4. Put the chromatography paper into the solvent (the base line must above the solvent level)
 
-5. Wait for the seperation
+5. Wait for the separation
 
 6. Measure the distance traveled by the solvent
 
@@ -410,7 +410,7 @@ Measure the dependent variable:
 2. **Light-dependent stage** - 光反应阶段<br>The first series of reactions that take place in photosynthesis; it requires energy absorbed from light
 3. **Light-independent stage** - 暗反应阶段<br>The final series of reactions that take place in photosynthesis; it does not require light but does need substances that are produced in the light- dependent stage
 4. **NADP** - 烟酰胺腺嘌呤二核苷酸磷酸 (NADP)<br>A coenzyme that transfers hydrogen from one substance to another, in the reactions of photosynthesis 
-5. **Photolysis** - 光解<br>Splitting a water molecule, using energy from lightH2O → 2H+ + 2e− + O2
+5. **Photolysis** - 光解<br>Splitting a water molecule, using energy from light: H₂O → 2H⁺ + 2e⁻ + ½O₂
 6. **Photophosphorylation** - 光磷酸化<br>Producing ATP using energy that originated as light
 7. **Absorption spectrum** - 吸收光谱<br>A graph showing the absorbance of different wavelengths of light by a photosynthetic pigment
 8. **Action spectrum** - 作用光谱<br>A graph showing the effect of different wavelengths of light on a process, e.g. the rate of photosynthesis
@@ -419,7 +419,7 @@ Measure the dependent variable:
 11. **Photosynthetic pigments** - 光合色素<br>Coloured substances that absorb light of particular wavelengths, supplying energy to drive the reactions in the light-dependent stage of photosynthesis
 12. **Photosystem** - 光系统<br>A cluster of light-harvesting pigments surrounding a reaction centre
 13. **Reaction centre** - 反应中心<br>The part of a photosystem towards which energy from light is funnelled; it contains a pair of chlorophyll a molecules, which absorb the energy and emit electrons
-14. **Rf value** - Rf值<br>A number that indicateshow far a substance travels during chromatography, calculated by dividing the distance travelled by the substance by the distance travelled by the solvent; Rf values can be used to identify the substance
+14. **Rf value** - Rf值<br>A number that indicates how far a substance travels during chromatography, calculated by dividing the distance travelled by the substance by the distance travelled by the solvent; Rf values can be used to identify the substance
 15. **Stroma** - 基质<br>The background material in a chloroplast in which the light-independent stage of photosynthesis takes place
 16. **Thylakoid membranes** - 类囊体膜<br>The membranes inside a chloroplast that enclose fluid-filled sacs; the light-dependent stage of photosynthesis takes place in these membranes
 17. **Thylakoid spaces** - 类囊体空间<br>Fluid-filled sacs enclosed by the thylakoid membranes
@@ -429,6 +429,6 @@ Measure the dependent variable:
 21. **Photoactivation** - 光激活<br>The emission of an electron from a molecule as a result of the absorption of energy from light
 22. **Glycerate-3-phosphate (GP)** - 甘油酸-3-磷酸 (GP)<br>A three-carbon compound which is formed when RuBP combines with carbon dioxide
 23. **Ribulose bisphosphate (RuBP)** - 核酮糖-1,5-二磷酸 (RuBP)<br>A five-carbon phosphorylated sugar which is the first compound to combine with carbon dioxide during the light- independent stage of photosynthesis
-24. **Rubisco** - 核酮糖二磷酸羧化酶/加氧酶 (Rubisco)<br>The enzyme that catlalyses the combinbation of RuBP with carbon dioxide
+24. **Rubisco** - 核酮糖二磷酸羧化酶/加氧酶 (Rubisco)<br>The enzyme that catalyses the combination of RuBP with carbon dioxide
 25. **Triose phosphate (TP)** - 磷酸丙糖 (TP)<br>A three-carbon phosphorylated sugar, the first carbohydrate to be formed during the light-independent stage of photosynthesis
 26. **Limiting factor** - 限制因素<br>The requirement for a process to take place that is in the shortest supply; an increase in this factor will allow the process to take place more rapidly

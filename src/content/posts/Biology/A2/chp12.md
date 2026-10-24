@@ -24,11 +24,11 @@ lang: 'zh_CN'
   - [Anaerobic Respiration](#anaerobic-respiration)
     - [Yeast and Plant](#yeast-and-plant)
     - [Animal](#animal)
-    - [Oxygen Bebt / Excess Post-exercise Oxygen Consumption](#oxygen-bebt--excess-post-exercise-oxygen-consumption)
+    - [Oxygen Debt / Excess Post-exercise Oxygen Consumption](#oxygen-debt--excess-post-exercise-oxygen-consumption)
     - [Ethanol Fermentation in Rice](#ethanol-fermentation-in-rice)
     - [Comparison Table](#comparison-table)
   - [Mitochondrial Structure and Function](#mitochondrial-structure-and-function)
-  - [Respiratory Substratess](#respiratory-substratess)
+  - [Respiratory Substrates](#respiratory-substrates)
     - [Respiratory Quotient](#respiratory-quotient)
     - [Measurement of RQ by Respirometer](#measurement-of-rq-by-respirometer)
   - [Measurement of rate of Respiration Using Redox Indicator](#measurement-of-rate-of-respiration-using-redox-indicator)
@@ -58,12 +58,12 @@ Uses of ATP - energy-requiring reactions:
 Energy-yielding reactions:
 $$
 \begin{array}{ll}
-\text{Oxgyen present:} & \\
+\text{Oxygen present:} & \\
 \textbf{aerobic respiration} & \\
 \mathrm{C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O} & \text{+ large amount of} \\
 & \text{ATP per glucose molecule} \\
 \\
-\text{Oxgyen absent:} & \\
+\text{Oxygen absent:} & \\
 \textbf{anaerobic respiration} & \\
 \text{① yeast/plant} & \\
 \mathrm{C_6H_{12}O_6 \rightarrow 2C_2H_5OH + 2CO_2} & \text{+ small amount of} \\
@@ -114,7 +114,7 @@ A coenzyme 辅酶 / cofactor 辅因子 is a non-protein compound that aids the f
 > **coenzyme A**:
 >
 > - transfer acetyl group
-> - $\mathrm{acetyl\space fragnent + oxaloacetate \rightarrow citrate}$
+> - $\mathrm{acetyl\space fragment + oxaloacetate \rightarrow citrate}$
 > - joins link reaction and Krebs cycle
 
 > **NAD / FAD**:
@@ -126,7 +126,7 @@ A coenzyme 辅酶 / cofactor 辅因子 is a non-protein compound that aids the f
 > **Electron Carrier**
 >
 > - transport the electrons in Electron Transport Chain
-> - during oxidative phosphorlylation stage
+> - during oxidative phosphorylation stage
 > - locate on the inner mitochondrial membrane
 
 ### Carrier of hydrogen
@@ -194,7 +194,7 @@ Steps of Glycolysis:
 
 1. glucose中加入两个ATP，经过phosphorylation后形成两个triose phosphate (3C)
 
-2. 两个phosphate group从中间产物上被移除下来，去磷酸化（phosphorylase）环境中的两个$ADP$并形成两个$ATP$
+2. 两个phosphate group从中间产物上被移除下来（dephosphorylation 去磷酸化），与环境中的两个$ADP$反应形成两个$ATP$
 
 3. 两个氢原子被移除下来，这两个氢原子将两个NAD分子还原，形成两个reduced NAD / NADH
 
@@ -204,7 +204,7 @@ Steps of Glycolysis:
 
    > 中间产物脱下来两个氢被称之为：dehydrogenation (de-hydrogen-a-tion)
    >
-   > 帮助这个反应发生反而酶叫作：dehydrogenase (de-hydrogen-ase)
+   > 帮助这个反应发生的酶叫作：dehydrogenase (de-hydrogen-ase)
 
 4. 在从中间产物生成pyruvate的过程中，两个intermediates各自贡献两个$P_i$到环境中的ADP，形成两个ATP
 
@@ -261,7 +261,7 @@ $$
 
 1. decarboxylation: the removal of a carbon dioxide
 2. dehydrogenation: the removal of a hydrogen atom ($\mathrm{NAD \rightarrow reduced NAD / NADH}$)
-3. the remainder of the molecule combines with coenzyme A (CoA) o produce acetyl coenzyme A (acetyl CoA)
+3. the remainder of the molecule combines with coenzyme A (CoA) to produce acetyl coenzyme A (acetyl CoA)
 
 $$
 \text{pyruvate} + \text{CoA} + \text{NAD} \longrightarrow \text{acetyl CoA} + \text{carbon dioxide} + \text{reduced NAD}
@@ -306,8 +306,10 @@ Krebs cycle summary:
    - **1 ATP** molecule is generated, through **substrate-linked reaction**
 
 $$
-\text{Pyruvate} \rightarrow 2\text{CO}_2 + 1\text{FADH}_2 + 3\text{NADH} + 1\text{ATP}
+\text{acetyl (2C) CoA} \rightarrow 2\text{CO}_2 + 1\text{FADH}_2 + 3\text{NADH} + 1\text{ATP}
 $$
+
+> 注意：Krebs cycle 的直接输入是 **acetyl CoA**（不是 pyruvate，pyruvate 需先经 link reaction 转化为 acetyl CoA）。以上是每个 acetyl CoA（即每个 pyruvate）的产物；若按每个 glucose 计算，产物需 ×2（4 CO₂、2 FADH₂、6 NADH、2 ATP）。
 
 ### Oxidative Phosphorylation
 
@@ -339,7 +341,7 @@ Inner mitochondrial membrane上参与oxidative phosphorylation的结构:
 
 3. As the electron moves along the ETC, energy is released. 电子在通过ETC时会释放能量
 
-   > Some of the energy is used to actively move protons from the mitochondrial matrix into the intermembrane spase. 一部分能量用来运输氢离子
+   > Some of the energy is used to actively move protons from the mitochondrial matrix into the intermembrane space. 一部分能量用来运输氢离子
    >
    > This produces a higher concentration of proton in the intermembrane space and creates a **concentration gradient of protons** between the intermembrane space and the mitochondrial matrix 建立浓度梯度差
 
@@ -420,7 +422,7 @@ Muscle cells can **respire anaerobically** for a short time. 剧烈运动时（�
 - Fewer substrate-linked phosphorylation occurs
 - Lactate is energy-rich
 - Oxygen is not available as final electron acceptor
-- Oxidative phosphorylation dose not occur
+- Oxidative phosphorylation does not occur
 - ... but most ATP is produced in oxidative phosphorylation
 
 $$
@@ -439,7 +441,7 @@ $$
 | **glycolysis**                 | cytoplasm | $$\mathrm{glucose} \rightarrow 2\mathrm{pyruvate} + 2\mathrm{ATP} + 2\mathrm{NADH}$$ |
 | **oxidising NADH to form NAD** | cytoplasm | $$\mathrm{pyruvate} + \mathrm{NADH} \xrightarrow{\mathrm{lactate\ dehydrogenase}} \mathrm{lactate} + \mathrm{NAD}$$ |
 
-### Oxygen Bebt / Excess Post-exercise Oxygen Consumption
+### Oxygen Debt / Excess Post-exercise Oxygen Consumption
 
 *Happens in mammals*
 
@@ -526,7 +528,7 @@ Mitochondrion中的enzyme：
 
 - Electron transport chain (electron carrier + ATP synthase)
 
-## Respiratory Substratess
+## Respiratory Substrates
 
 通常glucose会作为呼吸作用中默认的能量来源，但是在实际情况中lipids, amino acid和其他种类的carbohydrate也可以释放能量（作为respiratory substrate）
 
@@ -676,7 +678,7 @@ $$
 Redox Indicator:
 
 - DCPIP
-- methylene bule
+- methylene blue
 
 二者都是会从**蓝色**逐渐变为**无色**。
 

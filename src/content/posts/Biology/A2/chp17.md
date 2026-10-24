@@ -16,7 +16,7 @@ lang: 'zh_CN'
   - [Natural Selection](#natural-selection)
   - [Genetic Drift and Gene Flow](#genetic-drift-and-gene-flow)
     - [Genetic Drift](#genetic-drift)
-  - [The Hardy-Weinbery principle](#the-hardy-weinbery-principle)
+  - [The Hardy-Weinberg principle](#the-hardy-weinbery-principle)
   - [Artificial Selection](#artificial-selection)
     - [Artificial selected maize seeds](#artificial-selected-maize-seeds)
   - [Evolution](#evolution)
@@ -149,7 +149,7 @@ Examples of stabilising selection:
 
 | Short flowers     | Medium flowers              | Tall flowers      |
 | ----------------- | --------------------------- | ----------------- |
-| DIE - no sunlight | SURVIVE - prefect condtions | DIE - wind damage |
+| DIE - no sunlight | SURVIVE - perfect conditions | DIE - wind damage |
 
 | Light weight babies | Average weight babies | Heavyweight babies  |
 | ------------------- | --------------------- | ------------------- |
@@ -189,7 +189,7 @@ Chance events can cause random change in allele frequencies, especially in small
 When a few individuals become **isolated** (e.g. by being blown by a storm to an island) **from a larger population** (e.g. in the mainland China), they may **start a new population** with different allele frequencies than the original population. **Gene pool/genetic diversity decreases** in the new population.
 
 - Gene pool: the complete range of DNA base sequences in **all the organisms in a species or population**
-- Genome: the complete set of genes or genetic material in **a cell or an organism
+- Genome: the complete set of genes or genetic material in **a cell or an organism**
 
 **Bottleneck effect**
 **A sudden change in the environment**, e.g. a natural disaster (like a fire or flood), may drastically reduce the size of a population, leading to **the loss of a large number of alleles** and therefore a **reduction in the gene pool/genetic diversity** of the species.
@@ -202,11 +202,11 @@ How the rare features becomes common in reduces population:
 - inbreeding reduces heterozygosity
 - rare and recessive alleles show their effects
 
-## The Hardy-Weinbery principle
+## The Hardy-Weinberg principle
 
 > 在一个理想的大群体中，如果没有外界干扰，那么**基因频率**和基因型频率会一代代“原地不动”，永远保持不变。
 
-The Hardy-Weinbery equations allow for the calculation of **allele and genotype frequencies** within populations.
+The Hardy-Weinberg equations allow for the calculation of **allele and genotype frequencies** within populations.
 
 - For alleles
   $$
@@ -214,9 +214,9 @@ The Hardy-Weinbery equations allow for the calculation of **allele and genotype 
   $$
   $p$: the frequency of dominant allele A
 
-  $q$: the frequency of dominant allele a
+  $q$: the frequency of recessive allele a
 
-- For grnotypes
+- For genotypes
   $$
   p^2 + 2pq + q^2 = 1
   $$
@@ -226,7 +226,7 @@ The Hardy-Weinbery equations allow for the calculation of **allele and genotype 
 
   $q^2$: homozygous recessive aa
 
-使用Hardy-Weinbery priciple时有五个条件：
+使用Hardy-Weinberg principle时有五个条件：
 
 | Condition                          | Consequence if Condition Does Not Hold                       |
 | :--------------------------------- | :----------------------------------------------------------- |
@@ -236,7 +236,7 @@ The Hardy-Weinbery equations allow for the calculation of **allele and genotype 
 | 4. Extremely large population size | In small populations, allele frequencies fluctuate by chance over time (a process called genetic drift). |
 | 5. No gene flow                    | By moving alleles into or out of populations, gene flow can alter allele frequencies. |
 
-这一般与$\chi ^2$ test一起使用，将Hardy-Weinbery principle作为null hypothesis，如果不符合$H_0$，则正在发生进化（directional selection is occurring in the population）
+这一般与$\chi ^2$ test一起使用，将Hardy-Weinberg principle作为null hypothesis，如果不符合$H_0$，则正在发生进化（directional selection is occurring in the population）
 
 ## Artificial Selection
 
@@ -263,14 +263,14 @@ The process of selective breeding / artificial selection:
 
 1. **Humans** select parents with **desired traits** to **breed** them together. 把“优质”的个体配在一起
 2. **Offspring** are tested, and those offspring which have the desired traits are chosen to be **bred** together. 筛掉不好的个体，继续配
-3. This process is **repeated** for man generations. 一直重复
+3. This process is **repeated** for many generations. 一直重复
 
 ---
 
 The disadvantages of artificial selection:
 
 - Result of inbreeding
-- Not for survivial
+- Not for survival
 - Not just genes controlling the desired traits are involved in the process of artificial selection, all genes of the selected organisms are involved 无法精确控制哪些优质的基因会被传递下去，所有的基因会参与到遗传中。
 
 Artificial selection会造成inbreeding近亲繁殖，近亲繁殖的后果是：

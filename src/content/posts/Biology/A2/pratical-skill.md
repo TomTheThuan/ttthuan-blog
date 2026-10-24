@@ -1,7 +1,7 @@
 ---
-title: A2 Biology Pratical Skills
+title: A2 Biology Practical Skills
 published: 2026-08-13
-description: "Pratical Skills"
+description: "Practical Skills"
 image: ""
 tags: ["生物", "学校", "笔记", "A2"]
 category: "生物"

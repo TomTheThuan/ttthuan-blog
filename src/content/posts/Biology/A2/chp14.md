@@ -97,7 +97,7 @@ Positive feedback cannot play any role in keeping conditions in the body constan
 
 The excretory products include:
 
-- carbon dioxode
+- carbon dioxide
 - urea
 
 Carbon dioxide is excreted out of the body through **lungs**
@@ -134,7 +134,7 @@ Ammonia is a **very soluble** and **highly toxic** compound
 
 - urea is **less soluble** and **less toxic**
 
-- urea cycle (a sequence of reactions) combines **ammonia and carbon dioxide** to from urea
+- urea cycle (a sequence of reactions) combines **ammonia and carbon dioxide** to form urea
   $$
   \text{ammonia} + \text{carbon dioxide} \rightarrow \text{urea}
   $$
@@ -227,9 +227,9 @@ The factors affecting **glomerular filtration rate**:
 
 > Glomerular filtration rate is the rate of fluid filters from the glomerular capillaries into the Bowman's capsule
 
-- efferent arteriole lumen >  afferent arteriole lumen:
+- afferent arteriole lumen > efferent arteriole lumen:
 
-  there is a **high blood pressure** in glomerular capillaries, to raise the water potential in the blood
+  there is a **high blood pressure** in glomerular capillaries, which forces fluid out into the Bowman's capsule
 
 - the solute concentration in glomerular capillaries > Bowman's capsule:
 
@@ -241,7 +241,7 @@ Overall, the water potential in the glomerular capillaries  > Bowman's capsule, 
 
 **Selective reabsorption** - only certain substances are taken back to the blood
 
-This process occurs in there locations:
+This process occurs in three locations:
 
 - proximal convoluted tubule 主要发生在这边
 - loop of Henle and collecting duct 大纲上没写，算书本扩展的内容
@@ -294,13 +294,13 @@ This process regulates the water potential in blood.
 #### Negative feedback of osmoregulation
 
 1. there is a decrease in water potential
-2. osmoreceptor in hypothalamus detects this change, and becomes shrink
+2. osmoreceptor in hypothalamus detects this change, and shrinks
 3. this stimulates the secretion of ADH by posterior pituitary gland
 4. ADH travels in blood stream
 5. ADH causes the collecting duct cells more permeable to water
 6. more water is reabsorbed by osmosis through aquaporins into blood
 
-反之亦然，posterior pituitary gland不再产生ADH，使collecting duct more permeable to water，让多出来的水分通过urine的方式流失。
+反之亦然：water potential过高时ADH释放减少，collecting duct对水的通透性**降低**（less permeable），重吸收的水减少，多余水分通过urine排出。
 
 #### The cell signaling of ADH
 
@@ -336,9 +336,9 @@ The alpha cells and beta cells act as the **receptors and the central control** 
 
   > GLUT - **GLU**cose **T**ransporter
 
-- Muscle cells have **GULT4**. The **vesicles with GLUT4 protein** can move to the CSM and fuse with it to **increase permeability** to glucose and **increase glucose uptake**
+- Muscle cells have **GLUT4**. The **vesicles with GLUT4 protein** can move to the CSM and fuse with it to **increase permeability** to glucose and **increase glucose uptake**
 
-- Liver cells have **GULT2** proteins, which are always in the CSM. Liver cells increase glucose uptake by **phosphorylating glucose**. 
+- Liver cells have **GLUT2** proteins, which are always in the CSM. Liver cells increase glucose uptake by **phosphorylating glucose**. 
 
   > This **phosphorylated glucose** cannot pass out through glucose transporters in the CSM 只进不出
   >
@@ -393,7 +393,7 @@ The alpha cells and beta cells act as the **receptors and the central control** 
 3. liver cells respond to more glucagon: **breaking down more glycogen** into glucose
 
    - Glucagon acts as a signalling molecule and binds to receptor in the CSM of liver cells
-   - the 3D shape of the receptor changes (**confirmation**)
+   - the 3D shape of the receptor changes (**conformation**)
    - G protein activated
    - **adenylyl cyclase** activated 这个酶一定要记住
    - **cAMP**[^2] is produced from ATP 需要记住这个地方的second messenger的名字
@@ -416,7 +416,7 @@ The alpha cells and beta cells act as the **receptors and the central control** 
 
 ---
 
-作为补充，hormone **adrenaline**也可以通过类似于glucagon的方式在liver中增加血液中glucosee的含量:
+作为补充，hormone **adrenaline**也可以通过类似于glucagon的方式在liver中增加血液中glucose的含量:
 
 1. Adrenaline binds to receptors (in the cell surface membrane)
 2. Receptor changes conformation
@@ -425,7 +425,7 @@ The alpha cells and beta cells act as the **receptors and the central control** 
 5. Cyclic AMP (cAMP) is made
 6. cAMP acts as a second messenger
 7. Activates a kinase (protein)
-8. Enzyme cascade orrurs
+8. Enzyme cascade occurs
 9. Glycogen is broken down to glucose (**glycogenolysis**)
 10. Glucose diffuses into the blood
 11. This results in an **increase in blood glucose concentration**
@@ -440,11 +440,11 @@ It can be used to determine **diabetes** 糖尿病
 
 > If the blood glucose concentration increases above the **renal threshold**, not all of the glucose is **reabsorbed** from the filtrate in the proximal convoluted tubule and some will be present in the urine.
 
-Test strips contain the **immobilized enzymes glucose oxidase** and **preoxidase**, a small pad at one end of a test strip is **dipped in urine** for a brief time, when glucose is exist:
+Test strips contain the **immobilized enzymes glucose oxidase** and **peroxidase**, a small pad at one end of a test strip is **dipped in urine** for a brief time, when glucose is exist:
 
-- **Glucose oxidase** oxidises glucose in to **gluconic acid** and hydrogen preoxide
+- **Glucose oxidase** oxidises glucose in to **gluconic acid** and hydrogen peroxide
   $$
-  \text{glucose} + \text{oxygen} \xrightarrow {\text{glucose oxidase}}  \text{gluconic acid} + \text{hydrogen preoxide}
+  \text{glucose} + \text{oxygen} \xrightarrow {\text{glucose oxidase}}  \text{gluconic acid} + \text{hydrogen peroxide}
   $$
 
 - **Peroxidase** catalyses a reaction between hydrogen peroxide and colourless **chromogen** to give colour change
@@ -480,7 +480,7 @@ There are some disadvantages of using test strips:
 
 When blood on pad is inserted into biosensor, the immobilised enzyme **glucose oxidase** produces **hydrogen peroxide**:
 $$
-\text{glucose} + \text{oxygen} \xrightarrow {\text{glucose oxidase}}  \text{gluconic acid} + \text{hydrogen preoxide}
+\text{glucose} + \text{oxygen} \xrightarrow {\text{glucose oxidase}}  \text{gluconic acid} + \text{hydrogen peroxide}
 $$
 Hydrogen peroxide is oxidised at an electrode that detects electron flow.
 
@@ -589,14 +589,14 @@ In conditions of water stress, the hormone abscisic acid (一般用简写ABA) is
 18. **Efferent arteriole** - 出球小动脉<br>Arteriole leading away from glomerular capillaries
 19. **Glomerulus** - 肾小球<br> (plural glomeruli) a group of capillaries within the ‘cup’ of a Bowman’s capsule in the cortex of the kidney
 20. **Loop of Henle** - 亨利氏袢<br>The part of the nephron between the proximal and distal convoluted tubules
-21. **Nephron** - 肾单位<br>The structural and functional unit of the kidney composed of Bowman’s capsule and a tubule divided into three regionsproximal convoluted tubule, loop of Henle and distal convoluted tubule
+21. **Nephron** - 肾单位<br>The structural and functional unit of the kidney composed of Bowman’s capsule and a tubule divided into three regions: proximal convoluted tubule, loop of Henle and distal convoluted tubule
 22. **Podocyte** - 足细胞<br>One of the cells that makes up the lining of Bowman’s capsule surrounding the glomerular capillaries
 23. **Proximal convoluted tubule** - 近曲小管<br>Part of the nephron that leads from Bowman’s capsule to the loop of Henle
 24. **Selective reabsorption** - 选择性重吸收<br>Movement of certain substances from the filtrate in nephrons back into the blood
 25. **Ultrafiltration** - 超滤<br>Filtration on a molecular scale separating small molecules from larger molecules, such as proteins (e.g. the filtration that occurs as blood flows through capillaries, especially those in glomeruli in the kidney) 
 26. **Osmoreceptor** - 渗透感受器<br>Type of receptor that detects changes in the water potential of blood
 27. **Osmoregulation** - 渗透调节<br>The control of the water potential of blood and tissue fluid by controlling the water content and/or the concentration of ions, particularly sodium ions 
-28. **Adenylyl cyclise** - 腺苷酸环化酶<br>Enzyme that catalyses formation of the second messenger cyclic AMP
+28. **Adenylyl cyclase** - 腺苷酸环化酶<br>Enzyme that catalyses formation of the second messenger cyclic AMP
 29. **Biosensor** - 生物传感器<br>A device that uses a biological material such as an enzyme to measure the concentration of a chemical compound
 30. **Cyclic AMP (c-AMP)** - 环磷酸腺苷 (cAMP)<br>A second messenger in cell– signalling pathways
 31. **Glucagon** - 胰高血糖素<br>A small peptide hormone secreted by the α cells in the islets of Langerhans in the pancreas to bring about an increase in the concentration of glucose in the blood 
@@ -606,7 +606,7 @@ In conditions of water stress, the hormone abscisic acid (一般用简写ABA) is
 35. **Insulin** - 胰岛素<br>A small peptide hormone secreted by the β cells in the islets of Langerhans in the pancreas to bring about a decrease in the concentration of glucose in the blood
 36. **Islet of Langerhans** - 朗格汉斯岛<br>A group of cells in the pancreas which secrete insulin and glucagon
 37. **Phosphorylase kinase** - 磷酸化酶激酶<br>An enzyme that is part of the enzyme cascade that acts in response to glucagon; the enzyme activates glycogen phosphorylase by adding a phosphate group
-38. **Protein kinase A** - 蛋白激酶A<br>Enzyme that is activated by c-AMP and once activated adds phosphate groups to other proteins, including phosphorylasekinase, to activate them
+38. **Protein kinase A** - 蛋白激酶A<br>Enzyme that is activated by c-AMP and once activated adds phosphate groups to other proteins, including phosphorylase kinase, to activate them
 39. **Abscisic acid (ABA)** - 脱落酸 (ABA)<br>An inhibitory plant growth regulator that causes closure of stomata in dry conditions
 40. **Electrochemical gradient** - 电化学梯度<br>A gradient across a cell surface membrane that involves both a difference in concentrations of ions and a potential difference
 41. **Guard cell** - 保卫细胞<br>A sausage-shaped epidermal cell found with another, in a pair bounding a stoma and controlling its opening or closure
