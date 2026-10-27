@@ -1,12 +1,13 @@
 ---
 title: Derive the Solution of Second Order Differential Equation
 published: 2026-10-27
-description: '推导Homologous Second Order Differential Equation的解'
-image: ''
-tags: ["数学"]
-category: '#数学'
+description: 推导Homologous Second Order Differential Equation的解
+image: ""
+tags:
+  - 数学
+category: 数学
 draft: false
-lang: 'zh_CN'
+lang: zh_CN
 ---
 
 Homologous Second Order Differential Equation的基本形式：
