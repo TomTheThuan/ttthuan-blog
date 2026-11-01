@@ -4,7 +4,7 @@ published: 2025-12-26
 description: '每一代人都有属于自己的青春。这周，我们通过文字和讨论，分享了各自的青春故事。'
 image: ''
 tags: ["文学", "学校", "分享"]
-category: '随笔'
+category: '文学社'
 draft: false
 lang: 'zh_CN'
 ---

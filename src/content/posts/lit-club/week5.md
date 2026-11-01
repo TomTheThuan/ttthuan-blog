@@ -4,7 +4,7 @@ published: 2025-12-15
 description: '自由是一个亘古不变的议题，无数哲学大家对此争论不休，无数政治家摆弄自由和秩序之间的天平，更多的是普通人对自己现状作出发问：“什么是自由？”'
 image: ''
 tags: ["文学", "学校", "分享"]
-category: '随笔'
+category: '文学社'
 draft: false
 lang: 'zh_CN'
 ---

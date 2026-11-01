@@ -4,7 +4,7 @@ published: 2025-12-15
 description: '在第一周到第四周的时间里，我没有做系统性的记录，所以只能将我们目前分享在群里的东西放在这边。'
 image: ''
 tags: ["文学", "学校", "分享"]
-category: '随笔'
+category: '文学社'
 draft: false
 lang: 'zh_CN'
 ---

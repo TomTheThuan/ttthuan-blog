@@ -4,7 +4,7 @@ published: 2026-01-24
 description: ''
 image: ''
 tags: ["文学", "学校", "分享"]
-category: '随笔'
+category: '文学社'
 draft: false
 lang: 'zh_CN'
 ---
